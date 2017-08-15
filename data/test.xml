@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sysptcl:Result xmlns:sysptcl=" http://219.141.187.20/DRMGC/systemprotocol " xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation=" http://219.141.187.20/DRMGC/systemprotocol Result2013.1.17.xsd">
+	<DRMI>078775439000000001001Q</DRMI>
+	<Status>0</Status>
+	<Signature>
+	<SignedInfo>
+	         <SignatureMethod Algorithm="ECDSA-256"/>
+             <Reference>
+                 <DigestMethod Algorithm="SHA-256"/>
+                 <DigestValue>bxcqr+Um/5/NvmYKiHDLaErK0fk=</DigestValue>
+             </Reference>
+	     </SignedInfo>
+	     <SignatureValue>bPpYrf0uNP8W2XVVIQNc3OQt2Wn90M/0uJ0dDZTNRR0NxBBBX36wSXt7NfI5Fmh4ru44Wk34EGI7mqMAE5O0
+/wtIlFRJt3zAvA6k3nhgcYj6tn/9kZwwxh1RkFTfTX9xdQ6Xn+P6m+YBm1YEEcTWkJd7XcxdyDEns2kYOhONx1U=>
+	     </SignatureValue>
+         <KeyInfo>
+             <X509Data>hxqikjCCSQdwHGZPAAEwCgXSoPQszjS4gqIwLzELMAkGA1UEQgBCQ05xEDHjklNVBAoXY0ZPVU5DRVIxscAMBCFGBAsTBUFQQUJJMCAXDTA0MDYxNDAwMDAwMFoYDzk5OTkxMjMxMjM1OTU5WjBoMQswCQYDVQQGEwJDTjEWMBQGA1UEChMNRm91bmRlciBHcm91cDEpMCcGA1UECxMgRm91bmRlciBBcGFiaSBUZWNobm9sb2d5IExpbWl0ZWQxFjAUBgNVBAMTDVJpZ2h0cyBDZW50ZXIwVjAQBgcqhkjOPQIBBgUrgQQACgNCAATgTxhejv+kPT7x/4for9yjeHA6OWOEzyrOXUCxwTrlGwaYVZGYfD9tvXU/UsiB12oGWgS6kw5pyuoYNa3fZ+xwMAoGCCqGSM49BAMCA0kAMEYCIQDaHEOeQPk3YGcK4cXk86dx3VIikql3v65ZS2ufdnGEIwIhAOf8Lo0yHG24Zvz+fI/kNBfI4IA8PrVi9CopPlsjdyjs
+             </X509Data>
+         </KeyInfo>
+	 </Signature>
+</sysptcl:Result>

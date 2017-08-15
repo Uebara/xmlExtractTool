@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="192.0" prefWidth="366.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="meiko.application.view.caseSettingController">
+   <children>
+      <TextField fx:id="keywords" layoutX="119.0" layoutY="27.0" prefHeight="23.0" prefWidth="224.0" AnchorPane.topAnchor="27.0" />
+      <TextField fx:id="Tags" layoutX="119.0" layoutY="72.0" prefHeight="23.0" prefWidth="224.0" AnchorPane.topAnchor="72.0" />
+      <CheckBox fx:id="isAdapt" layoutX="119.0" layoutY="113.0" mnemonicParsing="false" text="适用于整本书" />
+      <Label layoutX="24.0" layoutY="27.0" text="抽取规则关键字" AnchorPane.topAnchor="27.0" />
+      <Label layoutX="60.0" layoutY="72.0" text="对应标签" AnchorPane.topAnchor="72.0" />
+      <Button layoutX="119.0" layoutY="152.0" mnemonicParsing="false" onAction="#handleConfirm" text="确定" />
+      <Button layoutX="211.0" layoutY="152.0" mnemonicParsing="false" onAction="#handleCancel" text="取消" />
+   </children>
+</AnchorPane>

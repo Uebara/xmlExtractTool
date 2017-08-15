@@ -1,0 +1,3720 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<book xmlns="http://docbook.org/ns/docbook" version="5.0">
+  <title>变压器类设备典型缺陷及故障分析</title>
+  <info>
+    <booktype>3</booktype>
+    <bookId>EPP_02001233</bookId>
+    <classification>TM407</classification>
+    <language>zh-Hans</language>
+    <authorgroup>
+      <author role="编">
+        <orgname>广东电网有限责任公司东莞供电局</orgname>
+      </author>
+    </authorgroup>
+    <biblioid>978-7-5123-6913-9</biblioid>
+    <keywordset role="zh-Hans">
+      <keyword>变压器故障</keyword>
+      <keyword>故障诊断</keyword>
+    </keywordset>
+    <legalnotice>版权所有·侵权必究</legalnotice>
+    <pubdate>2015-02</pubdate>
+    <publisher>
+      <publishername>中国电力出版社</publishername>
+      <address>北京</address>
+    </publisher>
+    <abstract role="zh-Hans">
+      <para>本书共分三部分，主要内容包括110kV及以上主变压器类设备典型缺陷、110kV及以上互感器类设备典型缺陷和其他类型设备典型缺陷。</para>
+      <para>本书主要作为变电站检修人员进行故障和缺陷处理的指导用书，也可作为变电检修专业人员的学习参考书。</para>
+    </abstract>
+    <responsbility>
+      <originaltreserved>中国</originaltreserved>
+    </responsbility>
+    <other>
+      <Format>710×980 1/16</Format>
+      <CharCount>103</CharCount>
+      <Sheets>8</Sheets>
+      <Printing>0001—2000册</Printing>
+      <MaxPageNO>117</MaxPageNO>
+      <PdfTotalCount>124</PdfTotalCount>
+      <BindingFormat>平</BindingFormat>
+      <Price>42.00</Price>
+    </other>
+    <FirstIssueDate>2015-02</FirstIssueDate>
+    <PrintNUM>1；1</PrintNUM>
+  </info>
+  <attachment type="source" fileref="source/EPP_02001233_pb.rar" filetype="rar">
+    <title>排版文件</title>
+    <filesize>25.19698</filesize>
+  </attachment>
+  <attachment type="高精度pdf" fileref="pdf/EPP_02001233_H.pdf" filetype="pdf">
+    <title>高精度PDF文件</title>
+    <filesize>27.43191</filesize>
+  </attachment>
+  <attachment type="低精度pdf" fileref="pdf/EPP_02001233_L.pdf" filetype="pdf">
+    <title>低精度PDF文件</title>
+    <filesize>25.32066</filesize>
+  </attachment>
+  <attachment type="Cover" fileref="Cover/EPP_02001233.jpg" filetype="jpg">
+    <title>封面</title>
+    <filesize>0.08615398</filesize>
+  </attachment>
+  <toc role="zh-Hans">
+    <title>目录</title>
+    <tocdiv pagenum="4" vpagenum="0">
+      <title>编委会</title>
+    </tocdiv>
+    <tocdiv pagenum="5" vpagenum="0">
+      <title>前言</title>
+    </tocdiv>
+    <tocdiv pagenum="8" vpagenum="1">
+      <title>第1部分 110kV及以上主变压器类设备典型缺陷</title>
+      <tocdiv pagenum="10" vpagenum="3">
+        <title>1 500kV某变电站1号主变压器B相油化验异常情况</title>
+      </tocdiv>
+      <tocdiv pagenum="18" vpagenum="11">
+        <title>2 500kV某变电站4号主变压器500kV侧C相套管闪络分析</title>
+      </tocdiv>
+      <tocdiv pagenum="24" vpagenum="17">
+        <title>3 500kV某变电站主变压器套管介损明显增长情况分析</title>
+      </tocdiv>
+      <tocdiv pagenum="33" vpagenum="26">
+        <title>4 220kV某变电站2号主变压器故障分析</title>
+      </tocdiv>
+      <tocdiv pagenum="39" vpagenum="32">
+        <title>5 110kV某变电站主变压器验收分析</title>
+      </tocdiv>
+      <tocdiv pagenum="48" vpagenum="41">
+        <title>6 110kV某变电站2号主变压器出厂分析</title>
+      </tocdiv>
+      <tocdiv pagenum="53" vpagenum="46">
+        <title>7 110kV某变电站2号主变压器本体乙炔超标分析</title>
+      </tocdiv>
+      <tocdiv pagenum="60" vpagenum="53">
+        <title>8 110kV某变电站2号主变压器110kV侧中性点套管绝缘不合格缺陷分析</title>
+      </tocdiv>
+      <tocdiv pagenum="68" vpagenum="61">
+        <title>9 110kV某变电站2号主变压器散热器严重漏油分析</title>
+      </tocdiv>
+      <tocdiv pagenum="71" vpagenum="64">
+        <title>10 110kV某变电站1号主变压器绕组直流电阻不平衡分析</title>
+      </tocdiv>
+    </tocdiv>
+    <tocdiv pagenum="80" vpagenum="73">
+      <title>第2部分 110kV及以上互感器类设备典型缺陷</title>
+      <tocdiv pagenum="82" vpagenum="75">
+        <title>1 220kV某变电站110kV进中甲线123电流互感器A相气压低缺陷分析</title>
+      </tocdiv>
+      <tocdiv pagenum="86" vpagenum="79">
+        <title>2 220kV某变电站222电压互感器A相介质损耗因数超编分析</title>
+      </tocdiv>
+      <tocdiv pagenum="89" vpagenum="82">
+        <title>3 110KV某变电站110kV西广线线路A相电压抽取装置缺陷分析</title>
+      </tocdiv>
+    </tocdiv>
+    <tocdiv pagenum="96" vpagenum="89">
+      <title>第3部分 其他类型设备典型缺陷</title>
+      <tocdiv pagenum="98" vpagenum="91">
+        <title>1 220kV某变电站10kV52乙电压互感器接地故障抢修情况</title>
+      </tocdiv>
+      <tocdiv pagenum="102" vpagenum="95">
+        <title>2 220kV某变电站7号电容器528断路器缺陷分析</title>
+      </tocdiv>
+      <tocdiv pagenum="106" vpagenum="99">
+        <title>3 110kV某变电站2号主变压器10kV侧5022乙隔离开关及502乙断路器故障及处理情况</title>
+      </tocdiv>
+      <tocdiv pagenum="109" vpagenum="102">
+        <title>4 110kV某变电站4号电容器527断路器爆炸故障处理及分析</title>
+      </tocdiv>
+      <tocdiv pagenum="113" vpagenum="106">
+        <title>5 110kV某变电站3号电容器526断路器控制回路断线分析</title>
+      </tocdiv>
+      <tocdiv pagenum="116" vpagenum="109">
+        <title>6 110kV某变电站503断路器发热分析</title>
+      </tocdiv>
+      <tocdiv pagenum="121" vpagenum="114">
+        <title>7 110kV某变电站1号主变压器10KV侧母线桥发热缺陷分析</title>
+      </tocdiv>
+    </tocdiv>
+  </toc>
+  <formerAidText type="编委会">
+    <title>编委会</title>
+    <para>主编 李春华</para>
+    <para>副主编 王文洪 张言权 何满棠 曾宪文</para>
+    <para>审核 吴轲 叶伟标 李志钿 王文献 袁镜江 吴树平</para>
+    <para>整理 邓瑞鹏 罗红东 林炜 朱遂松 张建伟 樊健斌 杜启业 陈浩良 杨婧</para>
+    <para>编写人员（按姓氏拼音排列）蔡振文 蔡向荣 陈志彬 陈浩良 陈泽扬 陈嘉慧 邓瑞鹏 杜启业 邓景山 樊健斌 古志坚 何满棠 黄志刚 黄忠和 黄景生 李志钿 罗红东 梁伟民 林炜 李祖成 罗政钊 李毅翔 刘润权 李健聪 麦锐洪 聂玉英 邱林攀 邵逸镇 吴轲 王文献 吴树平 王金虎 吴如祥 魏凌枫 温光宏 王志锋 王爱娟 王沛林 谢智军 谢昱良 袁镜江 叶伟标 余志超 杨婧 曾宪文 朱遂松 钟国华 张建伟 钟剑华 赵京京</para>
+  </formerAidText>
+  <formerAidText type="前言">
+    <title>前言</title>
+    <para>设备事故及缺陷的处理经验是电力生产中积累的宝贵财富，以前车之鉴，兴后事之师，举一反三，方能有备无患。本书主要收集广东电网有限责任公司东莞供电局变电管理二所近年来电力一次设备运行、验收、维护、检修中出现的各类故障及典型缺陷，并从问题的表象、处理情况、原因分析、防范措施等方面详细阐述，务求把电力一次设备各类故障及典型缺陷真实地、多维地展现出来，分享设备缺陷分析及处理经验，为设备的管理工作提供参考，以提升设备管理水平。</para>
+    <para>本书集东莞供电局变电管理二所一线检修人员的智慧，由各技术人员分头编写，语言朴素、素材真实、图文并茂，经检修专业各专家指导、专业管理人员审核，是变电检修专业近几年的工作经验所在。</para>
+    <para>由于编写时间所限，书中难免存在疏漏之处，恳请各位专家和读者批评指正。</para>
+    <para>编者</para>
+    <para>2014.10</para>
+  </formerAidText>
+  <part>
+    <title>第1部分 110kV及以上主变压器类设备典型缺陷</title>
+    <chapter>
+      <title>1 500kV某变电站1号主变压器B相油化验异常情况</title>
+      <info>
+        <PdfNum>10-17</PdfNum>
+        <ebookNum>3-10</ebookNum>
+      </info>
+      <section>
+        <title>1 设备参数</title>
+        <info>
+          <PdfNum>10-10</PdfNum>
+          <ebookNum>3-3</ebookNum>
+        </info>
+        <para>（1）设备名称：1号主变压器B相。</para>
+        <para>（2）设备型号：SUB。</para>
+        <para>（3）出厂日期：2004年。</para>
+        <para>（4）额定容量：334/334/100MVA。</para>
+        <para>（5）额定电压比：<mediaobject><imageobject><imagedata role="3" fileref="Image/88c6ea76-63ca-4a0a-aca5-a9cf23bc8bfe.jpg"><ebookNum>3</ebookNum><PdfNum>10</PdfNum></imagedata></imageobject></mediaobject>。</para>
+        <para>（6）额定电流：1102/2391/2899A。</para>
+        <para>（7）调压方式：无载调压。</para>
+      </section>
+      <section>
+        <title>2 设备故障情况</title>
+        <info>
+          <PdfNum>10-11</PdfNum>
+          <ebookNum>3-4</ebookNum>
+        </info>
+        <para>2013年8月8 日，温度28℃，湿度54%，晴。化学专业工作人员在500kV某变电站1 号主变压器 B 相预防性试验中，发现油色谱中的乙炔（0.39μL/L）、甲烷、乙烯及总烃含量与5月24日预防性试验的试验数据相比有较大的增长，总烃相对产气速率高达79.4%（规程注意值为10%），具体试验数据见表1-1。该变电站1号主变压器近期负荷较高，在6月21日16时最高负荷达902MW。</para>
+        <para>8月8日，该变电站220kV系统的运行方式为220kV 母线“1+3”分列运行，即该变电站220kV Ⅰ母线挂1号主变压器、莞垅甲乙线、莞大甲线运行，Ⅱ母线挂2号主变压器、莞北甲乙线、莞和甲乙线、莞大乙线运行，V母线挂3号主变压器、莞新甲线、莞景甲线、莞水甲线（断路器热备用，线路由对侧充电）、莞彭甲线运行，Ⅵ母线挂4号主变压器、莞新乙线、莞景乙线、莞水乙线（断路器热备用，线路由对侧充电）、莞彭乙线运行；母联2056断路器、分段2026断路器运行，母联2012断路器、分段2015断路器热备用（需要注意该变电站220kV Ⅰ母线仍通过莞大甲乙线与Ⅱ、V、Ⅵ母线合环运行）。该变电站主变压器接线图如图1-1所示。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="2" fileref="Image/031c04a7-dcfe-485b-b6a2-b77b20d6d58a.jpg">
+                <title>表1-1 1号主变压器B相油色谱分析数据 μL/L</title>
+                <picdesc>
+                  <para>注 仪表为中分2000B气相色谱仪。</para>
+                </picdesc>
+                <tabledesc>测试时间各组分含量氢（H2）甲烷（CH4）乙烷（C2H6）乙烯（C2H4）乙炔（C2H2）一氧化碳（CO）二氧化碳（CO2）总烃转化为混合浓度含量2013-4-267.8713.757.80.640212193522.19422013-5-246.3613.317.170.380191168420.86372013-8-8上午10.9433.1011.9036.760.37194215782.13442013-8-8下午12.0933.9312.3437.220.39203218083.88472013-8-819∶4013.0533.9111.8836.470.37175267282.6343</tabledesc>
+                <ebookNum>4</ebookNum>
+                <PdfNum>11</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/b7a48c90-d9f5-4ae6-a1e8-6dee7fecd89b.jpg">
+                <title>图1-1 变电站主变压器接线图</title>
+                <ebookNum>4</ebookNum>
+                <PdfNum>11</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+      </section>
+      <section>
+        <title>3 故障分析</title>
+        <info>
+          <PdfNum>11-15</PdfNum>
+          <ebookNum>4-8</ebookNum>
+        </info>
+        <section>
+          <title>3.1 初步原因分析</title>
+          <info>
+            <PdfNum>11-12</PdfNum>
+            <ebookNum>4-5</ebookNum>
+          </info>
+          <para>针对该变电站1号主变压器B相油化验异常情况，厂家给出的初步分析意见认为，1号主变压器B相中含有乙炔应该是由金属性发热引起的。结合试验人员提供的试验数据以及厂家给出的分析意见，初步推测变压器油中出现乙炔的原因可能有：</para>
+          <para>（1）1号主变压器B相内部存在尖端闪络放电，产生乙炔。</para>
+          <para>（2）变压器油中的金属性杂质，在强电磁场的作用下发生放电，产生乙炔。</para>
+          <para>（3）1号主变压器B相的引线接头、无载断路器抽头等部位存在发热情况，产生乙炔。</para>
+          <para>（4）1号主变压器B相内部存在打火性放电。这种放电现象一般可能发生在拉紧螺母、螺杆等存在电位差的部分。</para>
+          <para>（5）在负荷较重或相间负荷电压差过大等磁饱和的情况下，铁芯发热，产生乙炔。</para>
+          <para>（6）潜油泵工作时轴承相互摩擦、涡轮运转产生金属性发热，产生乙炔。</para>
+        </section>
+        <section>
+          <title>3.2 停电检查试验及结果分析</title>
+          <info>
+            <PdfNum>12-15</PdfNum>
+            <ebookNum>5-8</ebookNum>
+          </info>
+          <section>
+            <title>3.2.1 油色谱数据跟踪</title>
+            <info>
+              <PdfNum>12-12</PdfNum>
+              <ebookNum>5-5</ebookNum>
+            </info>
+            <para>在2013年5月24日前，1号主变压器B相油色谱试验数据一直正常，在本次预防性试验发现异常后，对1号主变压器本体乙炔含量进行定期跟踪，密切关注油中溶解气体的变化趋势，监测数据见表1-2。</para>
+            <para>
+              <mediaobject>
+                <imageobject>
+                  <imagedata role="2" fileref="Image/74206181-cd93-4988-9f4c-4d0bd5c62ac0.jpg">
+                    <title>表1-2 1号主变压器B相油色谱定期监测数据 μL/L</title>
+                    <picdesc>
+                      <para>注 仪表为中分2000B气相色谱仪。</para>
+                    </picdesc>
+                    <tabledesc>测试时间组分含量氢（H2）甲烷（CH4）乙烷（C2H6）乙烯（C2H4）乙炔（C2H2）一氧化碳（CO）二氧化碳（CO2）总烃2013-8-8上午10.9433.1011.9036.760.37194215782.132013-8-8下午12.0933.9312.3437.220.39203218083.882013-8-819∶4013.0533.9111.8836.470.37175267282.632013-8-1511.4335.112.2837.920.34209225885.642013-8-2211.1936.2212.6740.020.30216235189.212013-8-2910.1735.2312.4537.560.27206222685.512013-9-510.4637.2212.6138.230.27220225188.33</tabledesc>
+                    <ebookNum>5</ebookNum>
+                    <PdfNum>12</PdfNum>
+                  </imagedata>
+                </imageobject>
+              </mediaobject>
+            </para>
+          </section>
+          <section>
+            <title>3.2.2 停电检查试验</title>
+            <info>
+              <PdfNum>13-14</PdfNum>
+              <ebookNum>6-7</ebookNum>
+            </info>
+            <para>为确保设备安全运行，控制电网运行风险，9月7～8日，成立了40多人的现场检查试验工作组，按照相关试验方案，有条不紊地开展1号主变压器各项检查试验工作，工作现场图片如图1-2～图1-4所示。</para>
+            <para>1号主变压器停电检查试验项目包括绕组直流电阻测试、绕组绝缘电阻及吸收比测试、绕组介质损耗（简称介损）及电容量测试、套管介损及电容量测试、铁芯及夹件绝缘电阻测试、绕组变形试验、B相绝缘油色谱试验、B相长时感应电压（带局部放电测量）试验、潜油泵启动电流测试等。经过与历年试验结果比对分析，常规电气试验数据发展趋势平稳，无明显变化，符合相关试验规程要求；B相绝缘油色谱试验与跟踪测试结果对比，油中溶解气体含量无明显增长，乙炔含量稳定，趋势平稳，如图1-5所示；B相长时感应电压（带局部放电测量）试验过程无异常，试验结果合格；潜油泵启动电流测试结果正常，排除了潜油泵启动发热产生乙炔的可能。综合分析表明：该变电站1号主变压器三相本体各项检查试验结果正常，未发现异常情况。</para>
+            <para>
+              <mediaobject>
+                <imageobject>
+                  <imagedata role="0" fileref="Image/c24bff2f-a25a-40e0-b9aa-fc46ea403f62.jpg">
+                    <title>图1-2 试验工作开始前安全技术交底</title>
+                    <ebookNum>6</ebookNum>
+                    <PdfNum>13</PdfNum>
+                  </imagedata>
+                </imageobject>
+              </mediaobject>
+            </para>
+            <para>
+              <mediaobject>
+                <imageobject>
+                  <imagedata role="0" fileref="Image/ab7cf36b-402e-4bd0-a93e-534c3a1c75f3.jpg">
+                    <title>图1-3 现场安全管控工作</title>
+                    <ebookNum>6</ebookNum>
+                    <PdfNum>13</PdfNum>
+                  </imagedata>
+                </imageobject>
+              </mediaobject>
+            </para>
+            <para>
+              <mediaobject>
+                <imageobject>
+                  <imagedata role="0" fileref="Image/a4aaa40c-e7b9-464d-913f-a2a7ec0da378.jpg">
+                    <title>图1-4 感应耐压及局部放电试验现场</title>
+                    <ebookNum>7</ebookNum>
+                    <PdfNum>14</PdfNum>
+                  </imagedata>
+                </imageobject>
+              </mediaobject>
+            </para>
+            <para>
+              <mediaobject>
+                <imageobject>
+                  <imagedata role="0" fileref="Image/2667a2d4-87db-47fd-ab81-935396013872.jpg">
+                    <title>图1-5 变电站1号主变压器B相油中气体含量变化趋势图</title>
+                    <ebookNum>7</ebookNum>
+                    <PdfNum>14</PdfNum>
+                  </imagedata>
+                </imageobject>
+              </mediaobject>
+            </para>
+          </section>
+          <section>
+            <title>3.2.3 试验结果分析</title>
+            <info>
+              <PdfNum>15-15</PdfNum>
+              <ebookNum>8-8</ebookNum>
+            </info>
+            <para>针对8月8日～9月6日定期跟踪过程中在线监测的数据以及9月7日的停电试验数据，厂方给出了分析意见：一般来说，乙炔是由电弧放电或者金属件过热产生的。如果是电弧放电，则产生乙炔的同时氢气的含量会同步增加。但从色谱分析的数据来看，氢气的含量较低且稳定，因此可以判断电弧放电的可能性较低。另外，出现了少量的乙烯，从这一点来看可能出现金属过热现象。但二氧化碳与一氧化碳的含量比超过3，这又与金属件过热相矛盾。综上所述，可以判断为偶然性的暂态因素导致乙炔的产生。</para>
+            <para>检修技术人员分析了1号主变压器油色谱试验、停电试验情况，提出了两种可能产生乙炔的原因，分别是：</para>
+            <para>（1）变压器油中的金属性杂质，在强电磁场的作用下发生放电，产生乙炔。</para>
+            <para>（2）在潜油泵工作时，轴承相互摩擦、涡轮运转产生金属性发热，产生乙炔。</para>
+          </section>
+        </section>
+      </section>
+      <section>
+        <title>4 同类型设备情况</title>
+        <info>
+          <PdfNum>15-16</PdfNum>
+          <ebookNum>8-9</ebookNum>
+        </info>
+        <para>500kVA变电站2号主变压器与该变电站1号主变压器型号相同。2009年12月10日，试验人员对500kVA变电站2号主变压器进行预防性试验时，发现2号主变压器A相中含有乙炔（0.26μL/L），之后对2号主变压器A相进行在线监测并定期进行绝缘油色谱试验时，发现乙炔含量有下降趋势，至2011年12月5日后油中没有检出乙炔，具体数据见表1-3。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="2" fileref="Image/283e8144-1477-4928-acba-4e11826f065f.jpg">
+                <title>表1-3 2号主变压器A相油色谱分析数据 μL/L</title>
+                <tabledesc>测试时间组分含量氢（H2）甲烷（CH4）乙烷（C2H6）乙烯（C2H4）乙炔（C2H2）一氧化碳（CO）二氧化碳（CO2）总烃2009-12-1011.5328.615.6720.390.26148222864.922010-1-58.5327.7514.8219.080.21135219561.862010-3-167.4826.4713.3416.670.17125204656.65</tabledesc>
+                <ebookNum>8</ebookNum>
+                <PdfNum>15</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="2" fileref="Image/ce1abeae-2a1b-4b09-bdc3-f8fb09d8a0ac.jpg">
+                <title>续表</title>
+                <tabledesc>测试时间组分含量氢（H2）甲烷（CH4）乙烷（C2H6）乙烯（C2H4）乙炔（C2H2）一氧化碳（CO）二氧化碳（CO2）总烃2010-6-75.1726.0513.6613.210.12143246853.042010-7-204.8625.8213.1516.800.11295267955.882010-8-184.8129.2115.2618.190263271762.662010-9-214.1627.114.2716.420228250157.792010-12-283.4828.9215.0116.480.16253240860.572011-3-142.8432.2717.6620.260.15295273770.342011-6-131.9729.1315.0516.910.10261257561.192011-12-51.3230.2817.4817.960265272965.722012-3-140.7830.2717.7617.900267267365.932013-1-151.4032.2118.0416.040244269966.292013-3-121.4741.7823.4720.90412369686.152013-6-190.7131.3717.0415.910269332264.32</tabledesc>
+                <ebookNum>9</ebookNum>
+                <PdfNum>16</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+      </section>
+      <section>
+        <title>5 防范措施</title>
+        <info>
+          <PdfNum>16-17</PdfNum>
+          <ebookNum>9-10</ebookNum>
+        </info>
+        <para>（1）1 号主变压器可以重新投入运行，建议尽可能将负荷控制在850MVA以下。</para>
+        <para>（2）继续做好1号主变压器的状态监测，安排专人每天对油色谱在线监测数据进行分析；加强日常巡视、红外测温。具体工作要求为：</para>
+        <para>1）在9月15日前，每周开展两次油色谱离线测试工作，每天进行一次红外测温成像、铁芯接地电流测试、油色谱在线监测、负荷变化及主变压器温度监测等工作，并以每日一报的形式汇总在线监测数据，上报设备部。</para>
+        <para>2）在9月16～30日期间，每周开展一次红外测温成像、铁芯接地电流测试、油色谱离线测试，每天进行油色谱在线数据、负荷变化及主变压器温度监测等工作，并以每周一报的形式汇总在线监测数据，上报设备部。</para>
+        <para>3）在9月30日至主变压器更换前，每半个月开展一次红外测温成像、铁芯接地电流测试、油色谱离线测试，每天进行油色谱在线数据、负荷变化及主变压器温度监测等工作，并以半月报的形式汇总在线监测数据，上报设备部。设备部根据设备运行情况，可对在线监测周期进行调整。</para>
+        <para>4）技术专业人员对每期在线监测数据进行分析，评估1号主变压器B相运行状态。</para>
+        <para>（3）在油色谱分析等监测数据没有明显变化的情况下，1号主变压器可以继续运行。待变电站原1号主变压器B相修复后，安排停电进行更换，初步确定2014年6月30日前完成。该变电站1号主变压器B相修复后作为备用变压器。</para>
+        <para>（4）若监测数据发现明显变化，需考虑尽快将该变电站1号主变压器更换为备用主变压器。</para>
+      </section>
+    </chapter>
+    <chapter>
+      <title>2 500kV某变电站4号主变压器500kV侧C相套管闪络分析</title>
+      <info>
+        <PdfNum>18-23</PdfNum>
+        <ebookNum>11-16</ebookNum>
+      </info>
+      <section>
+        <title>1 设备参数</title>
+        <info>
+          <PdfNum>18-18</PdfNum>
+          <ebookNum>11-11</ebookNum>
+        </info>
+        <para>（1）设备名称：4号主变压器500kV侧C相套管。</para>
+        <para>（2）设备类别：主变压器套管。</para>
+        <para>（3）设备型号：HEO-10137。</para>
+        <para>（4）出厂日期：2004年1月。</para>
+        <para>（5）投运日期：2005年3月。</para>
+      </section>
+      <section>
+        <title>2 设备故障情况</title>
+        <info>
+          <PdfNum>18-19</PdfNum>
+          <ebookNum>11-12</ebookNum>
+        </info>
+        <para>2008年5月29日9时34分，500kV某变电站4号主变压器C相500kV侧套管在暴雨天气下发生闪络，事故造成4号主变压器差动保护动作跳闸。变压器高压侧避雷器计数器未动作，由此排除雷电造成事故的可能性。检修和试验人员对4号主变压器C相的故障查勘和试验检查，确定本体无故障。通过以上两点，可以判断本次事故只存在外部短路，即变压器500kV侧套管外部发生闪络。</para>
+        <para>事故造成套管多处烧伤，将军帽及套管电流互感器升高座有明显的烧伤痕迹，同时发现套管部分瓷裙外沿有明显的电弧烧痕，具体烧伤情况如下：</para>
+        <para>（1）变压器500kV侧套管头对套管底座放电，套管头金属（铝合金）存在多处放电烧伤熔化痕迹，其中较为严重、明显的有两处（一处孔深5mm，孔径45mm；另一处孔深1mm，孔径25mm）。套管底座法兰金属（铝合金）有一处放电烧伤熔化痕迹（宽50mm，高20mm，深2～3mm），如图2-1所示。</para>
+        <para>（2）变压器500kV侧套管上部共有16裙存在放电痕迹，釉面颜色变黄，由上向下数第16裙最宽200mm左右，并且套管釉面变黄部位有部分釉面脱落；套管下部有 5 裙存在放电痕迹，釉面颜色变黄，最下裙最宽200mm左右，并且套管釉面变黄部位有部分釉面脱落，如图2-2所示。</para>
+        <para>（3）变压器500kV侧套管底部法兰固定螺栓垫片与法兰接触位置有过电流烧伤痕迹，如图2-3所示。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/499018eb-4836-44bb-b396-94a274e0d9e3.jpg">
+                <title>图2-1 套管底座法兰金属放电烧伤痕迹</title>
+                <ebookNum>12</ebookNum>
+                <PdfNum>19</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/1c299b5b-58c1-4ad1-a719-4cb217302b9e.jpg">
+                <title>图2-2 将军帽烧伤及套管釉面变黄且有脱落</title>
+                <ebookNum>12</ebookNum>
+                <PdfNum>19</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/c5735508-c39e-46ed-821d-03639c3e746c.jpg">
+                <title>图2-3 固定螺栓垫片与法兰接触位置有过电流烧伤痕迹</title>
+                <ebookNum>12</ebookNum>
+                <PdfNum>19</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>4号主变压器外观检查情况如下：</para>
+        <para>（1）C 相500kV 侧套管未发现有裂纹及渗漏油。</para>
+        <para>（2）A、B相三侧套管检查正常。</para>
+        <para>（3）主变压器本体瓦斯及防爆阀检查正常。</para>
+        <para>（4）主变压器外观检查正常。</para>
+      </section>
+      <section>
+        <title>3 故障处理</title>
+        <info>
+          <PdfNum>19-21</PdfNum>
+          <ebookNum>12-14</ebookNum>
+        </info>
+        <para>经过对4号主变压器的故障查勘和试验检查，工作人员确定本次事故并没有对主变压器本体造成损害，4号主变压器可以继续投入运行。为了让4号主变压器尽快投运，减少停电带来的经济损失，检修人员迅速对变压器500kV侧套管的烧伤处作出处理，清除烧伤处的氧化层，并先后涂上防锈漆及银漆，如图2-4所示。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/7adba5eb-fd16-49b5-8284-72ecfad80af7.jpg">
+                <title>图2-4 套管烧伤处理情况</title>
+                <ebookNum>13</ebookNum>
+                <PdfNum>20</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>为防止再发生同类事故，相关人员会同厂方针对这类事故进行研究分析及调研学习后，认为对变压器500kV侧套管加装辅助伞裙是防止雨污闪发生的有效措施。</para>
+        <para>按照厂家提供的套管结构图，工作人员确定套管上加装8片辅助伞裙，共7种规格，辅助伞裙采用的材质是硅橡胶，并使用硅酮胶作为黏结胶。8片辅助伞裙分别加装在从套管顶端下数第3、10、17、24、31、38、45、52个大伞伞裙的上表面，效果如图2-5所示。</para>
+        <para>将黏结胶分别涂在硅橡胶伞裙和瓷伞裙需要黏结的部位及填充伞裙的两个开口接缝、伞裙与套管根部之间的空隙，如图2-6所示。</para>
+        <para>黏结完成1h后，对每片硅橡胶伞裙的黏结部位进行40kV/min的工频耐压试验。试验时，在黏结辅助伞裙的上下表面各用细铁丝或铜线紧绕一圈，上端加压，下端接地。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/2f7ddff2-7a56-4ebd-b168-8bb40ffe300a.jpg">
+                <title>图2-5 加装伞裙的套管</title>
+                <ebookNum>13</ebookNum>
+                <PdfNum>20</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>经工频耐压试验合格后，主变压器随即投入运行。运行人员建立伞裙档案，做好安装记录、检测记录、维修记录等。运行后，加强每周巡视，注意观察伞裙的情况，做好巡视记录。如果发现伞裙有开裂、搭接口开胶、伞裙脱落、黏结位置爬电等现象时，需上报并及时做好修复。施工后每三年结合预防性试验定期检查，检查黏结部位有无剥离、脱落、开裂、爬电等现象。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/86f82487-fbd5-4868-a84b-60a11fca42bc.jpg">
+                <title>图2-6 加装伞裙示意图</title>
+                <ebookNum>14</ebookNum>
+                <PdfNum>21</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+      </section>
+      <section>
+        <title>4 故障分析</title>
+        <info>
+          <PdfNum>21-22</PdfNum>
+          <ebookNum>14-15</ebookNum>
+        </info>
+        <para>下面从4号主变压器C相500kV侧套管的积污、结构和安装等方面分析雨闪的形成。</para>
+        <para>（1）该地区6～9月大雨、暴雨频发，基本处于雨季，是套管绝缘子积污最轻的季节。而本次事故发生在5月29日，处于雨季初期，因此套管绝缘子表面相对较为脏污。暴雨刚开始时，雨水冲刷变压器500kV 侧套管，套管均压罩间隙中和绝缘子表面上的污垢陆续被雨水带出，此时雨水中含有较多的悬浮微粒。雨水沿着伞裙外边缘淌下，形成污水帘或污水柱。虽然水帘或水柱不一定使相临两个伞裙“桥接”，但是在上伞裙下边缘到下伞裙上边缘之间形成多串并联的“污水帘+空气间隙”。当雨势变强时，套管表面受雨量增大，伞裙下边缘污水帘越长，空气间隙则越短。当空气间隙不能承受过高的电压时，间隙击穿。众多伞裙间空气间隙逐个击穿，发展成贯穿性导通，最终导致整个套管闪络。</para>
+        <para>相关部门曾对500kV 侧套管进行雨、污闪特性试验研究，结果表明：雨水电导率不是发生闪络事故的唯一原因，绝缘表面污层对雨闪起到重要作用。</para>
+        <para>（2）4号主变压器C相变压器500kV侧套管呈上细下粗塔状，伞裙较密，伞间距小，爬电比距为15 610mm。由于此套管伞裙间距对污水帘的断帘能力相对较弱，致使套管爬电比距减少，所以在暴雨时更容易造成伞裙间的“桥接”。虽然结构参数和技术条件满足相关导则的要求，但是该类套管在运行中接连发生雨闪（2007年5月18日，该500kV变电站2号主变压器B相500kV侧套管曾在暴雨下发生闪络），证明该类套管已不能满足变电站现使用环境条件的需求。</para>
+        <para>（3）主变压器500kV侧套管轴线与垂直方向的夹角为5°。倾斜安装的套管表面受雨面和受雨量均大于垂直安装的套管，并且使雨水集中于套管的向外倾斜侧，加大了伞裙间放电的可能性。而这次事故中，套管烧伤痕迹均处于向外倾斜侧，说明闪络放电发生在套管向外倾斜侧。</para>
+      </section>
+      <section>
+        <title>5 同类型设备情况</title>
+        <info>
+          <PdfNum>22-22</PdfNum>
+          <ebookNum>15-15</ebookNum>
+        </info>
+        <para>2007年5月18日16时27分，500kVA变电站2号主变压器B相500kV侧套管在暴雨下发生闪络，同样造成主变压器差动保护动作跳闸。由于该变压器套管运行中接连发生两起雨闪，证明该套管已不能满足变电站现使用环境条件的需求。经多个部门联合研究分析，确定对运行中的该类型套管加装防雨闪辅助伞裙。于2008年起，各个500kV变电站结合停电计划陆续对该类型套管开展加装防雨闪辅助伞裙的工作。</para>
+      </section>
+      <section>
+        <title>6 防范措施</title>
+        <info>
+          <PdfNum>22-23</PdfNum>
+          <ebookNum>15-16</ebookNum>
+        </info>
+        <section>
+          <title>6.1 加装防雨闪辅助伞裙</title>
+          <info>
+            <PdfNum>22-22</PdfNum>
+            <ebookNum>15-15</ebookNum>
+          </info>
+          <para>超高压变电设备的雨闪事故主要是由于雨水在套管表面形成连续或是接近连续的水柱、水帘，将伞裙表面的爬电距离缩短甚至短路造成的，因此阻断水柱是杜绝此类事故的最有效手段。</para>
+        </section>
+        <section>
+          <title>6.2 喷涂PRTV</title>
+          <info>
+            <PdfNum>22-22</PdfNum>
+            <ebookNum>15-15</ebookNum>
+          </info>
+          <para>设备外绝缘喷涂P RTV虽然无法阻断雨水，但可以提高套管表面的耐污闪强度，减小套管表面的泄漏电流。</para>
+        </section>
+        <section>
+          <title>6.3 安装角度</title>
+          <info>
+            <PdfNum>22-23</PdfNum>
+            <ebookNum>15-16</ebookNum>
+          </info>
+          <para>目前，500kV变电站变压器500kV侧套管的安装角度只有垂直和倾斜5°两种，而发生雨闪事故的主要是倾斜5°安装的套管。针对新的以及正在生产的变压器，其500kV侧套管安装的角度应调整至满足当地天气条件或改为垂直。</para>
+        </section>
+        <section>
+          <title>6.4 选型</title>
+          <info>
+            <PdfNum>23-23</PdfNum>
+            <ebookNum>16-16</ebookNum>
+          </info>
+          <para>（1）两裙伸出之差P<subscript>2</subscript>-P<subscript>1</subscript>不小于20mm；</para>
+          <para>（2）相邻裙间高S与裙伸出长度（P<subscript>2</subscript>）之比应大于0.9；</para>
+          <para>（3）相邻裙间高S不小于70mm。</para>
+          <para>选型时，套管结构参数必须满足以上条件，同时应逐步淘汰容易满足雨闪事故条件或曾经发生雨闪的套管类型，比如老式的上细下粗、伞间距较密的套管，不能盲目追求爬电比距。表2-1中，以另两款应用比较广泛且未发生过雨闪的500kV侧套管与本次故障的500kV侧套管的结构参数作对比，从数据上看，该厂家的套管的确略为逊色。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="2" fileref="Image/3e5a2992-e6f4-45cc-8636-942fe98a7172.jpg">
+                  <title>表2-1 变压器500kV侧套管结构参数对比</title>
+                  <tabledesc>参数该厂家厂家一厂家二爬电比距（mm）156101450015243两裙伸出之差P2-P1（mm）15、20、292920相邻裙间高S与裙伸出长度P2之比1、1.081.081.12相邻裙间高S（mm）65、707080</tabledesc>
+                  <ebookNum>16</ebookNum>
+                  <PdfNum>23</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+        </section>
+        <section>
+          <title>6.5 技术规范</title>
+          <info>
+            <PdfNum>23-23</PdfNum>
+            <ebookNum>16-16</ebookNum>
+          </info>
+          <para>根据气候环境，修正技术规范使其能满足当地的使用条件，对套管的伞裙结构、安装角度等提出明确要求。同时，修正后的标准不能低于相关技术规范的要求。</para>
+        </section>
+        <section>
+          <title>6.6 运行</title>
+          <info>
+            <PdfNum>23-23</PdfNum>
+            <ebookNum>16-16</ebookNum>
+          </info>
+          <para>每周巡视一次，注意观察伞裙的情况，如果发现伞裙有开裂、搭接口开胶、伞裙脱落、黏结位置爬电等现象时，应及时通知上级。</para>
+        </section>
+        <section>
+          <title>6.7 试验</title>
+          <info>
+            <PdfNum>23-23</PdfNum>
+            <ebookNum>16-16</ebookNum>
+          </info>
+          <para>加装防雨闪辅助伞裙后每三年进行一次耐压试验测试。</para>
+        </section>
+      </section>
+    </chapter>
+    <chapter>
+      <title>3 500kV某变电站主变压器套管介损明显增长情况分析</title>
+      <info>
+        <PdfNum>24-32</PdfNum>
+        <ebookNum>17-25</ebookNum>
+      </info>
+      <section>
+        <title>1 设备参数</title>
+        <info>
+          <PdfNum>24-24</PdfNum>
+          <ebookNum>17-17</ebookNum>
+        </info>
+        <para>（1）设备名称：2号、3号主变压器中性点套管及低压侧套管。</para>
+        <para>（2）设备型号：R-C680W-KB。</para>
+        <para>（3）出厂日期：2009年。</para>
+      </section>
+      <section>
+        <title>2 设备故障情况</title>
+        <info>
+          <PdfNum>24-28</PdfNum>
+          <ebookNum>17-21</ebookNum>
+        </info>
+        <para>2013年4月24日和5月2日，试验人员在对500kV某变电站2号、3号主变压器进行预防性试验时发现两台主变压器中性点和低压侧套管介损均明显增大，经过多次更换仪器、用酒精清洁套管表面、干燥等措施，排除人为、环境等外在因素影响，确认套管介损试验值偏大，具体试验数据见表3-1～表3-8、图3-1和图3-2。其中2号主变压器9支套管共有8支比2010年交接试验值增长超过30%（有5支套管介损超过0.4%），最大的为0.504%，介损值最大增量为72.5%；3号主变压器9支套管介损值均超过0.4%，比2010年交接试验值增长超过30%，最大的为0.613%，介损值最大增量为130.5%。虽未超出厂家注意值（0.7%）和规程要求值（1%）的范围，但存在明显的增大趋势。为进一步分析和积累经验，试验研究所还利用红外成像仪、高压介损电桥综合分析了套管tanδ与温度、电压的关系。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="2" fileref="Image/69711b14-c74b-4412-865f-b73db6af604a.jpg">
+                <title>表3-1 2号主变压器中性点、低压侧套管试验数据</title>
+                <tabledesc>日期2010年3月11日交接2013年4月24日预试位置铭牌电容（pF）套管电容Cx（pF）电容差（%）tanδ（%）末屏绝缘电阻（MΩ）铭牌电容（pF）套管电容Cx（pF）电容差（%）tanδ（%）末屏绝缘电阻（MΩ）Δtanδ%AO390389.3-0.1790.29410000390388.6-0.360.5044000071.4</tabledesc>
+                <ebookNum>17</ebookNum>
+                <PdfNum>24</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="2" fileref="Image/1a1e0ea2-08e8-4eb7-8330-f3b3b205548c.jpg">
+                <title>续表</title>
+                <tabledesc>日期2010年3月11日交接2013年4月24日预试位置铭牌电容（pF）套管电容Cx（pF）电容差（%）tanδ（%）末屏绝缘电阻（MΩ）铭牌电容（pF）套管电容Cx（pF）电容差（%）tanδ（%）末屏绝缘电阻（MΩ）Δtanδ%BO390389.6-0.1030.28310000390388.3-0.440.4595000062.2CO391391.20.0510.28010000391389.8-0.310.4834000072.5a948946.6-0.1480.25910000948945.1-0.310.3455000033.2x955953.2-0.1880.29010000955952.4-0.270.3995000037.6b949947.4-0.1690.28410000949946.0-0.320.4655000063.7y948946.6-0.1470.28110000948945.3-0.280.3635000029.2c946945.0-0.1060.27810000946944.3-0.180.4085000046.8z948946.7-0.1370.27810000948945.8-0.230.3875000039.2备注介损电桥AI-6000电动绝缘电阻表DM-07-7温度：18℃湿度：50%油温：16℃介损厂家注意值0.7%，Q/CSG114002—2011《电力设备预防性试验规程》要求1%介损电桥AI-6000（L）电动绝缘电阻表3121温度：30℃湿度：75%油温：31℃介损厂家注意值0.7%，Q/CSG114002—2011《电力设备预防性试验规程》要求1%</tabledesc>
+                <ebookNum>18</ebookNum>
+                <PdfNum>25</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/adb8cbb8-5361-449d-8365-204798919049.jpg">
+                <title>图3-1 2号主变压器中性点及低压侧套管试验数据</title>
+                <ebookNum>18</ebookNum>
+                <PdfNum>25</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="2" fileref="Image/4e99930d-fb08-432d-8f84-f4778061942c.jpg">
+                <title>表3-2 3号主变压器中性点、低压侧套管试验数据</title>
+                <tabledesc>日期2010年4月17日交接2013年5月2日预试位置铭牌电容（pF）套管电容Cx（pF）电容差（%）tanδ（%）末屏绝缘电阻（MΩ）铭牌电容（pF）套管电容Cx（pF）电容差（%）tanδ（%）末屏绝缘电阻（MΩ）Δtanδ%AO390390.80.2050.27910000390391.10.280.4554000063.1BO391392.40.3580.25910000391389.6-0.360.47110000081.8</tabledesc>
+                <ebookNum>18</ebookNum>
+                <PdfNum>25</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="2" fileref="Image/cc35ae8c-a59c-45c1-baab-332c4c4abf13.jpg">
+                <title>续表</title>
+                <tabledesc>日期2010年4月17日交接2013年5月2日预试位置铭牌电容（pF）套管电容Cx（pF）电容差（%）tanδ（%）末屏绝缘电阻（MΩ）铭牌电容（pF）套管电容Cx（pF）电容差（%）tanδ（%）末屏绝缘电阻（MΩ）Δtanδ%CO392391.8-0.0510.28110000392389.1-0.740.47110000067.6a951952.40.1470.28110000951949.4-0.1680.58050000106.4x949951.30.2420.26910000949947.3-0.1790.61350000127.9b951953.80.2940.28010000951949.8-0.1260.569100000103.2y949950.80.1900.26410000949947.1-0.200.603100000128.4c952954.70.2840.26610000952950.5-0.1580.613100000130.5z950952.60.2740.27510000950947.9-0.220.599100000117.8备注介损电桥AI-6000电动绝缘电阻表DM-07-7温度：31℃湿度：65%油温：22℃介损厂家注意值0.7%，Q/CSG114002—2011《电力设备预防性试验规程》要求1%介损电桥AI-6000（L）电动绝缘电阻表3121温度：24℃湿度：52%油温：30℃介损厂家注意值0.7%，Q/CSG114002—2011《电力设备预防性试验规程》要求1%</tabledesc>
+                <ebookNum>19</ebookNum>
+                <PdfNum>26</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/d2121484-1d40-4b19-9938-757ebdf217c8.jpg">
+                <title>图3-2 3号主变压器中性点及低压侧套管试验数据</title>
+                <ebookNum>19</ebookNum>
+                <PdfNum>26</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="2" fileref="Image/6462acf9-19cc-42b4-b802-a6fd4b15db9f.jpg">
+                <title>表3-3 2号主变压器低压侧b、y套管用清洁前后介损试验数据</title>
+                <tabledesc>处理措施低压侧b套管低压侧y套管tanδ（%）Cp（pF）tanδ（%）Cp（pF）未处理0.465946.00.363945.3酒精清洁表面0.485946.30.428946.1处理前后tanδ%偏差4.3%/17.9%/备注介损电桥AI-6000（L）温度：30℃湿度：75%油温：31℃介损厂家注意值0.7%，Q/CSG114002—2011《电力设备预防性试验规程》要求1%</tabledesc>
+                <ebookNum>19</ebookNum>
+                <PdfNum>26</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="2" fileref="Image/c2f93a3a-8699-4916-9af4-2a2d93a50a52.jpg">
+                <title>表3-4 3号主变压器低压侧a套管在不同温度下的介损试验数据</title>
+                <tabledesc>套管本体温度（℃）低压侧a套管tanδ（%）Cp（pF）300.580949.4280.592948.8260.588948.8备注介损电桥AI-6000（L）红外成像仪T630环境温度：24℃湿度：75%当tanδ随温度增加明显增大不应继续运行</tabledesc>
+                <ebookNum>20</ebookNum>
+                <PdfNum>27</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="2" fileref="Image/763e6639-c826-4ca5-b46d-b6d05e210e35.jpg">
+                <title>表3-5 低压侧a套管30℃红外图</title>
+                <tabledesc>目标参数数值测试时间2013-5-214∶20辐射系数0.90环境温度24℃湿度75%套管本体温度30.2℃</tabledesc>
+                <ebookNum>20</ebookNum>
+                <PdfNum>27</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="2" fileref="Image/93380b21-e8e6-4357-8af2-6305646568a4.jpg">
+                <title>表3-6 低压侧a套管28℃红外图</title>
+                <tabledesc>目标参数数值测试时间2013-5-216∶13辐射系数0.90环境温度24℃湿度75%套管本体温度28℃</tabledesc>
+                <ebookNum>20</ebookNum>
+                <PdfNum>27</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="2" fileref="Image/79e145c4-b6e1-4b74-9d1a-4cdcd3888ef0.jpg">
+                <title>表3-7 低压侧a套管26℃红外图</title>
+                <tabledesc>目标参数数值测试时间2013-5-317∶00辐射系数0.90环境温度24℃湿度75%套管本体温度26℃</tabledesc>
+                <ebookNum>20</ebookNum>
+                <PdfNum>27</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="2" fileref="Image/7e5718d8-bf69-4a8c-b8f0-9c78c75ed940.jpg">
+                <title>表3-8 3号主变压器低压侧a、x套管高压介损试验数据</title>
+                <tabledesc>U（kV）低压侧a套管低压侧x套管tanδ（%）Cp（pF）tanδ（%）Cp（pF）100.518946.50.550943.924.60.500946.70.535944.440.50.462946.90.489944.7tanδ增量-0.056%/-0.061%/备注介损电桥AI-6000M2013年5月3日温度：23℃湿度：70%油温：24℃当试验电压由10kV升到Um/3时，tanδ增量超过±0.3%，不应继续运行</tabledesc>
+                <ebookNum>21</ebookNum>
+                <PdfNum>28</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+      </section>
+      <section>
+        <title>3 故障处理</title>
+        <info>
+          <PdfNum>28-31</PdfNum>
+          <ebookNum>21-24</ebookNum>
+        </info>
+        <para>试验人员通过预防性试验发现该厂家生产的500kV变压器这两种型号的低压侧套管和中性点套管存在介损明显增长的问题。</para>
+        <para>2013年2月27日～3月1日，相关工作人员在厂家本部对缺陷套管进行了试验及解体。</para>
+        <para>返厂之后，厂家工作人员首先做了一系列的试验，包括油样分析、绝缘电阻测试、局部放电试验、工频耐压试验，结果都无异常，试验项目及结果统计见表3-9。工作人员还将套管的油全部更换之后再次做了介损试验，介损基本没有变化，排除了绝缘油问题引起的介损异常。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="2" fileref="Image/cb3c414d-d92a-4665-8095-11f2b50262f9.jpg">
+                <title>表3-9 试验项目及结果统计</title>
+                <tabledesc>试验项目试验结果外观检查外观无破损、放电现象油样分析一般特性及油中溶解气体的浓度无异常绝缘电阻测试绝缘性能满足要求局部放电试验局部放电量测量值为1pC工频耐压试验试验通过末屏耐压试验及介损测量无异常中性点套管换油后介损测量较换油前介损值略有增加</tabledesc>
+                <ebookNum>21</ebookNum>
+                <PdfNum>28</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>图3-3～图3-6是对缺陷套管进行解体的现场图片。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/3cdd5242-b463-481b-a2f7-7967a4d77875.jpg">
+                <title>图3-3 金属导杆和法兰解体情况</title>
+                <ebookNum>22</ebookNum>
+                <PdfNum>29</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/4cba038c-b61e-44d8-bcfb-846f090b99ea.jpg">
+                <title>图3-4 金具、法兰、装配弹簧、外金属护套解体情况</title>
+                <ebookNum>22</ebookNum>
+                <PdfNum>29</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/72fe36c8-2106-4855-8a2b-85154405d0fa.jpg">
+                <title>图3-5 末屏引出线和储油柜密封胶圈解体情况</title>
+                <ebookNum>22</ebookNum>
+                <PdfNum>29</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>2013年5 月14 日，为了进一步了解套管介损值增大的原因，相关工作小组在500kV 主变压器中性点套管及低压侧套管返厂修复后出厂验收时，开展了一系列试验。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/da4bae89-02e3-427b-b390-c91b6f28a882.jpg">
+                <title>图3-6 电容芯绝缘纸及铝箔、金属导杆解体情况</title>
+                <ebookNum>23</ebookNum>
+                <PdfNum>30</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>由于厂家已完成 18 支套管大修后的油试验和电气试验，工作人员从中随机挑选两支中性点套管和两支低压侧套管做试验，试验结果见表3-10、表3-11。两次试验对比无明显差异，试验结果合格。这些套管更换的新绝缘纸仍和原出厂的相同，工艺方面除了电容芯子干燥的时间从7天延长到12天和66kV产品标准油浸时间为5h，本次大修后油浸时间延长到16h之外，其他工艺都和之前相同。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="2" fileref="Image/60c6b920-becc-4713-a450-689c2ecae217.jpg">
+                <title>表3-10 变压器中性点套管试验数据</title>
+                <tabledesc>制造编号介质损耗因数（%）电容量（pF）试验抽头额定电压UN1.05Um/3Um额定电压UN1.05Um/3Um介质损耗因数（%）电容量（pF）10kV24.6kV40.5kV10kV24.6kV40.5kV1kV1kV09J5036耐压前0.2210.2250.226661662662耐压后0.2180.2250.2266626616620.5262510A5073耐压前0.2170.2220.224657657657耐压后0.2180.2230.2246576576570.43625</tabledesc>
+                <ebookNum>23</ebookNum>
+                <PdfNum>30</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="2" fileref="Image/3ac7a763-c18c-4ea9-a483-2aa19be6e347.jpg">
+                <title>表3-11 变压器低压侧套管试验数据</title>
+                <tabledesc>制造编号介质损耗因数（%）电容量（pF）试验抽头额定电压UN1.05Um/3Um额定电压UN1.05Um/3Um介质损耗因数（%）电容量（pF）10kV24.6kV40.5kV10kV24.6kV40.5kV1kV1kV09J5046耐压前0.2360.2390.240369369369耐压后0.2360.2410.2423693693690.85597</tabledesc>
+                <ebookNum>23</ebookNum>
+                <PdfNum>30</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="2" fileref="Image/18d5d1d3-e5a1-42c3-8e9c-2e7f71f6395e.jpg">
+                <title>续表</title>
+                <tabledesc>制造编号介质损耗因数（%）电容量（pF）试验抽头额定电压UN1.05Um/3Um额定电压UN1.05Um/3Um介质损耗因数（%）电容量（pF）10kV24.6kV40.5kV10kV24.6kV40.5kV1kV1kV09A5028耐压前0.2230.2290.230369369369耐压后0.2260.2310.2313693693690.46601</tabledesc>
+                <ebookNum>24</ebookNum>
+                <PdfNum>31</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>通过对绝缘纸（干燥纸）、绝缘油、电容芯制造时的干燥工序调查发现，绝缘纸（干燥纸）、绝缘油本身没有明显异常的状况。对于撤回产品的油浸纸，厂家正在以是否存在会对介损值产生影响的生成物质为中心，开展定性、定量分析。关于制造记录方面，以干燥工序为中心开展调查，结果发现在干燥、含浸的时间、条件方面均没有发生过变更。厂方正在对绝缘纸变更后干燥工序中的真空度推移及残留水分方面开展更加详细的调查。目前，因为以上调查情况仍然不够充分，厂家想以撤回产品绝缘纸成分分析和绝缘纸变更后的干燥情况等为中心开展详细调查，尽早判定其原因。</para>
+      </section>
+      <section>
+        <title>4 故障分析</title>
+        <info>
+          <PdfNum>31-32</PdfNum>
+          <ebookNum>24-25</ebookNum>
+        </info>
+        <para>500kV某变电站2号、3号主变压器高压侧、中压侧套管介损合格，均为0.25左右，中性点和低压侧套管介损明显增长，最大的为0.613%，未超出厂家0.7%注意值和规程要求的1%。试验人员用酒精清洁套管并用电吹风风干后对其复测，介损试验数据无改善；在3个不同温度下的介损复测显示温度的变化对套管介损影响并不明显。根据相关情况，某变电站2、3号主变压器套管介损增长的情况与2012年6月～2013年初，南网范围内发现NGK公司生产的R-C6551W-JB型低压侧套管及R-C680R-KB型中性点套管出现介损值超标（大于厂家注意值0.7%）及存在明显增长趋势的问题一致，均为厂家2007年后出厂的低压及中性点套管，属于套管电容芯在出厂时干燥不彻底家族性缺陷。</para>
+      </section>
+      <section>
+        <title>5 同类型设备情况</title>
+        <info>
+          <PdfNum>32-32</PdfNum>
+          <ebookNum>25-25</ebookNum>
+        </info>
+        <para>在2012年6月，A变电站2号主变压器预防性试验发现，B相中性点及低压侧套管介损明显增长；接着B变电站3号主变压器、C变电站4号主变压器相继发现类似问题；对此上级要求同型号变压器套管都要尽快进行停电预防性试验，在春节期间又发现D变电站3号主变压器、E变电站3号主变压器也存在套管介损异常的缺陷。</para>
+        <para>在这个问题发生后，工作人员对同型号缺陷套管进行了统计，其中低压套管型号为R-C6551W-JB共66支、中性点套管型号为R-C680R-KB共33支，占了总量的14%，比例还是比较大的。</para>
+      </section>
+      <section>
+        <title>6 防范措施</title>
+        <info>
+          <PdfNum>32-32</PdfNum>
+          <ebookNum>25-25</ebookNum>
+        </info>
+        <para>根据以上分析和现有三支套管备品的情况，暂不具备更换的条件，建议采取以下措施：</para>
+        <para>（1）每月进行一次红外测温成像分析工作，并缩短套管停电试验周期至1年进行复测。</para>
+        <para>（2）加强运行巡视，细化巡视要求。</para>
+        <para>（3）尽快落实套管备品，对该批次的某变电站2号、3号主变压器所有中性点、低压侧套管和三支套管备品全部更换，对全部套管进行出厂试验见证。</para>
+      </section>
+    </chapter>
+    <chapter>
+      <title>4 220kV某变电站2号主变压器故障分析</title>
+      <info>
+        <PdfNum>33-38</PdfNum>
+        <ebookNum>26-31</ebookNum>
+      </info>
+      <section>
+        <title>1 设备参数</title>
+        <info>
+          <PdfNum>33-33</PdfNum>
+          <ebookNum>26-26</ebookNum>
+        </info>
+        <para>（1）设备名称：2号主变压器。</para>
+        <para>（2）设备型号：SFSZ9-240000/240。</para>
+        <para>（3）出厂日期：2003年2月。</para>
+        <para>（4）投运日期：2003年12月。</para>
+      </section>
+      <section>
+        <title>2 设备故障情况</title>
+        <info>
+          <PdfNum>33-34</PdfNum>
+          <ebookNum>26-27</ebookNum>
+        </info>
+        <para>2008年7月20日21时51分38秒，220kV某变电站2号主变压器保护动作，主变压器三侧断路器跳闸，故障情况如下：</para>
+        <section>
+          <title>2.1 故障前的系统运行方式</title>
+          <info>
+            <PdfNum>33-33</PdfNum>
+            <ebookNum>26-26</ebookNum>
+          </info>
+          <para>该变电站1～4号主变压器220kV侧、110kV侧并列运行，2号主变压器高压侧中性点、低压侧中性点接地运行。全站负荷为384MW，2号主变压器负荷为95.74MW。</para>
+        </section>
+        <section>
+          <title>2.2 故障过程</title>
+          <info>
+            <PdfNum>33-33</PdfNum>
+            <ebookNum>26-26</ebookNum>
+          </info>
+          <para>当日21时51分36秒，110kV信杨乙线、信杨丙线A相故障，两条线路保护的距离Ⅰ段、零序过流Ⅰ段同时动作，断路器三相跳闸，测距2.3km，2s后重合闸成功。</para>
+          <para>110kV信杨乙线、信杨丙线跳闸8ms后，2号主变压器差动保护（主Ⅰ保护：比率差动保护；主Ⅱ保护：比率差动保护、工频变化量差动保护、差动速断保护）和本体非电量保护（轻瓦斯保护、重瓦斯保护、压力释放保护）动作，跳开2202、102、502 甲、502 乙断路器，备自投正确动作。23时23分，2号主变压器本体由热备用转检修。</para>
+          <para>故障发生时，天气情况为雷暴天气。</para>
+        </section>
+        <section>
+          <title>2.3 故障前变压器的试验情况</title>
+          <info>
+            <PdfNum>34-34</PdfNum>
+            <ebookNum>27-27</ebookNum>
+          </info>
+          <para>最近一次电气预防性试验时间为2008年1月，最近一次主变压器本体绝缘油色谱试验时间为2008年6月，试验结果正常。</para>
+        </section>
+      </section>
+      <section>
+        <title>3 故障处理</title>
+        <info>
+          <PdfNum>34-35</PdfNum>
+          <ebookNum>27-28</ebookNum>
+        </info>
+        <section>
+          <title>3.1 保护动作检查情况</title>
+          <info>
+            <PdfNum>34-34</PdfNum>
+            <ebookNum>27-27</ebookNum>
+          </info>
+          <para>2号主变压器三侧断路器跳闸保护动作情况见表4-1。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="2" fileref="Image/47ba4396-5a4f-4666-97b5-46fd42e9f58a.jpg">
+                  <title>表4-1 2号主变压器三侧断路器跳闸保护动作情况</title>
+                  <tabledesc>设备名称保护名称保护型号动作元件功能分类动作时间（ms）动作情况110kV信杨乙线线路保护RCS-941A零序零序Ⅰ段9跳本断路器线路保护RCS-941A距离距离Ⅰ段11跳本断路器线路保护RCS-941A重合闸重合成功2145合本断路器110kV信杨丙线线路保护RCS-941A零序零序Ⅰ段10跳本断路器线路保护RCS-941A距离距离Ⅰ段12跳本断路器线路保护RCS-941A重合闸重合成功2188合本断路器2号主变压器主Ⅰ保护RCS-978E差动比率差动30跳三侧A、B、C相主Ⅱ保护RCS-978E差动工频变化量差动30跳三侧A、B、C相主Ⅱ保护RCS-978E差动比率差动30跳三侧A、B、C相主Ⅱ保护RCS-978E差动差动速断71跳三侧A、B、C相非电量保护RCS-974A非电量本体重瓦斯55跳三侧A、B、C相非电量保护RCS-974A非电量本体轻瓦斯65发信非电量保护RCS-974A非电量压力释放70发信</tabledesc>
+                  <ebookNum>27</ebookNum>
+                  <PdfNum>34</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>经检查，2号主变压器主Ⅰ保护、主Ⅱ保护、非电量保护动作报文与后台信息一致，保护录波与主变压器故障录波的相应波形一致，一次折算电流一致，录波完好，保护动作正确。</para>
+        </section>
+        <section>
+          <title>3.2 高压设备外观检查情况</title>
+          <info>
+            <PdfNum>34-35</PdfNum>
+            <ebookNum>27-28</ebookNum>
+          </info>
+          <para>（1）主变压器两个压力释放阀动作，压力释放阀顶盖板被冲开，有本体绝缘油流出；主变压器本体气体继电器动作，气体继电器处有气体积聚；主变压器靠电抗器侧人孔和变压器低压侧A相套管处有渗油痕迹。</para>
+          <para>（2）全站避雷器均无动作。</para>
+          <para>（3）其他设备无异常。</para>
+        </section>
+        <section>
+          <title>3.3 油色谱试验情况</title>
+          <info>
+            <PdfNum>35-35</PdfNum>
+            <ebookNum>28-28</ebookNum>
+          </info>
+          <para>2008年7月20日晚上故障跳闸后，在变压器下部取油样及在气体继电器处取气样，7月21日上午分别在变压器上部和下部取油样。油样透明度较好，油简化试验结果合格，三次油色谱试验结果最高值中氢气（1177μL/L）、总烃（1262μL/L）含量超出注意值，乙炔（649μL/L）、一氧化碳和二氧化碳含量对比上次试验结果并无增长，变压器上部油样气体组分含量较下部油样气体组分含量高。按三比值法判断，属放电性故障。气体继电器气样组分与油样中的气体组分类似。</para>
+          <para>因此，可判断故障涉及固体绝缘的可能性较小，故障发生在变压器上部的可能性较高，为裸金属放电性故障。</para>
+        </section>
+        <section>
+          <title>3.4 高压试验情况</title>
+          <info>
+            <PdfNum>35-35</PdfNum>
+            <ebookNum>28-28</ebookNum>
+          </info>
+          <para>2008年7月21日，对2号主变压器和三侧避雷器进行了高压试验。主变压器的试验项目有绝缘电阻、主变压器介损、套管介损、直流电阻、绕组变形，各个项目的试验结果合格，与上次预试结果相比无明显变化。避雷器在线检测仪正常，变压器三侧避雷器1mA直流电压及0.75U<subscript>1mA</subscript>下的泄漏电流正常。因此，变压器主绝缘、绕组等基本正常，绕组无短路和变形。</para>
+        </section>
+        <section>
+          <title>3.5 变压器器身内部检查情况</title>
+          <info>
+            <PdfNum>35-35</PdfNum>
+            <ebookNum>28-28</ebookNum>
+          </info>
+          <para>从A相电抗器往C 相电抗器方向检查发现，从B相电抗器开始引线木夹件有开裂断开现象，C相电抗器拐弯处到低压套管出线之间的引线（靠近变压器低压侧C相手孔位置）有多处明显短路放电烧焦痕迹，一只夹件螺栓屏蔽罩上有放电痕迹，其拐弯处的木夹件全部断裂且电抗器引线有部分已严重变形，有一相电抗器避雷器的引线被烧断。电抗器位置分布有微小的铜珠，油箱底部有跌落的木夹件块、皱纹纸、螺栓等杂物，变压器器身上分布有散落的皱纹纸。其他部位外观检查未发现明显异常现象。</para>
+        </section>
+      </section>
+      <section>
+        <title>4 故障分析</title>
+        <info>
+          <PdfNum>36-37</PdfNum>
+          <ebookNum>29-30</ebookNum>
+        </info>
+        <section>
+          <title>4.1 过程分析</title>
+          <info>
+            <PdfNum>36-36</PdfNum>
+            <ebookNum>29-29</ebookNum>
+          </info>
+          <para>根据现场对主变压器本体外观检查及试验结果，结合故障录波图判定故障可分为三个阶段：</para>
+          <para>（1）故障初瞬（0～8ms）。110kV信杨乙、信杨丙线路故障，2号主变压器流过穿越性故障电流，主变压器保护差动电流为0；故障电流高压侧最大有效值为2536A（A相），中压侧最大有效值为7483A（A相）。</para>
+          <para>（2）变压器内部故障开始阶段（8～20ms），即110kV线路故障约8ms后，2号主变压器内部开始发生短路故障，此时从变压器中压侧三相故障电流大致相等和主变压器低压侧电压基本消失的现象可以判断，变压器低压侧发生相间短路故障的可能性较大。此时，主变压器保护出现差动电流，差动电流未达到差动保护动作值，差动保护未出口。</para>
+          <para>（3）变压器低压侧故障发展阶段。在20～55ms，故障电流继续增大，差动电流达到差动保护动作值，比率差动保护动作出口，开出跳主变压器三侧断路器（三相断路器未跳开）；在55～75ms，主变压器保护最大差动电流达6.42I<subscript>N</subscript>，导致2号主变压器差动速断保护动作，本体重瓦斯及压力释放阀动作跳开主变压器三侧断路器。由录波图测量此时的故障电流情况：高压侧最大有效值为3383A（A相），中压侧最大有效值为8456A（A相），低压侧最大有效值为48 910A。</para>
+        </section>
+        <section>
+          <title>4.2 分析结论</title>
+          <info>
+            <PdfNum>36-37</PdfNum>
+            <ebookNum>29-30</ebookNum>
+          </info>
+          <para>综合考虑以上检查结果和故障过程分析，归纳如下：</para>
+          <para>（1）2号主变压器主Ⅰ、主Ⅱ保护及非电量保护动作正确。</para>
+          <para>（2）高压试验未发现异常，本体油样透明度较好，无碳性悬浮物，油简化试验合格，油色谱分析为变压器上部裸金属放电性故障。</para>
+          <para>（3）根据变压器的结构，高压侧、中压侧绕组发生三相短路故障的可能性不大，低压侧的薄弱点为电抗器的引线。</para>
+          <para>（4）变压器低压侧短路电流达到变压器耐受电流设计值，但持续时间（75ms）远小于厂家设计持续时间（0.5s），低压侧绕组从理论上可承受该次短路冲击。</para>
+          <para>（5）变压器器身检查发现，故障部位为电抗器引线，其他部位无明显异常，与保护和故障录波分析结果相一致。</para>
+          <para>根据以上分析，可以得出结论：在110kV线路故障的情况下，当有穿越性故障电流通过该变电站2号变压器时，由于变压器内部低压绕组与电抗器间的引线固定失稳，导致该变压器低压侧发生相间短路，主变压器电量和非电量保护同时动作，三侧断路器跳闸。故障原因明确，故障点的查找结果与故障发生过程、保护录波情况、试验结果相吻合，主变压器器身、主绝缘和绕组没有受到冲击破坏，在厂家同意的前提下，应优先采用现场修复的方案恢复2号变压器运行。</para>
+        </section>
+        <section>
+          <title>4.3 原因总结</title>
+          <info>
+            <PdfNum>37-37</PdfNum>
+            <ebookNum>30-30</ebookNum>
+          </info>
+          <para>（1）主变压器低压侧电抗器的引线均为软铜引线，在长时间的运行过程中，由于重力和电动力的作用，扎带老化，低压引线由于电压低、流过电流大，相位相差120°，使引线相互吸引，造成软引线慢慢变形松动，引线间绝缘距离不够导致故障发生。</para>
+          <para>（2）选择导线不恰当，存在重视热性能而忽视机械应力的现象。</para>
+          <para>（3）引线固定支点不够、支架不牢固、引线焊接不良等。</para>
+          <para>（4）制造过程中工艺条件不规范，质量控制不严。</para>
+        </section>
+      </section>
+      <section>
+        <title>5 防范措施</title>
+        <info>
+          <PdfNum>37-38</PdfNum>
+          <ebookNum>30-31</ebookNum>
+        </info>
+        <para>（1）应在技术和管理上采取有效措施，改善变压器运行条件，最大限度防止或减少变压器的出口短路。为减少变压器低压侧出口短路概率，可根据需要在母线桥上装设绝缘热缩保护材料。</para>
+        <para>（2）制造厂家在产品设计时，除了对绕组的抗短路能力进行验算，还应对引线的抗短路能力进行验算，同时大型变压器在现场安装过程中，对于较长的引线还应采取足够的绝缘包扎和固定等措施。</para>
+        <para>（3）变压器引线结构比较复杂，特别是出线套管处，一般采用软连接实现引出。引线的对地、相间绝缘距离是一个薄弱环节，所以应对其制造、安装、验收环节给予足够的重视。</para>
+        <para>（4）对于电容电流过大的变电站，为防止产生弧光接地过电压，应采取加装消弧线圈等自动跟踪补偿系统等措施，减小由于系统接地而导致的短路故障。已运行抗短路能力差的大型变压器，应加装限流电抗器，以降低短路冲击电流对大型变压器的影响。</para>
+      </section>
+    </chapter>
+    <chapter>
+      <title>5 110kV某变电站主变压器验收分析</title>
+      <info>
+        <PdfNum>39-47</PdfNum>
+        <ebookNum>32-40</ebookNum>
+      </info>
+      <section>
+        <title>1 设备参数</title>
+        <info>
+          <PdfNum>39-39</PdfNum>
+          <ebookNum>32-32</ebookNum>
+        </info>
+        <para>（1）设备名称：主变压器。</para>
+        <para>（2）设备型号：SZ11-63000/110。</para>
+      </section>
+      <section>
+        <title>2 设备故障情况</title>
+        <info>
+          <PdfNum>39-44</PdfNum>
+          <ebookNum>32-37</ebookNum>
+        </info>
+        <section>
+          <title>2.1 主变压器出厂前验收</title>
+          <info>
+            <PdfNum>39-39</PdfNum>
+            <ebookNum>32-32</ebookNum>
+          </info>
+          <para>2012年1月13日，检修人员对110kV某变电站1号、2号、3号主变压器进行出厂见证验收。到达现场时，主变压器的吊罩安装工作已完成，检修人员只能对设备外观验收，无法对变压器器身进行内部检查。所以，建议增加验收人员出厂前二次吊罩见证环节。验收中发现如下问题：</para>
+          <para>（1）铁芯、夹件接地引线没有采用方便测量的结构；</para>
+          <para>（2）接地套管的瓷压帽开裂；</para>
+          <para>（3）有载开关连气管与片散干涉；</para>
+          <para>（4）油位计、气体继电器、温度计没有加装防雨罩；</para>
+          <para>（5）上、下节油箱没有采用四点接地位置；</para>
+          <para>（6）低压升高座没有加装放气塞；</para>
+          <para>（7）接地套管位置上方没有增加挡板；</para>
+          <para>（8）低压套管接线板不是双排结构；</para>
+          <para>（9）片散法兰面不够光滑与平整；</para>
+          <para>（10）110kV套管不是将军帽式。</para>
+        </section>
+        <section>
+          <title>2.2 1号主变压器吊罩验收</title>
+          <info>
+            <PdfNum>39-41</PdfNum>
+            <ebookNum>32-34</ebookNum>
+          </info>
+          <para>2012年10月31日，对110kV该变电站1号主变压器吊罩验收时发现：</para>
+          <para>（1）施工现场混乱，作业环境差，如图5-1所示。主变压器吊罩工作与土建施工同步进行，土建施工产生大量灰尘，不符合相关验收规范规定的“器身检查时，场地四周应清洁和有防尘措施”。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="0" fileref="Image/638fe6c3-d3e0-4b66-b8d1-8eb6f02da27c.jpg">
+                  <title>图5-1 作业现场环境差</title>
+                  <ebookNum>33</ebookNum>
+                  <PdfNum>40</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>（2）变压器器身存在绝缘材料包扎工艺松散等问题，如图5-2所示，且变压器底部存在杂物，如纸屑、木屑等（如图5-3所示），不符合相关验收规范规定的“引出线绝缘包扎牢固，无破损、拧弯现象；引出线绝缘距离应合格，固定牢靠，其固定支架应紧固；引出线的裸露部分应无毛刺或尖角，焊接应良好；引出线与套管的连接应牢靠，接线正确”。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="0" fileref="Image/428ce394-8cb9-4325-9ccb-80a92e4211c6.jpg">
+                  <title>图5-2 变压器器身绝缘材料包扎工艺松散</title>
+                  <ebookNum>33</ebookNum>
+                  <PdfNum>40</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>（3）变压器厂家现场工作人员作业不规范，如图5-4所示，未能按照相关检修导则的规定进行。检查器身时，应由专人进行，穿着无纽扣、无金属挂件的专用检修工作服和鞋，并戴清洁手套，寒冷天气还应戴口罩，照明应采用安全电压的灯具或手电筒。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="0" fileref="Image/08c8f01e-3542-4cae-a867-406882dbe35f.jpg">
+                  <title>图5-3 变压器底部杂物</title>
+                  <ebookNum>34</ebookNum>
+                  <PdfNum>41</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="0" fileref="Image/03fdddc6-b73a-4ca1-b771-0d7b1e21804e.jpg">
+                  <title>图5-4 厂家现场工作人员作业不规范</title>
+                  <ebookNum>34</ebookNum>
+                  <PdfNum>41</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>（4）由于1号主变压器器身底部发现很多杂物，工作人员要求厂家进行整改，在对主变压器进行滤油并静止24h后，再次进行吊罩检查。2012年11月5日，对该变压器第二次吊罩验收时发现其底部仍存在杂物（如图5-5所示），且其钟罩屏蔽层绝缘纸板存在松散现象（如图5-6所示）。不符合相关验收规范规定：绝缘屏障应完好，且固定牢固，无松动现象。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="0" fileref="Image/adaf9b8a-20c0-4594-add4-53e517392001.jpg">
+                  <title>图5-5 第二次吊罩验收时1号变压器底部杂物</title>
+                  <ebookNum>34</ebookNum>
+                  <PdfNum>41</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="0" fileref="Image/cfd95ef7-eb06-496b-ac6a-7bec702661b8.jpg">
+                  <title>图5-6 钟罩屏蔽层绝缘纸板松散</title>
+                  <ebookNum>34</ebookNum>
+                  <PdfNum>41</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+        </section>
+        <section>
+          <title>2.3 3号主变压器吊罩验收</title>
+          <info>
+            <PdfNum>42-44</PdfNum>
+            <ebookNum>35-37</ebookNum>
+          </info>
+          <para>（1）11月5日，3号主变压器到达现场交接时，安装单位人员对变压器进行油试验，经油色谱检测发现3号主变压器乙炔（C<subscript>2 </subscript>H<subscript>2 </subscript>）含量超标，测量值为0.25μL/L。根据现行国家相关标准规定，新变压器油中不能含乙炔。对出厂和新投运的设备气体含量的要求见表5-1。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="2" fileref="Image/b02effb5-e77d-40da-b5a2-4d1964f795dd.jpg">
+                  <title>表5-1 对出厂和新投运的设备气体含量的要求 μL/L</title>
+                  <tabledesc>气体变压器和电抗器互感器套管氢＜10＜50＜150乙炔000总烃＜20＜10＜10</tabledesc>
+                  <ebookNum>35</ebookNum>
+                  <PdfNum>42</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>乙炔是故障点周围变压器油分解的特征气体，乙炔的含量是区分过热和放电两种故障的主要指标，经对器芯检查未发现明显的放电发热点，需厂家解释3号主变压器乙炔产生的原因。</para>
+          <para>（2）根据DL/T 574—2010《有载分接开关运行维修导则》规定，油室头部法兰与中间法兰之间脱开至15～20mm间隙。</para>
+          <para>有载分接开关使用说明书规定，根据最终的高度不同，断路器和支撑法兰面要留有5～20mm间隙。1号、3号主变压器验收发现断路器和支撑法兰间留有间隙分别为40、38mm，如图5-7所示，分别超过最大许可值的100%、90%。厂家现场人员未在有载分接开关预装支架上做任何措施就调整间隙尺寸。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="0" fileref="Image/1dacb290-be6a-43dc-bb86-80a895160381.jpg">
+                  <title>图5-7 1号、3号主变压器断路器和支撑法兰间留有间隙</title>
+                  <ebookNum>35</ebookNum>
+                  <PdfNum>42</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>（3）3号主变压器钟罩屏蔽层绝缘纸板同样存在松散现象，且钟罩屏蔽层固定扣绝缘漆有折纹并多处脱落，如图5-8所示。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="0" fileref="Image/dc0d215a-562e-47d8-8678-c242947e27d8.jpg">
+                  <title>图5-8 3号主变压器钟罩屏蔽层</title>
+                  <ebookNum>36</ebookNum>
+                  <PdfNum>43</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>（4）3号主变压器底部同样存在杂物，如纸屑、木屑、铁屑等，如图5-9所示，且存在变压器器身引线绑扎皱纹纸松散等问题。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="0" fileref="Image/e05b31b9-9884-4059-a9b3-1d7b5381451e.jpg">
+                  <title>图5-9 3号主变压器底部杂物</title>
+                  <ebookNum>36</ebookNum>
+                  <PdfNum>43</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>（5）3号主变压器底部存在锈蚀现象，如图5-10所示，不符合相关技术协议规定的“变压器本体及附件至少六年内不得出现渗油及锈蚀现象”。</para>
+          <para>（6）上定位柱未恢复原有状态，如图5-11所示，变压器未就位，需要移动。因为在就位过程中，不能保证变压器内部不发生偏移，所以需要变压器厂家提供一份技术保证书。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="0" fileref="Image/f4c038a1-0bce-429a-9507-024bfa4eba1c.jpg">
+                  <title>图5-10 3号主变压器底部存在锈蚀现象</title>
+                  <ebookNum>37</ebookNum>
+                  <PdfNum>44</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="0" fileref="Image/b10326f2-988d-4328-baf0-a4979d1676ed.jpg">
+                  <title>图5-11 上定位柱未恢复原有状态</title>
+                  <ebookNum>37</ebookNum>
+                  <PdfNum>44</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>（7）根据相关技术协议规定，变压器本体到达现场后油箱内的压力应保持正压，并有压力表进行监视。建议在带油运输过程中，保持正压、防潮。11月12日，主变压器到达现场时，仍未落实以上措施。</para>
+        </section>
+      </section>
+      <section>
+        <title>3 故障处理</title>
+        <info>
+          <PdfNum>44-46</PdfNum>
+          <ebookNum>37-39</ebookNum>
+        </info>
+        <para>针对验收人员在110kV某变电站主变压器出厂前验收以及主变压器吊罩验收过程中发现的问题，经过与厂家进行沟通协调后，确定了相对应的处理方案，见表5-2和表5-3。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="2" fileref="Image/96232502-fb2c-4296-bdbe-52bc4943a5ee.jpg">
+                <title>表5-2 主变压器出厂前验收发现问题及处理方案</title>
+                <tabledesc>序号发现问题处理方案1铁芯、夹件接地引线没有采用方便测量的结构厂家将在引下铜排的最后一段采用电缆连接，以便测量2接地套管的瓷压帽开裂厂家将把接地套管的压帽改为铜材质3有载开关连气管与片散干涉此处连气管厂家进行校正解决4油位计、气体继电器、温度计没有加装防雨罩厂家气体继电器有防雨罩，温度计装入仪表端子箱；此台变压器采用胶囊结构，且已制造完毕，如在此油位计处加装防雨罩则需要进行补焊接，可能影响胶囊寿命及工作质量，因此厂家认为不宜再加装防雨罩5上、下节油箱没有采用四点接地位置厂家将在高、低压侧加强铁上连接铜排，保证四点连接6低压升高座没有加装放气塞此低压升高座是标准设计，气体可以通过低压升高座连接气管放出7接地套管位置上方没有增加挡板接地套管位置周围无法固定挡板，须在上节油箱进行焊接。但由于此台变压器已完工，不宜焊接增加挡板8低压套管接线板不是双排结构此问题与套管厂商进行沟通后认为，空气中接线板如改为双排结构，接线板形状和孔的数量将与设计院原确认的图纸不一致，将涉及以后的配合问题，且修改接线端子后成本将有较大幅度增加，因此厂房认为应保留原设计9片散法兰面不够光滑与平整厂家将对片散法兰面进行抛光打磨，并做防锈处理10110kV套管不是将军帽式厂家目前所采用的套管是行业使用最为广泛的压顶式套管，此种套管在密封性能上与将军帽式相当，且市场反映较好</tabledesc>
+                <ebookNum>38</ebookNum>
+                <PdfNum>45</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="2" fileref="Image/76145709-9002-4139-a004-b62a09c064db.jpg">
+                <title>表5-3 1号、3号主变压器吊罩验收发现问题及处理方案</title>
+                <tabledesc>序号发现问题处理方案1施工现场混乱，作业环境差，厂家现场工作人员作业不规范厂家进一步加强公司的人员培训，提高工作人员素质和操作水平，对于不按操作规程及吊罩工艺进行现场操作的工作人员进行考核（已更换现场操作人员）21号、3号主变压器底部存在杂物，如纸屑、木屑、铁屑、头发等，且存在变压器器身引线绑扎皱纹纸松弛等问题通过吊罩前热油循环及主变压器吊罩时将杂物清理干净，重新包扎紧变压器器身引线绑扎松弛的皱纹纸，要求厂家对后续产品在设备出厂前进行彻底检查和清理</tabledesc>
+                <ebookNum>38</ebookNum>
+                <PdfNum>45</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="2" fileref="Image/07601493-6244-4395-bcd4-ffcf82ba0514.jpg">
+                <title>续表</title>
+                <tabledesc>序号发现问题处理方案31号、3号主变压器钟罩屏蔽层外层绝缘纸板均存在松散现象和多处损伤，钟罩屏蔽层固定扣绝缘漆有折纹并多处脱落此问题不影响安全运行，考虑到现场整改难度大，此问题不做整改。要求厂家对后续产品加强生产工艺的管理，提高产品的工艺质量43号主变压器到现场交接时油色谱检测乙炔含量超标，测量值为0.25μL/L组织专业人员对变压器进行滤油，并对主变压器进行试验，后取油样进行化验，结果显示油样中不含乙炔，排除因变压器存在缺陷引起乙炔含量超标的可能。厂家提供了专题分析报告，指出是厂家的注油管道受检修变压器油污染，未进行换油，只是采用在油箱内热油循环滤油合格后出厂，但因滤油不彻底，油中仍残留乙炔所致。厂家对此做出质量承诺51号、3号主变压器有载分接开关法兰与支撑法兰之间留有间隙分别为40mm和38mm，超过DL/T574—2010《有载分接开关运行维修导则》规定的15～20mm此问题不影响安全运行，1号、3号主变压器情况不做整改。要求厂家在后续产品中提供加工木垫，在现场吊罩时，先将木垫固定在断路器托架上，再拆卸断路器，保证法兰间间隙控制在20mm63号主变压器底部存在锈蚀现象要求厂家对存在锈蚀的部分进行打磨并重新喷漆处理7上定位柱未恢复原有状态，变压器就位需要移动，在就位过程中，不能保证变压器内部不发生偏移要求厂家将1号、3号主变压器运输定位木垫送往现场并将木垫安装在运输定位位置，确保二次运输时的可靠性，并要求厂家后续产品均提供木垫，用于更换因吊罩而损坏的木垫，满足现场施工需要81号、3号主变压器运输没有安装压力检测表要求2号主变压器运输安装压力检测表进行监视，到达现场后油箱内要求应保持正压。要求厂家带油运输过程中，保持正压、防潮</tabledesc>
+                <ebookNum>39</ebookNum>
+                <PdfNum>46</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+      </section>
+      <section>
+        <title>4 故障分析</title>
+        <info>
+          <PdfNum>46-47</PdfNum>
+          <ebookNum>39-40</ebookNum>
+        </info>
+        <para>（1）针对110kV某变电站3台主变压器出厂前验收中发现的问题，验收人员及专业负责人认为主要原因为：</para>
+        <para>1）在设备出厂前，厂家工作人员未能及时发现并处理主变压器相关缺陷。</para>
+        <para>2）厂家对于产品的设计要求和工艺要求不够严格。</para>
+        <para>3）厂家工作人员未能严格按照相关规程开展装配工作。</para>
+        <para>（2）对于在110kV某变电站进行主变压器吊罩验收过程中发现的一系列问题，验收人员以及专业负责人经过分析研究，并结合厂家给出的说明函，认为原因如下：</para>
+        <para>1）变压器在厂家进行总装及后续工艺的过程中，操作人员工作不认真，器身清理工作不彻底，且工艺检查人员责任心不强，未及时发现问题并进行处理。</para>
+        <para>2）厂家产品的质量、工艺管理体系存在漏洞，对于出厂产品的品质管理不够严格。</para>
+        <para>3）厂家研制的产品均按照习惯设计成免吊芯结构，该结构产品在现场吊芯时受结构所限，需以产品上部层压木质定位钉作为支点撬动，定位钉在工厂进行干燥后质地变脆，在撬动的过程中产生较多的木屑。</para>
+        <para>4）在产品发运前，储运人员并未对其进行全面的检查，以致漏装氮气压力表并未被及时发现和进行处理。</para>
+        <para>5）厂家的现场服务人员未严格执行现场吊罩的工艺要求，现场监督人员监管力度不够。</para>
+      </section>
+      <section>
+        <title>5 防范措施</title>
+        <info>
+          <PdfNum>47-47</PdfNum>
+          <ebookNum>40-40</ebookNum>
+        </info>
+        <para>（1）严格执行相关规程的要求，加强对主变压器的验收工作。</para>
+        <para>（2）验收过程中对发现的问题做好相关照片及资料的记录工作，并将发现的问题整理成册，统一管理，及时反馈。</para>
+        <para>（3）验收前要求厂家熟悉相关的规程并在安装过程中严格执行，防止相关情况发生。</para>
+      </section>
+    </chapter>
+    <chapter>
+      <title>6 110kV某变电站2号主变压器出厂分析</title>
+      <info>
+        <PdfNum>48-52</PdfNum>
+        <ebookNum>41-45</ebookNum>
+      </info>
+      <section>
+        <title>1 设备参数</title>
+        <info>
+          <PdfNum>48-48</PdfNum>
+          <ebookNum>41-41</ebookNum>
+        </info>
+        <para>（1）设备名称：2号主变压器。</para>
+        <para>（2）设备型号：SZ11-63000/110。</para>
+      </section>
+      <section>
+        <title>2 设备故障情况</title>
+        <info>
+          <PdfNum>48-49</PdfNum>
+          <ebookNum>41-42</ebookNum>
+        </info>
+        <para>2012年3月18日，验收人员在110kV某变电站进行2号主变压器现场就位见证。变压器共有4个起支撑作用的千斤顶支架，分别位于储油柜两侧第一个下蝶阀下和有载调压开关两侧第一个下蝶阀下，如图6-1所示。就位现场需要使用液压千斤顶置于千斤顶支架下将变压器顶起，然后在变压器下方放置导轨，慢慢将变压器就位。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/4086f5d3-a980-404c-b8fd-14b00bcb4988.jpg">
+                <title>图6-1 千斤顶支架位置图</title>
+                <ebookNum>41</ebookNum>
+                <PdfNum>48</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>现场就位时发现，变压器千斤顶支架受到液压千斤顶向上的推力作用而产生向上倾斜变形（如图6-2所示），同时底部焊接处出现裂纹（如图6-3所示）。由于现场并不能确定主变压器内部结构是否发生变化，经过各负责人多方面综合考虑分析后，为确保变压器运行的安全、可靠性，决定将变压器返厂进行加固处理。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/3e74aa47-a44d-428a-aceb-155db04bbd30.jpg">
+                <title>图6-2 千斤顶板向上倾斜变形</title>
+                <ebookNum>42</ebookNum>
+                <PdfNum>49</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/cbbef303-69c3-4edb-bfbd-6d89f0e00c8a.jpg">
+                <title>图6-3 千斤顶板底部焊接处有裂纹</title>
+                <ebookNum>42</ebookNum>
+                <PdfNum>49</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+      </section>
+      <section>
+        <title>3 故障处理</title>
+        <info>
+          <PdfNum>49-51</PdfNum>
+          <ebookNum>42-44</ebookNum>
+        </info>
+        <para>变压器返厂后，厂家将4个千斤顶支架拆下，然后从变压器内部对原支架的位置进行测量，如图6-4所示。通过测量，确定了千斤顶支架的倾斜变形没有引起变压器本体结构变化，可以直接进行加固处理工作。为能达到较好的加固效果，厂家对千斤顶支架的结构进行了重新的设计，并更改了千斤顶支架的位置。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/d9fba02f-2b42-4bd8-a679-33ddffed09a2.jpg">
+                <title>图6-4 厂家从变压器内部进行测量</title>
+                <ebookNum>42</ebookNum>
+                <PdfNum>49</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>千斤顶支架原来的设计是在其上部焊接了一块三角支撑板（如图6-5所示），经重新设计后千斤顶支架上部两侧和底部各增加了一块三角支撑板（如图6-6所示），并在内部增加了十字支撑架（如图6-7所示）。</para>
+        <para>另外，厂家将储油柜侧千斤顶支架的位置由第一个下蝶阀下更改至第二个下蝶阀下（如图6-8所示），有载调压开关侧的则由第一个下蝶阀下更改至第三个下蝶阀下（如图6-9所示）。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/263ad21f-63f4-4d90-b98f-30ebfd96a1d6.jpg">
+                <title>图6-5 旧千斤顶支架</title>
+                <ebookNum>43</ebookNum>
+                <PdfNum>50</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/f4de7fdb-7f9d-41bb-86a0-de5bd3b0032a.jpg">
+                <title>图6-6 新千斤顶支架</title>
+                <ebookNum>43</ebookNum>
+                <PdfNum>50</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/abbe3cee-cc04-4e77-b60c-b8e0653c1d34.jpg">
+                <title>图6-7 内部十字支撑架</title>
+                <ebookNum>43</ebookNum>
+                <PdfNum>50</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/f7d723e2-0c5b-41cf-88da-48b1eee06470.jpg">
+                <title>图6-8 储油柜侧千斤顶支架位置更改</title>
+                <ebookNum>43</ebookNum>
+                <PdfNum>50</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/9cebb3cf-ae58-478c-86a1-3dfdea7cabfd.jpg">
+                <title>图6-9 有载调压开关侧千斤顶支架位置更改</title>
+                <ebookNum>43</ebookNum>
+                <PdfNum>50</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>完成加固工作后，对变压器连同附件一同做承重试验，如图6-10所示。试验前，测量千斤顶支架的内侧和外侧至变压器箱沿的距离，如图6-11所示。试验过程中再次进行测量，测量数据见表6-1。由测量数据可知，加固后的千斤顶支架在承重试验前后最大变化幅度不超过1.5mm，变化幅度在正常范围内，试验合格。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/5734954a-642f-459b-9185-465ffe278ffe.jpg">
+                <title>图6-10 变压器承重试验</title>
+                <ebookNum>43</ebookNum>
+                <PdfNum>50</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/1fc33b45-27e2-4540-b478-6287a35a9573.jpg">
+                <title>图6-11 测量千斤顶支架的外侧和内侧至变压器箱沿的距离</title>
+                <ebookNum>43</ebookNum>
+                <PdfNum>50</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="2" fileref="Image/c8bb3ca1-597c-414a-a0c3-e9ce9604f4ea.jpg">
+                <title>表6-1 承重试验数据 mm</title>
+                <tabledesc>试验数据变压器高压侧左变压器高压侧右变压器低压侧左变压器低压侧右内侧外侧内侧外侧内侧外侧内侧外侧试验前100.68101.08100.33102.2299.71100.3100.05102.5试验中101.09101.76100.8102.599.8101101.2102.9</tabledesc>
+                <ebookNum>44</ebookNum>
+                <PdfNum>51</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+      </section>
+      <section>
+        <title>4 故障分析</title>
+        <info>
+          <PdfNum>51-51</PdfNum>
+          <ebookNum>44-44</ebookNum>
+        </info>
+        <para>通过对变压器现场验收以及返厂处理后分析可知，造成110kV某变电站2号主变压器千斤顶支架变形的原因主要有以下几点：</para>
+        <para>（1）变压器设计上存在根本性缺陷。厂家没有准确地计算变压器支撑点的位置，顶升时各个千斤顶支架受力不均。</para>
+        <para>（2）千斤顶支架结构设计不合理。原千斤顶支架只在其上部焊接一块三角板，结构上并不能承担起整台变压器的重量。</para>
+        <para>（3）焊接工艺不过关。厂家在焊接变压器本体和千斤顶支架时存在虚位，致使千斤顶支架在经液压千斤顶打压后，底部焊接处出现明显裂纹。</para>
+      </section>
+      <section>
+        <title>5 防范措施</title>
+        <info>
+          <PdfNum>51-52</PdfNum>
+          <ebookNum>44-45</ebookNum>
+        </info>
+        <para>在该变电站2号主变压器更换验收工作中，验收人员按照验收规程和变压器说明书的相关规定严格把关验收，及时在投运前发现变压器千斤顶支架变形这一重大缺陷，并成功消除了设备的安全隐患。最终该变电站2号主变压器于4月18日如期投运。</para>
+        <para>为了防止同类情况的发生，今后需注意以下几点：</para>
+        <para>（1）在变压器验收过程中，注意变压器的设计图纸及明确的吊装方案，交相关部门审查。</para>
+        <para>（2）出厂验收过程中，加强对变压器主要受力点的检查力度，通过进行承重试验来确定变压器支撑点的受力情况。</para>
+        <para>（3）在主变压器安装过程中安排好监护人员，超吊过程中加强对主变压器受力点及支撑点的监控，发现异常情况应及时停止吊装，并及时反馈。</para>
+        <para>（4）顶升变压器前，检查枕木、垫块和液压千斤顶的质量，对于发现的质量问题，应及时停止作业并通知厂家进行更换。</para>
+        <para>（5）对于液压千斤顶升降的操作应使千斤顶支架各点受力均匀，并及时垫好垫块。</para>
+        <para>新设备在验收期间的整改工作在设备的整个生命周期内扮演着非常重要的角色，直接影响设备的安全可靠运行。因此，必须严格把关设备的验收工作，将设备的安全隐患消除于投运前。</para>
+      </section>
+    </chapter>
+    <chapter>
+      <title>7 110kV某变电站2号主变压器本体乙炔超标分析</title>
+      <info>
+        <PdfNum>53-59</PdfNum>
+        <ebookNum>46-52</ebookNum>
+      </info>
+      <section>
+        <title>1 设备参数</title>
+        <info>
+          <PdfNum>53-53</PdfNum>
+          <ebookNum>46-46</ebookNum>
+        </info>
+        <para>（1）设备名称：2号主变压器本体。</para>
+        <para>（2）设备型号：SZ12-50000/110。</para>
+        <para>（3）设备参数：总油重13.2t。</para>
+        <para>（4）出厂日期：2006年7月。</para>
+        <para>（5）投运日期：2007年9月。</para>
+        <para>（6）有载调压开关型号：VⅢ350Y-76/10193G。</para>
+      </section>
+      <section>
+        <title>2 设备故障情况</title>
+        <info>
+          <PdfNum>53-53</PdfNum>
+          <ebookNum>46-46</ebookNum>
+        </info>
+        <para>2012年5月31日，在对110kV某变电站2号主变压器本体变压器油进行定期色谱分析后，发现油样乙炔含量为7.93μL/L，超过Q/CSG 114002—2011《电力设备预防性试验规程》中规定的“110kV主变压器油中溶解气体色谱分析乙炔注意值5μL/L”，属重大缺陷。2012年6月5日，2号主变压器本体变压器油中乙炔含量达到最大值8.7μL/L。2012年6月7日，检修人员对2号主变压器有载调压开关进行大修，之后2号主变压器乙炔含量有所下降，但仍然高于注意值。</para>
+      </section>
+      <section>
+        <title>3 故障处理</title>
+        <info>
+          <PdfNum>53-54</PdfNum>
+          <ebookNum>46-47</ebookNum>
+        </info>
+        <para>2012年6月7日，检修人员结合该变电站2号主变压器有载调压开关大修工作，对有载调压开关油室进行密封性检查。工作人员吊出有载调压开关芯子后对变压器本体进行加压试漏，发现有载调压开关油室密封大法兰处存在渗油现象。因此可以确定造成2号主变压器本体油质乙炔超标的原因为：有载调压开关油室密封大法兰密封不严，导致变压器本体油室与有载调压开关油室油路互相渗透，有载调压开关油室内的乙炔向本体油室扩散。因当时没有有载调压开关大法兰盖等配套胶圈，故将缺陷推迟处理。</para>
+        <para>2013年1月16日，检修人员对该变电站2号主变压器本体排油后，吊出有载调压开关芯子，然后拆开有载调压开关上部大法兰盖更换密封胶圈。更换胶圈后对2号主变压器本体进行补油。当对主变压器滤油后，检修人员用氮气对主变压器本体储油柜加压（压力为0.032MPa），检查发现有载开关油室无渗漏现象。然后将有载调压开关安装上并开启真空滤油机进行热油循环。1月19日停止滤油循环，静置72h后取本体油样试验，试验结果显示2号主变压器本体乙炔含量为0.1μL/L。之后继续对2号主变压器本体油样进行跟踪试验，数据见表7-1，试验结果均合格。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="2" fileref="Image/3aa18e4a-3266-42a5-bb22-4ce27adb21a9.jpg">
+                <title>表7-1 缺陷处理后2号主变压器本体油样色谱数据 μL/L</title>
+                <tabledesc>日期氢（H2）甲烷（CH4）乙烷（C2H6）乙烯（C2H4）乙炔（C2H2）一氧化碳（CO）二氧化碳（CO2）总烃2013-1-237.490.4100.090.1111700.6002013-3-139.960.920.50.180.66605792.2602013-5-131.651.10.290.320.98725792.690</tabledesc>
+                <ebookNum>47</ebookNum>
+                <PdfNum>54</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+      </section>
+      <section>
+        <title>4 故障分析</title>
+        <info>
+          <PdfNum>54-58</PdfNum>
+          <ebookNum>47-51</ebookNum>
+        </info>
+        <section>
+          <title>4.1 色谱数据分析</title>
+          <info>
+            <PdfNum>54-55</PdfNum>
+            <ebookNum>47-48</ebookNum>
+          </info>
+          <para>2号主变压器在2012年5月9日前，油色谱试验数据一直正常。2012年5月31日油色谱试验时，乙炔含量为7.93μL/L，超过注意值5μL/L。随后，变电站工作人员对2号主变压器本体乙炔含量进行定期跟踪，密切关注油中溶解气体的变化趋势，数据见表7-2。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="2" fileref="Image/b68d164d-dd2f-42e9-b3d1-a2bc549d647a.jpg">
+                  <title>表7-2 2号主变压器本体油色谱定期监测数据 μL/L</title>
+                  <tabledesc>时间氢（H2）甲烷（CH4）乙烷（C2H6）乙烯（C2H4）乙炔（C2H2）一氧化碳（CO）二氧化碳（CO2）总烃2012-5-99.255.830.690.6206479907.142012-5-3131.2912.461.595.007.93835149826.980</tabledesc>
+                  <ebookNum>47</ebookNum>
+                  <PdfNum>54</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="2" fileref="Image/65a03aa8-8160-4fde-a4c2-d5b4d83be01e.jpg">
+                  <title>续表</title>
+                  <tabledesc>时间氢（H2）甲烷（CH4）乙烷（C2H6）乙烯（C2H4）乙炔（C2H2）一氧化碳（CO）二氧化碳（CO2）总烃2012-6-535.313.271.355.178.7912162928.4902012-6-1230.618.741.133.668.55539100822.0802012-6-2133.059.020.993.538.16598103721.7002012-9-533.0113.741.585.216.22934194526.750</tabledesc>
+                  <ebookNum>48</ebookNum>
+                  <PdfNum>55</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+        </section>
+        <section>
+          <title>4.2 故障类型及性质</title>
+          <info>
+            <PdfNum>55-55</PdfNum>
+            <ebookNum>48-48</ebookNum>
+          </info>
+          <para>变压器内部故障一般分为放电性故障和过热性故障两大类。放电性故障又分为局部放电、低能量放电（火花放电）和高能量放电（电弧放电）；过热性故障分为低温过热、中温过热、高温过热等。为了确定故障类型及性质，按DL/T 722—2000《变压器油中溶解气体分析和判断导则》中的三比值法，对表2中2012年5月31日的色谱数据进行计算，其编码组合数为1、0、2，故障类型及性质为低能量放电，具体可能是以下三种情况之一：</para>
+          <para>（1）引线对电位未固定的部件之间连续火花放电；</para>
+          <para>（2）分接抽头引线和油隙闪络；</para>
+          <para>（3）不同电位之间的油中火花放电或悬浮电位之间的火花放电。</para>
+        </section>
+        <section>
+          <title>4.3 故障严重程度及发展趋势的判断</title>
+          <info>
+            <PdfNum>55-56</PdfNum>
+            <ebookNum>48-49</ebookNum>
+          </info>
+          <para>按DL/T 722—2000《变压器油中溶解气体分析和判断导则》提出的产气速率公式，计算出绝对产气速率。绝对产气速率即每个运行日产生某种气体的平均值，计算公式为</para>
+          <para align="right">
+            <mediaobject>
+              <imageobject>
+                <imagedata role="1" fileref="Image/56b76a3b-c9bd-47f5-a150-18f436ea9bd9.jpg">
+                  <ebookNum>48</ebookNum>
+                  <PdfNum>55</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>式中 y <subscript>a</subscript>———绝对产气速率，mL/d；</para>
+          <para>c<subscript>12</subscript>———第二次取样测得油中某气体浓度，μL/L；</para>
+          <para>c<subscript>11</subscript>———第一次取样测得油中某气体浓度，μL/L；</para>
+          <para>Δt———两次取样时间间隔中的实际运行时间日，d；</para>
+          <para>G———设备总油量，t；</para>
+          <para>ρ———油的密度，t/m<superscript>3</superscript>。</para>
+          <para>将表7-2中2012年5月31日及6月5日的数据代入式（7-1）中，可得到乙炔的绝对产气速率</para>
+          <para align="center">
+            <mediaobject>
+              <imageobject>
+                <imagedata role="1" fileref="Image/e8b3b551-a6ff-4f20-8e2a-90c7b47c39e2.jpg">
+                  <ebookNum>49</ebookNum>
+                  <PdfNum>56</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>变压器乙炔绝对产气速率的注意值见表7-3。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="2" fileref="Image/114cb7a5-9e69-43d0-8ef5-d24fb1e3c353.jpg">
+                  <title>表7-3 变压器乙炔绝对产气速率的注意值 mL/d</title>
+                  <tabledesc>开放式隔膜式0.10.2</tabledesc>
+                  <ebookNum>49</ebookNum>
+                  <PdfNum>56</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>通过计算发现，变压器油中乙炔的绝对产气速率大大高于DL/T 722—2000《变压器油中溶解气体分析和判断导则》规定的产气速率注意值，可判定故障发展速度较快。</para>
+        </section>
+        <section>
+          <title>4.4 高压试验和油分析相结合寻找故障点</title>
+          <info>
+            <PdfNum>56-57</PdfNum>
+            <ebookNum>49-50</ebookNum>
+          </info>
+          <para>为了确定2号主变压器内部是否存在局部放电现象（如存在则要找到局部放电点的确切位置），2012年6月4日对该主变压器进行局部放电测试，结果未发现变压器内部存在放电现象。同时，主变压器本体油中的乙炔值在到达最大值8.7μL/L之后有轻微下降趋势，如果存在放电现象，主变压器本体油中的乙炔含量将会持续增长。因此，可以判断2号主变压器内部不存在局部放电缺陷。</para>
+          <para>之后，对有载调压开关变压器油进行色谱分析（在特殊情况下可对有载开关变压器油进行色谱分析，以作为变压器故障的辅助判断），数据见表7-4，其结果合格。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="2" fileref="Image/d20a7f67-54a3-4acc-898a-3a5c645e5597.jpg">
+                  <title>表7-4 有载调压开关变压器油色谱数据 μL/L</title>
+                  <tabledesc>氢（H2）甲烷（CH4）乙烷（C2H6）乙烯（C2H4）乙炔（C2H2）一氧化碳（CO）二氧化碳（CO2）总烃918.26134.015.3197.56643.459593608880.330</tabledesc>
+                  <ebookNum>49</ebookNum>
+                  <PdfNum>56</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>对主变压器油进行微水分析，其微水含量为 2.5mg/L，符合 Q/CSG 114002—2001《电力设备预防性试验规程》规定的“110kV以下变压器微水含量不得大于35mg/L”。这说明变压器内部不可能有微量水分形成“小桥”放电。</para>
+          <para>2012年6月6日，对2号主变压器本体进行预防性试验。试验项目有主变压器绕组的变形测试、直阻测试，绕组连同套管的绝缘、介损测试，绕组所有分接的电压比测试，试验结果均合格。</para>
+        </section>
+        <section>
+          <title>4.5 其他原因分析</title>
+          <info>
+            <PdfNum>57-57</PdfNum>
+            <ebookNum>50-50</ebookNum>
+          </info>
+          <para>该变电站自2007年9月投运以来，未发生过重大或紧急缺陷，也没有超额定容量运行的情况发生，所以变压器在非故障情况下油中出现乙炔的原因可能有以下几点：</para>
+          <para>（1）现场油处理设备引起。例如：滤油机加热元件故障或因油泵停运，而加热元件仍工作，引起加热器中的油过热分解；因油罐、滤油机中的残油中含有乙炔，使用前又未处理干净引起。查阅该主变压器安装试验报告及历年运行检修记录，发现2012年5月9日时主变压器油色谱试验结果正常，而且在此之后2号主变压器没有进行过油处理工作，因此排除了此项可能原因。</para>
+          <para>（2）对变压器进行补焊产生乙炔。安装过程中有时要对变压器进行焊接作业，焊区的高温可能会引起油分解而产生乙炔。但2号主变压器从未进行过焊接作业，因此又排除了此项可能原因。</para>
+          <para>（3）有载调压开关油室与变压器油箱之间密封油路互相渗透。表4中数据显示有载调压开关油室乙炔含量较高，有可能是因为有载调压开关绝缘油中的乙炔流入变压器油箱中，使主变压器本体的乙炔含量上升。值得注意的是，在2012年6月7日对2号主变压器有载调压开关大修后（已更换有载调压开关油室的变压器油），主变压器本体的乙炔含量呈轻微下降趋势。所以，极有可能是因为有载调压开关油室与主变压器本体油箱互相渗透，在有载调压开关油室更换新变压器油后，主变压器本体的乙炔流向有载调压开关油室，最终使得主变压器本体的乙炔含量轻微下降。</para>
+        </section>
+        <section>
+          <title>4.6 结论</title>
+          <info>
+            <PdfNum>58-58</PdfNum>
+            <ebookNum>51-51</ebookNum>
+          </info>
+          <para>综合以上的变压器油色谱分析、局部放电测试、有载调压开关变压器油的色谱分析、主变压器油微水分析及其他原因分析，造成2号主变压器本体变压器油乙炔超标的原因很有可能就是有载调压开关油室与变压器油箱之间的油路互相渗透。</para>
+          <para>主变压器有载调压开关与本体油路渗透的原因主要有以下三个方面：</para>
+          <para>（1）有载调压开关设计及制造工艺不当，部分有载调压开关连接片及密封胶圈之间不匹配，导致密封胶圈受挤压力度不均，密封破坏，产生了渗油。</para>
+          <para>（2）有载调压开关密封结构不合理，密封材质欠佳。例如O 型密封胶圈材质不良、易老化、易受磨损，长期浸泡在油中出现裂缝，造成调压断路器筒体间间隙过大，密封胶圈被挤入间隙，这时O型密封胶圈在槽中出现翻滚现象。当挤入间隙的长度超过其弹性变形范围时，就会因发生永久变形而遭到破坏。</para>
+          <para>（3）有载调压开关安装及注油方法不当。在对主变压器本体进行真空注油时，如未将主变压器本体油箱与有载调压开关油室连通，而只对主变压器本体抽真空，有载调压开关油室仍处在正常的大气压下，就会造成两个油室之间出现较大的压差。有载调压开关密封件、轴封等均要承受这一压差，会使密封遭受不同程度的损坏。</para>
+          <para>根据相关检修导则规定，110kV/20 000kVA 及以上的主变压器，抽真空的真空度（残压）应达到0.035MPa。如果其有载调节开关未抽真空，则密封件承受的压差为0.065MPa，超过了密封件的设计密封强度0.05MPa，这种情况下，密封件就会受到损坏，出现渗漏油现象。</para>
+        </section>
+      </section>
+      <section>
+        <title>5 防范措施</title>
+        <info>
+          <PdfNum>58-59</PdfNum>
+          <ebookNum>51-52</ebookNum>
+        </info>
+        <para>防止主变压器油箱与有载调压开关油室油路渗透的措施如下：</para>
+        <para>（1）对主变压器真空注油时需严格防止出现压差，以免破坏密封。对不同类型的有载调压开关可以采用不同的方法，例如V型断路器，在断路器盖板上有专用的4 个连接管和小法兰孔 E2、R、Q、S，如图7-1所示。其中E2从断路器盖板下接通变压器本体油箱。抽真空时，只需连接E2和Q法兰孔，就可使断路器油室与变压器油箱连通。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/9fef35ef-6654-40fc-a887-97c865cb980e.jpg">
+                <title>图7-1 有载调压开关盖板示意图</title>
+                <ebookNum>52</ebookNum>
+                <PdfNum>59</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>（2）改进密封结构，提高密封程度。现场主变压器安装或大修时，应认真检查有载调压开关的全部密封件及密封装配情况，严格工艺，采取适当紧固、更换、改进密封结构等措施，以提高其密封程度。</para>
+        <para>（3）加强主变压器验收，严格把关主变压器各部件质量。在采购时选取质量优等的密封胶圈，在监造过程中增加对主变压器油箱与有载调压开关油室的密封性试验。</para>
+      </section>
+    </chapter>
+    <chapter>
+      <title>8 110kV某变电站2号主变压器110kV侧中性点套管绝缘不合格缺陷分析</title>
+      <info>
+        <PdfNum>60-67</PdfNum>
+        <ebookNum>53-60</ebookNum>
+      </info>
+      <section>
+        <title>1 设备参数</title>
+        <info>
+          <PdfNum>60-60</PdfNum>
+          <ebookNum>53-53</ebookNum>
+        </info>
+        <para>（1）110kV某变电站2号主变压器。</para>
+        <para>1）设备型号：SZ10-63000/110。</para>
+        <para>2）投运日期：2010年8月2日。</para>
+        <para>（2）110kV侧中性点套管。</para>
+        <para>1）设备型号：BRDLW2-72.5/630-3。</para>
+        <para>2）投运日期：2010年8月2日。</para>
+      </section>
+      <section>
+        <title>2 设备故障情况</title>
+        <info>
+          <PdfNum>60-63</PdfNum>
+          <ebookNum>53-56</ebookNum>
+        </info>
+        <section>
+          <title>2.1 故障发现情况</title>
+          <info>
+            <PdfNum>60-60</PdfNum>
+            <ebookNum>53-53</ebookNum>
+          </info>
+          <para>2013年7月19日，试验人员在110kV某变电站进行2号主变压器套管预防性试验时发现110kV侧中性点套管绝缘下降，主绝缘及末屏绝缘的绝缘电阻均只有3MΩ，电容量变化143.7%。2号主变压器套管相关试验数据见表8-1。</para>
+          <para>从表8-1可知：中性点套管绝缘与交接时相比大幅下降，电容值与交接时相比增长近143.7%。各项测试数据均超出Q/CSG 114002—2011《电力设备预防性试验规程》要求，初步判定为套管绝缘下降，但还需对套管绝缘油进行油化分析，作进一步判定。</para>
+        </section>
+        <section>
+          <title>2.2 设备检查情况</title>
+          <info>
+            <PdfNum>60-62</PdfNum>
+            <ebookNum>53-55</ebookNum>
+          </info>
+          <para>当天检修人员赶到现场，对2号主变压器110kV侧中性点套管进行检查。检修人员通过中性点套管上部油位观察镜发现，套管内部金属部位存在锈蚀，并且轻轻拍打套管时绝缘油出现气泡，如图8-1所示。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="2" fileref="Image/413d37ec-1d28-442c-a87f-2495c755d5bd.jpg">
+                  <title>表8-1 2号主变压器套管相关试验数据</title>
+                  <tabledesc>2010年交接试验数据铭牌电容（pF）套管电容Cx（pF）电容差（%）tanδ（%）主绝缘的绝缘电阻（MΩ）末屏绝缘的绝缘电阻（MΩ）末屏电容CN（pF）35435400.25500002500\2013年交接试验数据铭牌电容（pF）套管电容Cx（pF）电容差（%）tanδ（%）主绝缘的绝缘电阻（MΩ）末屏绝缘的绝缘电阻（MΩ）末屏电容CN（pF）354862.8143.7%0332166使用仪表介损电桥AI-6000（D）电动绝缘电阻表3121要求1）110kV及以上套管主绝缘的绝缘电阻值一般不应低于10000MΩ，末屏对地的绝缘电阻不应低于1000MΩ；2）主绝缘20℃时的tanδ%值不应大于GB50150—2006《电气装置安装工程电气设备交接试验标准》的规定值（110kV油纸型套管的tanδ%值为不大于1%）；3）当电容型套管末屏对地绝缘电阻低于1000MΩ时，应测量末屏对地的tanδ，其值不大于2%；4）当电容量变化达到+5%（或达到一层电容屏击穿引起的变化）时应认真处理，并查明原因</tabledesc>
+                  <ebookNum>54</ebookNum>
+                  <PdfNum>61</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="0" fileref="Image/6e994e0c-c1f4-462e-a9f2-814c0650174d.jpg">
+                  <title>图8-1 套管内部存在锈蚀</title>
+                  <ebookNum>54</ebookNum>
+                  <PdfNum>61</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>另外，检修人员拆开中性点套管上部注油塞检查时发现，注油塞存在严重氧化痕迹，其密封胶圈已损坏，失去弹性，如图8-2所示。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="0" fileref="Image/af5a75a1-dbd4-4844-8fd9-b0150b87aad6.jpg">
+                  <title>图8-2 注油塞严重氧化（密封胶圈损坏）</title>
+                  <ebookNum>55</ebookNum>
+                  <PdfNum>62</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>通过外观检查，检修人员判定：2号主变压器110kV侧中性点套管因上部注油塞密封不良，外部水分渗入套管导致套管绝缘下降。</para>
+        </section>
+        <section>
+          <title>2.3 设备试验情况</title>
+          <info>
+            <PdfNum>62-62</PdfNum>
+            <ebookNum>55-55</ebookNum>
+          </info>
+          <para>油化验员对2号主变压器本体及中性点套管抽取油样进行试验，结果见表8-2。油样分析显示，中性点套管中氢气含量为1793.9μL/L、CO<subscript>2 </subscript>含量为36 012μL/L、微水含量为60mg/L，均严重超标。按三比值法对表8-2中的中性点套管绝缘油色谱数据进行计算，其编码组合数为0、1、0，故障类型及性质为局部放电。另外，油中CO<subscript>2 </subscript>含量高达36 012μL/L，说明故障已涉及固体绝缘。因此，中性点套管缺陷判断为套管绝缘受潮，套管电容屏已部分击穿。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="2" fileref="Image/d9df1c20-951b-4bf5-b0be-13e12d32c68a.jpg">
+                  <title>表8-2 2号主变压器本体及中性点套管油试验数据</title>
+                  <tabledesc>设备氢（μL/L）甲烷（μL/L）乙烷（μL/L）乙烯（μL/L）乙炔（μL/L）一氧化碳（μL/L）二氧化碳（μL/L）总烃（μL/L）微水（mg/L）2号主变压器高压侧中性点套管1793.920.4310.684.2201903601235.34602号主变压器本体9.643.880.530.4503358484.946Q/CSG114002—2011《电力设备预防性试验规程》要求：油中溶解气体组分含量（μL/L）超过下列任一值时应引起注意，并停电检查。H2：500；CH4：100；C2H2：1（220、500kV）或2（110kV）；微水含量：≤35mg/L（110kV）</tabledesc>
+                  <ebookNum>55</ebookNum>
+                  <PdfNum>62</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+        </section>
+        <section>
+          <title>2.4 设备解体分析</title>
+          <info>
+            <PdfNum>63-63</PdfNum>
+            <ebookNum>56-56</ebookNum>
+          </info>
+          <para>为了进一步确定套管故障的原因，检修人员对更换下来的该变电站2号主变压器110kV侧中性点套管进行了解体检查。解体时套管散发出一股刺激性异味。通过观察套管内部发现，套管储油柜内壁及弹簧氧化严重，如图8-3、图8-4所示。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="0" fileref="Image/8d3c7817-ce83-44fe-a549-076313cec874.jpg">
+                  <title>图8-3 储油柜内壁存在油泥</title>
+                  <ebookNum>56</ebookNum>
+                  <PdfNum>63</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="0" fileref="Image/090bdf5d-fbb5-4ed1-bd3c-e2ed1579f73a.jpg">
+                  <title>图8-4 弹簧生锈</title>
+                  <ebookNum>56</ebookNum>
+                  <PdfNum>63</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>从图8-3、图8-4可以看出，套管顶部储油柜内有大量铁锈，结合试验结果可以判断套管进水已经持续了一段时间。套管上部注油阀密封胶圈损坏（如图8-5所示），套管密封已失效，导致外部水分通过套管注油阀进入套管内部。由于套管芯子是由多层电缆纸和铝箔交错卷制而成的，所以当潮气进入套管内部后，带杂质的潮气浸入电容屏间或绝缘层间，造成电缆纸逐渐老化，导致套管的绝缘下降。从图8-6中可以发现，电缆纸受到潮气侵蚀，已变为深褐色，正常的电缆纸应为金黄色。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="0" fileref="Image/8f031e7d-acf1-4e9c-8851-73ffe15ab2e9.jpg">
+                  <title>图8-5 套管注油阀密封胶圈损坏</title>
+                  <ebookNum>56</ebookNum>
+                  <PdfNum>63</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="0" fileref="Image/2c618a7f-1049-4d42-8ff8-deec061643cd.jpg">
+                  <title>图8-6 电缆纸变为深褐色</title>
+                  <ebookNum>56</ebookNum>
+                  <PdfNum>63</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+        </section>
+      </section>
+      <section>
+        <title>3 故障分析</title>
+        <info>
+          <PdfNum>64-64</PdfNum>
+          <ebookNum>57-57</ebookNum>
+        </info>
+        <para>该变电站2号主变压器中性点套管为油纸电容型，主要由储油柜、电容芯子、瓷套、连接法兰及其他固定附件组成。电容芯子内部导电管上卷有电缆纸和铝箔，最外面的一层铝箔即为末屏。套管在运行中相当于多个电容器相串联的电路，正常情况下系统电压均匀地分配在电容芯子的全部绝缘上。本次缺陷由于套管上部注油塞密封破坏，引起外部水分渗入套管内部，潮气持续浸入电容屏间或绝缘层间。随着受潮程度加重，容性损耗产生热量并加速绝缘老化，绝缘油在高温下碳化分解产生气体，套管内部压力逐渐上升，加剧密封装置损坏，在系统电压的作用下开始产生局部放电，最终导致套管绝缘下降和电容值不合格，直至试验人员对该主变压器进行年度预防性试验时才发现该缺陷。</para>
+        <para>查阅该变电站2号主变压器的检修和预防性试验记录发现，2号主变压器自投运至今，都没有对110kV侧中性点套管进行检修和取油样的记录，因此套管上部注油塞确定没有打开过。该套管注油塞在投运3年之内密封性破坏，很可能是因为厂家在取套管油样后，安装注油塞时因安装不当导致密封胶圈被压坏。</para>
+      </section>
+      <section>
+        <title>4 同类型设备情况</title>
+        <info>
+          <PdfNum>64-66</PdfNum>
+          <ebookNum>57-59</ebookNum>
+        </info>
+        <para>2013年7月22日，试验人员在110kV某变电站进行3号主变压器套管预试时发现110kV侧中性点套管电容量变化-4.65%，接近注意值5%，多次测试及更换仪器复测结果无变化。套管相关试验数据见表8-3。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="2" fileref="Image/b5f2ea92-df4d-40e6-be3b-a75dc74b582d.jpg">
+                <title>表8-3 3号主变压器套管相关试验数据</title>
+                <tabledesc>2010年交接试验数据铭牌电容（pF）套管电容Cx（pF）电容差（%）tanδ（%）主绝缘的绝缘电阻（MΩ）末屏绝缘的绝缘电阻（MΩ）末屏电容CN（pF）34234200.2811400070000\2013年交接试验数据铭牌电容（pF）套管电容Cx（pF）电容差（%）tanδ（%）主绝缘的绝缘电阻（MΩ）末屏绝缘的绝缘电阻（MΩ）末屏电容CN（pF）342326.1-4.65%0.2883000030000737</tabledesc>
+                <ebookNum>57</ebookNum>
+                <PdfNum>64</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="2" fileref="Image/b35962c9-ae12-4757-87fd-2241055179c8.jpg">
+                <title>续表</title>
+                <tabledesc>使用仪表介损电桥AI-6000（D）电动摇表3121要求1）110kV及以上套管主绝缘的绝缘电阻值一般不应低于10000MΩ，末屏对地的绝缘电阻不应低于1000MΩ；2）主绝缘20℃时的tanδ%值不应大于GB50150—2006的规定值（110kV油纸型套管的tanδ%值为不大于1%）；3）当电容型套管末屏对地绝缘电阻低于1000MΩ时，应测量末屏对地的tanδ，其值不大于2%；4）当电容量变化达到+5%（或达到一层电容屏击穿引起的变化）时应认真处理，并查明原因</tabledesc>
+                <ebookNum>58</ebookNum>
+                <PdfNum>65</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>检修人员发现3号主变压器中性点套管底部瓷套与底座连接处有开裂现象，如图8-7所示。为确保变压器安全稳定运行，经与设备管理部联系，决定更换110kV某变电站3号主变压器110kV侧中性点套管。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/7cca4511-6e2f-4292-9300-f71603ea4937.jpg">
+                <title>图8-7 3号主变压器中性点套管底部瓷套与底座连接处有开裂现象</title>
+                <ebookNum>58</ebookNum>
+                <PdfNum>65</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>油化验员对3号主变压器本体及中性点套管抽取油样进行试验，结果见表8-4。油样分析显示3号主变压器中性点套管油试验数据合格。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="2" fileref="Image/05d3e8a9-b30c-4969-912f-81b5fc92e91f.jpg">
+                <title>表8-4 3号主变压器中性点套管油试验数据</title>
+                <tabledesc>设备氢（μL/L）甲烷（μL/L）乙烷（μL/L）乙烯（μL/L）乙炔（μL/L）一氧化碳（μL/L）二氧化碳（μL/L）总烃（μL/L）微水（mg/L）3号主变压器高压侧中性点套管37.377.795.450.70249206013.943Q/CSG114002—2011《电力设备预防性试验规程》要求：油中溶解气体组分含量（μL/L）超过下列任一值时应引起注意，停电检查。H2：500；CH4：100；C2H2：1（220、500kV）或2（110kV）；微水含量：≤35mg/L（110kV）</tabledesc>
+                <ebookNum>58</ebookNum>
+                <PdfNum>65</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>7月31日，检修人员对某变电站3号主变压器中性点套管进行解体分析。解体发现，套管注油阀及储油柜弹簧完好，没有氧化痕迹，结合油化验数据及套管解体检查，检修人员判定该套管没有渗水。但是，当解开电容芯子内部导电管上的电缆纸和铝箔时，发现铝箔存在多处皱褶，如图8-8所示。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/810d05b5-25aa-414c-9b93-99309568ea0e.jpg">
+                <title>图8-8 铝箔存在多处皱褶</title>
+                <ebookNum>59</ebookNum>
+                <PdfNum>66</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>氧化铝是介电常数比较高的介电材料。铝箔表面经氧化处理后会形成一定厚度的氧化铝膜，套管的电容芯子就是利用这层铝膜的介电性质来实现存储电荷的功能。铝箔电容的电容量公式为</para>
+        <para align="center">
+          <mediaobject>
+            <imageobject>
+              <imagedata role="1" fileref="Image/0e0d339b-e602-4efb-be2e-cc559470f0ff.jpg">
+                <ebookNum>59</ebookNum>
+                <PdfNum>66</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>式中：C为电容量；ε<subscript>0</subscript>和ε<subscript>r</subscript>分别为真空介电常数和相对介电常数；S和d分别为介电薄膜的面积和厚度。</para>
+        <para>氧化铝的相对介电常数为8～10。由电容量的计算公式可以看出ε<subscript>0</subscript>和ε<subscript>r</subscript>都是自然常数，如果电容芯子的铝箔发生多处皱褶，会使介电薄膜的面积S减少，导致套管的电容量下降。</para>
+        <para>对比某变电站2号主变压器中性点套管和3号主变压器中性点套管的解体情况，发现3号主变压器中性点套管电容芯子的铝箔安装质量相对较差，铝箔多处发生皱褶。因此，建议在选购变压器套管时，要求厂家选用质量优异的铝箔，并提高安装质量。</para>
+      </section>
+      <section>
+        <title>5 防范措施</title>
+        <info>
+          <PdfNum>67-67</PdfNum>
+          <ebookNum>60-60</ebookNum>
+        </info>
+        <para>通过对某变电站2号主变压器110kV侧中性点套管缺陷进行分析，不难发现产生本次套管缺陷的原因为套管注油阀密封失效，使套管储油柜进水，导致套管主绝缘及油的性能下降。在潮气的长期作用下，套管的绝缘强度逐渐降低。形成此缺陷的原因，一方面是套管本身设计或制造存在薄弱环节，以及变压器在长期运行过程中可能出现种种问题，如套管密封胶圈质量不过关、密封垫承受过压等缺陷；另一方面是人为因素，是厂家在安装过程中未严格按照施工规范做好各项检查工作等造成的。为避免此类型故障的再次发生，建议如下：</para>
+        <para>（1）在变压器安装过程中，按照规程见证，严格把控厂家的安装质量关；变压器在投运前，必须检查变压器密封性，确保主变压器套管注油塞密封性良好。</para>
+        <para>（2）选购变压器套管时，要求厂家选用质量优异的铝箔，并提高安装质量。</para>
+        <para>（3）采购一批与原厂型号相同的注油塞及密封胶圈备品，以便出现套管注油塞密封胶圈损坏缺陷时能够及时处理，避免事故的发生。</para>
+        <para>（4）结合停电计划，对投运5年内，特别是采用同类型套管的主变压器进行检查维护，确保主变压器套管的注油塞及密封胶圈良好。</para>
+      </section>
+    </chapter>
+    <chapter>
+      <title>9 110kV某变电站2号主变压器散热器严重漏油分析</title>
+      <info>
+        <PdfNum>68-70</PdfNum>
+        <ebookNum>61-63</ebookNum>
+      </info>
+      <section>
+        <title>1 设备参数</title>
+        <info>
+          <PdfNum>68-68</PdfNum>
+          <ebookNum>61-61</ebookNum>
+        </info>
+        <para>（1）设备名称：2号主变压器。</para>
+        <para>（2）设备类别：主变压器类。</para>
+        <para>（3）设备型号：SZ9-50000/110。</para>
+        <para>（4）出厂日期：1999年1月。</para>
+        <para>（5）投运日期：2001年6月29日。</para>
+        <para>（6）油重/气重：16.5t；油号：25号。</para>
+        <para>（7）运行年限：12年。</para>
+      </section>
+      <section>
+        <title>2 设备故障情况</title>
+        <info>
+          <PdfNum>68-68</PdfNum>
+          <ebookNum>61-61</ebookNum>
+        </info>
+        <para>（1）结合主变压器维护和巡视情况的汇总，工作人员发现某变电站2号主变压器散热器放气嘴和法兰阀存在很多漏油点，设备存在漏油缺陷等安全风险。对此检修工作人员于2013年3月18日处理2号主变压器漏油，并对其有载开关大修，以及进行2号主变压器维护。同时在2号主变压器散热器放气嘴和法兰阀漏油处上紧螺栓，其中12号散热器放气嘴更换密封胶圈，更换后放气嘴无漏油、渗油的痕迹。</para>
+        <para>（2）2013年3月27日，运行巡视人员发现2号主变压器散热器严重漏油，紧急通知班组抢修。</para>
+      </section>
+      <section>
+        <title>3 故障处理</title>
+        <info>
+          <PdfNum>68-69</PdfNum>
+          <ebookNum>61-62</ebookNum>
+        </info>
+        <para>（1）2013年3月27日，工作人员赶到现场后，寻找2号主变压器漏油位置。</para>
+        <para>（2）现场相关保护动作，2013年3月27日13 ∶ 05 ∶ 19时2号主变压器保护轻瓦斯信号动作，如图9-1所示。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/4f0f0482-65fc-45da-9130-7ffd1ac64d7a.jpg">
+                <title>图9-1 主变压器保护轻瓦斯信号动作</title>
+                <ebookNum>62</ebookNum>
+                <PdfNum>69</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>（3）检修工作人员现场检查2号主变压器，发现2号主变压器12号散热器放气嘴严重漏油，放气嘴密封胶圈已经挤压破裂，断裂成两块，密封胶圈变形痕迹明显，如图9-2所示。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/52ca70dc-8086-4c04-8c81-7e375947fd27.jpg">
+                <title>图9-2 胶圈变形痕迹图</title>
+                <ebookNum>62</ebookNum>
+                <PdfNum>69</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>（4）按照变压器漏油流量计算，放气嘴漏油应该在一个星期前开始，长时间漏油导致轻瓦斯发信，结合实际油位测量，确认储油柜无变压器油。</para>
+        <para>（5）在检查中发现储油柜存在很多锈迹，同时无法判断玻璃式主变压器储油柜油位计对运行主变压器是否存在潜在风险，为以防万一，建议结合停电机会，更换储油柜和储油柜油位计。</para>
+      </section>
+      <section>
+        <title>4 故障分析</title>
+        <info>
+          <PdfNum>69-70</PdfNum>
+          <ebookNum>62-63</ebookNum>
+        </info>
+        <para>（1）针对以上现场漏油检查结果，初步分析导致漏油的主要原因为：2号主变压器散热器放气嘴密封胶圈损坏。</para>
+        <para>（2）工作人员分析密封胶圈，发现密封胶圈已经老化，无弹性。</para>
+        <para>（3）查找密封胶圈备品备件清单，询问备品备件负责人，发现密封胶圈管控问题严重：密封胶圈存放10年左右，已有老化痕迹，当受到外力挤压作用时，加速密封胶圈变形，缩短密封胶圈使用寿命。</para>
+        <para>（4）按照备品备件管理要求，2012年申购的密封胶圈备品备件，故障时仍未落实，班组的清单记录如图9-3所示。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/1bcc1d0b-8c1c-4db4-ae40-eb023dcac6c9.jpg">
+                <title>图9-3 申购密封胶圈备品备件清单</title>
+                <ebookNum>63</ebookNum>
+                <PdfNum>70</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+      </section>
+      <section>
+        <title>5 防范措施</title>
+        <info>
+          <PdfNum>70-70</PdfNum>
+          <ebookNum>63-63</ebookNum>
+        </info>
+        <para>为了今后工作顺利开展，以及避免重复发生因备品备件而出现的这类缺陷，应加强备品备件管控。</para>
+        <para>（1）从长远考虑，定期检查、更新主变压器密封胶圈备品备件清单。</para>
+        <para>（2）为了确保密封胶圈的密封性，对存放密封胶圈提高要求，建议密封胶圈保存在一个真空室，杜绝胶圈老化和胶圈潮湿。</para>
+      </section>
+    </chapter>
+    <chapter>
+      <title>10 110kV某变电站1号主变压器绕组直流电阻不平衡分析</title>
+      <info>
+        <PdfNum>71-78</PdfNum>
+        <ebookNum>64-71</ebookNum>
+      </info>
+      <section>
+        <title>1 设备参数</title>
+        <info>
+          <PdfNum>71-71</PdfNum>
+          <ebookNum>64-64</ebookNum>
+        </info>
+        <para>（1）设备名称：1号主变压器。</para>
+        <para>（2）主变压器设备型号：SFSZ-50000/110/6.3。</para>
+        <para>（3）主变压器出厂日期：1998年2月。</para>
+        <para>（4）有载分接开关设备型号：NRHⅢ400-120-12193G。</para>
+        <para>（5）有载分接开关出厂日期：2001年4月。</para>
+      </section>
+      <section>
+        <title>2 设备故障情况</title>
+        <info>
+          <PdfNum>71-74</PdfNum>
+          <ebookNum>64-67</ebookNum>
+        </info>
+        <para>2010年1月25日，试验人员在某变电站1号主变压器的预防性试验中发现变压器高压绕组直流电阻三相严重不平衡，而其他的试验项目均合格。直流电阻不平衡系数=[（R<subscript>max</subscript>-R<subscript>min</subscript>）/R<subscript>ave</subscript>]×100%，不平衡系数＞2%为不合格。在排除了测试线接触不良、仪器故障等原因后，疑是有载开关触头表面的氧化膜造成故障。于是对有载分接开关进行数百次的切换，随后又进行了多次的测量，结果仍不合格，见表10-1。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="2" fileref="Image/475f1b37-d736-4ba0-be27-8c8b89d0e621.jpg">
+                <title>表10-1 有载开关切换前后两组数据三相变化的对比</title>
+                <tabledesc>有载分接开关挡位A-O直阻（mΩ）B-O直阻（mΩ）C-O直阻（mΩ）相间差（%）切换前切换后变化率切换前切换后变化率切换前切换后变化率切换前切换后1486.1477.0-1.87%463459.5-0.76%463.6460.9-0.58%4.9053.7362459.9454.4-1.20%454.2452.5-0.37%464.4462.6-0.39%2.6512.2123447.3448.10.18%446.7445.3-0.31%445447.00.45%0.5150.6264476465.3-2.25%440440.30.07%447445.9-0.25%7.7205.5495472.8459.8-2.75%431431.80.19%437.3445.91.97%8.8536.2586453.6445.8-1.72%426.1424.1-0.47%439432.7-1.44%6.22784.9977437.9420.8-3.91%417.6416.9-0.17%425.2417.9-1.72%4.7550.931</tabledesc>
+                <ebookNum>64</ebookNum>
+                <PdfNum>71</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="2" fileref="Image/679c2a72-a7cc-4ee0-8cf9-924dd993da3b.jpg">
+                <title>续表</title>
+                <tabledesc>有载分接开关挡位A-O直阻（mΩ）B-O直阻（mΩ）C-O直阻（mΩ）相间差（%）切换前切换后变化率切换前切换后变化率切换前切换后变化率切换前切换后8426.4409.3-4.01%412.7410.9-0.44%410.3409.9-0.10%3.8890.2439422426.21.00%403.9402.7-0.30%413.5402.2-2.73%4.3815.84810464.7407.6-12.29%398397.3-0.18%399398.7-0.08%102.56711424416.2-1.84%390.1389.2-0.23%396.3388.2-2.04%8.4037.03712408.4392.8-3.82%396.4395.3-0.28%414.1407.5-1.59%4.3323.68813442386.6-12.53%390.6387.7-0.74%399388.9-2.53%＞100.59314445.8410.2-7.99%384.7382.7-0.52%391.5381.7-2.50%＞107.25415412.2402.3-2.40%375.8373.5-0.61%378.5374.7-1.00%9.4867.50916387.1372.3-3.82%368.4366.0-0.65%379.5368.9-2.79%5.0461.89517377.9361.2-4.42%360.7359.1-0.44%370372.80.76%4.683.759</tabledesc>
+                <ebookNum>65</ebookNum>
+                <PdfNum>72</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>该主变压器于2003年4月9日投入运行，在2002、2004年及2007年进行的主变压器试验均合格，且每次的绕组直流电阻测试数据都非常好，最大不平衡率为 0.76%。有载开关在本次试验时的动作次数还未达到2000次。</para>
+        <para>对测试数据进行分析主要有以下几点：</para>
+        <para>（1）高压绕组直流电阻三相不平衡率严重超标，个别挡位甚至超过10%，其他试验项目（包括变压器本体及有载开关油的试验）均合格。</para>
+        <para>（2）和以前预防性试验数据比较阻值有明显变化，完全没有规律，如图10-1所示。以A 相1～6 挡为例，2007 年预试时为有规律的直线，而2010年预试时则为不规则的曲线。</para>
+        <para>（3）A、C两相测量的阻值变化最大，是造成三相不平衡最主要的因素，从图10-2可说明缺陷相主要在A、C相。</para>
+        <para>（4）在有载分接开关1～17挡反复切换测量过程中，90%的挡位每次测量值变化很大，反映出接触极不稳定，说明缺陷来自于有载分接开关的可能性很大。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/31e07439-6c66-4b55-9bda-9a29f948418b.jpg">
+                <title>图10-1 两次预试数据对比（以A相1～6挡为例）</title>
+                <ebookNum>66</ebookNum>
+                <PdfNum>73</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/ac1dbc8b-7230-49a3-a4a7-8133e3214bc9.jpg">
+                <title>图10-2 2010年预试三相1～6挡数据对比</title>
+                <ebookNum>66</ebookNum>
+                <PdfNum>73</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>（5）断路器切换数百次后数据虽有些许转好，但结果仍严重超标，最大不平衡率达7.5%，基本可排除有载分接开关油膜的影响。</para>
+        <para>（6）运行挡（第3挡）的阻值很稳定，三相不平衡率均小于1%，且与历次阻值相比无变化。</para>
+        <para>通过以上分析，可以断定造成直流电阻不平衡的原因是有载分接开关切换部位接触不良，与绕组及固定导体无关。由于该变压器有载分接开关设计成筒式结构，由能承受真空的圆筒形油室把断路器油与变压器油隔离开来，其切换部位有两个，一个是位于圆筒形有载开关油室内的分接开关，另一个则是位于变压器本体的切换断路器（俗称K点，它只在第9挡才切换）。检查切换断路器需对主变压器进行排油并由人孔进入，而检查有载分接开关只需吊出有载分接开关即可，且由前分析可知，在切换断路器未动作时，测试数据同样不稳定，因此故障点应在有载分接开关处，遂决定先吊出有载分接开关进行检查。</para>
+      </section>
+      <section>
+        <title>3 故障处理</title>
+        <info>
+          <PdfNum>74-76</PdfNum>
+          <ebookNum>67-69</ebookNum>
+        </info>
+        <para>经与厂家联系，2月2日，3名厂家人员与检修人员第一次到110kV某变电站处理1号主变压器缺陷。检修人员先将1号主变压器有载分接开关吊出，检查发现，有载分接开关动触头有明显烧伤痕迹，部分金属镀银脱落，其中A相的磨损及灼伤最为严重，C相次之，B相较轻。</para>
+        <para>图10-3为有载分接开关动触头的检查。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/bc1c3543-74ef-4bf0-9794-1d229b740866.jpg">
+                <title>图10-3 有载分接开关动触头检查</title>
+                <ebookNum>67</ebookNum>
+                <PdfNum>74</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>对有载分接开关触头进行清洗处理，测量动触头直径和过渡电阻均合格，动触头后的支撑弹簧压力无法量化测量，用手进行简单的压力测试未发现异常。而后对每相动触头的可动触点进行接触电阻测量时发现其电阻也是不稳定的，且远大于厂家要求的1mΩ标准。</para>
+        <para>检修人员一致认为这应该就是缺陷部位。由于厂家没有备件更换，只对动触头的触指表面进行了细致的清洗，还紧固调整了连接线螺栓、触指弹簧等。安装好有载分接开关后进行直流电阻测试，试验结果依然不合格。简单的清洗和紧固并没有达不到理想的处理效果。为了彻底地消除缺陷隐患，检修人员与厂家再次研究决定，重新购买进口的A、B、C三相触头部件以作更换。</para>
+        <para>因触头经香港过关时出现问题，触头部件不能按时送到该变电站，更换工作迟迟不能进行。直至3月3日，触头更换工作方能进行。经过检修人员和厂家密切配合、共同努力，顺利将1号主变压器有载调压动触头全部更换，如图10-4～图10-6所示。更换后测量动触头可动触点的接触电阻均符合厂家要求，恢复后测量高压绕组所有挡位的直流电阻均合格，三相不平衡率小于1%，见表10-2，图10-7为测量动触头可动触点的接触电阻图。1号主变压器可恢复投运。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/e114f4ba-cb5b-4507-979d-3d2b65d66a27.jpg">
+                <title>图10-4 拆下的旧触头</title>
+                <ebookNum>68</ebookNum>
+                <PdfNum>75</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/80feb12d-3bf2-484a-8a37-a4375efaca16.jpg">
+                <title>图10-5 厂家在更换中性点触指</title>
+                <ebookNum>68</ebookNum>
+                <PdfNum>75</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/dda8acd3-a304-4e29-bac0-501c24e6a064.jpg">
+                <title>图10-6 更换后的触头</title>
+                <ebookNum>68</ebookNum>
+                <PdfNum>75</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/6873cb45-1bf4-4d1d-8007-7a168b7af848.jpg">
+                <title>图10-7 测量动触头可动触点的接触电阻图</title>
+                <ebookNum>68</ebookNum>
+                <PdfNum>75</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="2" fileref="Image/590440e5-4751-45c8-aa96-2d0637803483.jpg">
+                <title>表10-2 更换触头后的直流电阻值 mΩ</title>
+                <tabledesc>分接A-OB-OC-O相间差（%）1469.3469.7469.80.112464.1463.4462.30.393455.1455.7455.30.134447.8449.5448.30.385441.6442.0440.80.276434.0434.1433.80.077425.2426.7426.10.358419.8420.2419.10.269411.0412.5411.40.3610404.7406.1405.00.3511396.3397.3396.00.3312404.0404.1402.30.4513395.1397.4395.20.5814388.5390.5388.20.5915380.7382.8380.80.5516373.3374.7373.10.4317365.8367.6366.00.49</tabledesc>
+                <ebookNum>69</ebookNum>
+                <PdfNum>76</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+      </section>
+      <section>
+        <title>4 故障分析</title>
+        <info>
+          <PdfNum>76-77</PdfNum>
+          <ebookNum>69-70</ebookNum>
+        </info>
+        <para>从以上处理情况分析，导致缺陷的原因可能有以下几点：</para>
+        <para>（1）动触头的设计不合理，造成接触不良导致发热；</para>
+        <para>（2）动触指的导电转轴和镀银层的材料或制造工艺不过关，容易磨损；</para>
+        <para>（3）动触指上的引弧设计不合理，导致断路器切换过程中电弧严重灼伤接触面；</para>
+        <para>（4）固定在触指后面的支撑弹簧受力不均或压力不够，影响了动静触头的接触。</para>
+        <para>为进一步查明原因，检修人员对更换下的动触头进行了解剖，发现固定支架、固定轴和中间轴是固定不动的，而动触头和中间轴间存在虚位，使动触头可以转动，因此动静触头的接触面以及动触头和中间轴的接触面并不固定。动静触头接触时，弹簧使动静触头接触更加紧密，电流由动触头到中间轴再到固定支架，固定轴没有导流作用，只起到固定中间轴的作用。在检查中同时发现中间轴的接触面有氧化膜和油膜，并有发热及烧伤痕迹。因此可以得出造成动触头接触不良导致发热及烧伤的原因有两个：</para>
+        <para>（1）由于动触头与中间轴间存在虚位，其接触为圆弧接触，接触面较小，且接触面容易生成氧化膜和油膜。当弹簧压紧动静触头时，接触面较小，流过大电流时会导致发热，图10-8 为有载分接开关动触头的解剖图。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/4fcc9873-deec-451d-a608-0a0f9b14525c.jpg">
+                <title>图10-8 有载分接开关动触头的解剖图</title>
+                <ebookNum>70</ebookNum>
+                <PdfNum>77</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>（2）有载分接开关动触头质量不良，随着断路器动作次数的日益增长而不断磨损，部分金属镀银脱落。</para>
+      </section>
+      <section>
+        <title>5 同类型设备情况</title>
+        <info>
+          <PdfNum>78-78</PdfNum>
+          <ebookNum>71-71</ebookNum>
+        </info>
+        <para>目前该型号变压器只有某站1号、2号、3号变压器3台，都采用某厂的有载分接开关。2号变压器和3号变压器的出厂日期分别为1998年2月和2001年9月，分别运行了15年和12年，暂时没有发现此类设备故障缺陷。</para>
+      </section>
+      <section>
+        <title>6 防范措施</title>
+        <info>
+          <PdfNum>78-78</PdfNum>
+          <ebookNum>71-71</ebookNum>
+        </info>
+        <para>（1）对该型号有载分接开关进行统计，一方面加强运行巡视，另一方面加强预防性试验时的试验数据分析；</para>
+        <para>（2）组织变压器有载分接开关相关培训，使人员熟悉和掌握有载分接开关内部结构和原理；</para>
+        <para>（3）按要求对到期大修的有载分接开关进行大修，并准备好相关的备品备件，做到设备发生缺陷时能够及时处理；</para>
+        <para>（4）建议厂家对该类型有载分接开关进行相应的改进，避免此类缺陷再次发生。</para>
+      </section>
+    </chapter>
+  </part>
+  <part>
+    <title>第2部分 110kV及以上互感器类设备典型缺陷</title>
+    <chapter>
+      <title>1 220kV某变电站110kV进中甲线123电流互感器A相气压低缺陷分析</title>
+      <info>
+        <PdfNum>82-85</PdfNum>
+        <ebookNum>75-78</ebookNum>
+      </info>
+      <section>
+        <title>1 设备参数</title>
+        <info>
+          <PdfNum>82-82</PdfNum>
+          <ebookNum>75-75</ebookNum>
+        </info>
+        <para>（1）设备名称：110kV进中甲线123电流互感器A相。</para>
+        <para>（2）设备类别：电流互感器类。</para>
+        <para>（3）设备型号：SAS123。</para>
+        <para>（4）设备参数：额定电压126kV；额定峰值耐受电流125kA；SF<subscript>6 </subscript>额定气压0.39MPa；报警气压0.35MPa；变比600/1。</para>
+        <para>（5）出厂日期：2004年8月。</para>
+        <para>（6）投运日期：2005年12月29日。</para>
+      </section>
+      <section>
+        <title>2 设备故障情况</title>
+        <info>
+          <PdfNum>82-83</PdfNum>
+          <ebookNum>75-76</ebookNum>
+        </info>
+        <section>
+          <title>2.1 设备故障经过</title>
+          <info>
+            <PdfNum>82-82</PdfNum>
+            <ebookNum>75-75</ebookNum>
+          </info>
+          <para>2012年5月30日，运行人员发现220kV某变电站110kV进中甲线123电流互感器A相SF<subscript>6</subscript>气压表指示异常，指针指示满表。</para>
+          <para>2012年8月9日，检修人员到达该站对123电流互感器A相SF<subscript>6 </subscript>气压表进行更换。在拆卸A相SF<subscript>6 </subscript>气压表底座螺母时，电流互感器底部的逆止阀门突然破裂弹出，电流互感器内部SF<subscript>6 </subscript>气体全部流出。由于该间隔已经停电，并未造成事故进一步扩大。</para>
+        </section>
+        <section>
+          <title>2.2 设备检查情况</title>
+          <info>
+            <PdfNum>82-83</PdfNum>
+            <ebookNum>75-76</ebookNum>
+          </info>
+          <para>随后，检修人员对漏气处断裂位置进行了检查，检查发现逆止阀底座铝质连接处已经完全破裂，周边铝质底座已经严重腐蚀，同时发现上部螺纹位置涂有厌氧胶，如图1-1、图1-2所示。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="0" fileref="Image/e383d66a-1024-4105-a120-724d0ec7e028.jpg">
+                  <title>图1-1 逆止阀上部螺纹残留的厌氧胶</title>
+                  <ebookNum>76</ebookNum>
+                  <PdfNum>83</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="0" fileref="Image/ad5ebba3-bffc-4039-85cf-68935104fbba.jpg">
+                  <title>图1-2 逆止阀处腐蚀严重</title>
+                  <ebookNum>76</ebookNum>
+                  <PdfNum>83</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+        </section>
+      </section>
+      <section>
+        <title>3 故障处理</title>
+        <info>
+          <PdfNum>83-84</PdfNum>
+          <ebookNum>76-77</ebookNum>
+        </info>
+        <para>在110kV进中甲线123电流互感器A相SF<subscript>6</subscript>气压表逆止阀破裂损坏后，检修人员迅速联系上级部门进行相关协调，找到型号、规格相同的备件，并立即运往检修现场。在运行人员、试验班人员和司机班人员的积极配合下，检修工作人员于8月10日凌晨1时15分，成功将新的SF<subscript>6</subscript>电流互感器安装上，如图1-3所示。同时，对123电流互感器的B、C相相同位置进行了检查，确保设备健康良好地投入运行。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/64634226-7749-4459-9db5-2905e7170624.jpg">
+                <title>图1-3 成功安装新的SF<subscript>6</subscript>电流互感器</title>
+                <ebookNum>77</ebookNum>
+                <PdfNum>84</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+      </section>
+      <section>
+        <title>4 故障分析</title>
+        <info>
+          <PdfNum>84-85</PdfNum>
+          <ebookNum>77-78</ebookNum>
+        </info>
+        <para>对于电流互感器底部逆止阀门突然破裂的原因，可能有以下几点：</para>
+        <para>（1）逆止阀上部螺纹处涂有厌氧胶，使SF<subscript>6 </subscript>气压表螺母与逆止阀上部螺牙紧紧咬合在一起，使用扳手拆卸时，部分输出力间接作用在逆止阀底座处，是逆止阀破裂的破坏力来源。</para>
+        <para>（2）逆止阀材料为铸铝，较脆；且逆止阀与电流互感器连接较薄弱，导致逆止阀抗扭曲能力差，受力情况下易断裂。</para>
+        <para>（3）该站处于酸雨重灾区，对金属腐蚀影响大，现场发现进中甲线123电流互感器A相逆止阀处腐蚀严重，直接降低了逆止阀的机械强度。</para>
+        <para>（4）检修人员在拆卸SF<subscript>6 </subscript>气压表时，一只手用扳手卡紧逆止阀上部的螺母，另一只手拧SF<subscript>6 </subscript>气压表下部的大螺母，如图1-4所示，在这个过程中产生很大的力矩，逆止阀金属疲劳出现裂纹，并在电流互感器内部的强压下弹出，导致逆止阀破裂。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/6414bf8f-f36d-4f1f-8f6d-938df70862b2.jpg">
+                <title>图1-4 SF<subscript>6 </subscript>气压表拆卸示意图</title>
+                <ebookNum>78</ebookNum>
+                <PdfNum>85</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+      </section>
+      <section>
+        <title>5 同类型设备情况</title>
+        <info>
+          <PdfNum>85-85</PdfNum>
+          <ebookNum>78-78</ebookNum>
+        </info>
+        <para>目前在运行的该厂家生产的110kV同类型电流互感器有489台，暂未出现同类型缺陷。</para>
+      </section>
+      <section>
+        <title>6 防范措施</title>
+        <info>
+          <PdfNum>85-85</PdfNum>
+          <ebookNum>78-78</ebookNum>
+        </info>
+        <para>（1）运行方面。对该型号电流互感器进行针对性巡视。对电流互感器密度继电器底座及温度补偿探针进行周期性检查，检查项目包括腐蚀情况外观检查、气压记录、红外线测温成像，进行相关数据采集，若出现问题应立即汇报上级部门。</para>
+        <para>（2）检修方面。针对该型号电流互感器缺陷情况，检修部门应立即组织技术培训。确保生产班组掌握该类型电流互感器的运行原理，熟练掌握密度继电器的正确更换方法，避免在更换SF<subscript>6 </subscript>密度继电器时出现逆止阀破裂情况。同时要具备一定的密度继电器故障分析判断能力。</para>
+        <para>针对这种情况，建议检修人员在技术协议制定、出厂监造、中间验收或技改新建工程验收环节，对同类型电流互感器缺陷位置的机械强度、材料防腐提出规范要求，采取必要的防腐措施，如加装防雨罩和防腐涂料等。</para>
+        <para>及时掌握班组管辖变电站所有同类型电流互感器的运行情况。建立设备健康档案，完善设备运行维护记录，结合停电，对缺陷部位进行检查，避免同类缺陷的发生。</para>
+      </section>
+    </chapter>
+    <chapter>
+      <title>2 220kV某变电站222电压互感器A相介质损耗因数超编分析</title>
+      <info>
+        <PdfNum>86-88</PdfNum>
+        <ebookNum>79-81</ebookNum>
+      </info>
+      <section>
+        <title>1 设备参数</title>
+        <info>
+          <PdfNum>86-86</PdfNum>
+          <ebookNum>79-79</ebookNum>
+        </info>
+        <para>（1）设备名称：222电压互感器A相。</para>
+        <para>（2）设备型号：电压抽取装置<mediaobject><imageobject><imagedata role="3" fileref="Image/e073a8bd-e303-4244-9e0f-7f832e6054d8.jpg"><ebookNum>79</ebookNum><PdfNum>86</PdfNum></imagedata></imageobject></mediaobject>。</para>
+        <para>（3）出厂日期：2005年7月。</para>
+      </section>
+      <section>
+        <title>2 设备故障情况</title>
+        <info>
+          <PdfNum>86-87</PdfNum>
+          <ebookNum>79-80</ebookNum>
+        </info>
+        <section>
+          <title>2.1 设备故障经过</title>
+          <info>
+            <PdfNum>86-86</PdfNum>
+            <ebookNum>79-79</ebookNum>
+          </info>
+          <para>2012年11月11日，试验人员在对220kV某变电站222电压互感器进行预防性试验时发现A相下节C12元件介质损耗值为0.414%，超出Q/CSG 114002—2011《电力设备预防性试验规程》的要求。介质损耗试验是检验一次设备内部绝缘材料运行状态最直接、最有效的方法，在排除仪器测量误差等外部因素的影响后，通过介质损耗试验结果可以初步判断220kV 222电压互感器A相下节C12元件内部绝缘存在缺陷，不能继续运行。</para>
+        </section>
+        <section>
+          <title>2.2 设备检查情况</title>
+          <info>
+            <PdfNum>86-86</PdfNum>
+            <ebookNum>79-79</ebookNum>
+          </info>
+          <para>工作人员现场对222电压互感器进行检查，在后台发现A相电压互感器二次运行电压比B、C两相的偏高，初步判断电压互感器内部已出现故障，必须对其进行解体分析。</para>
+        </section>
+        <section>
+          <title>2.3 设备试验情况</title>
+          <info>
+            <PdfNum>86-87</PdfNum>
+            <ebookNum>79-80</ebookNum>
+          </info>
+          <para>解体后可以通过电容介损测试，并对比预防性试验和出厂试验的电容介损数据，找到电压元件击穿的电容器单元。如果运行电压偏低，则击穿故障发生在C2；如果运行电压偏高，则击穿故障发生在C1。</para>
+          <para>下节瓷套的电容共有110片元件，其中C1有76片，C2有34片。正常情况下，单片元件的电容量约为2.15μF。试验人员对110片元件逐一测量，如图2-1所示，发现C1第30片元件的电容值为0.988μF，详见图2-2，这很可能是导致介质损耗偏大的原因，不过仍需进一步检查。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="0" fileref="Image/2a972d82-5f91-4d4f-87d7-a155908307d7.jpg">
+                  <title>图2-1 试验人员对电容量进行测量</title>
+                  <ebookNum>80</ebookNum>
+                  <PdfNum>87</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="0" fileref="Image/902eed08-178d-4fc2-a39b-1cbe4943991f.jpg">
+                  <title>图2-2 试验人员记录的测量值</title>
+                  <ebookNum>80</ebookNum>
+                  <PdfNum>87</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>C1第30片元件的电容值比出厂时约少1.16μF，试验时总电容误差为1.46%，试验值与测量值基本一致，因此判断C1第30片元件可能被击穿。</para>
+        </section>
+      </section>
+      <section>
+        <title>3 故障处理</title>
+        <info>
+          <PdfNum>87-87</PdfNum>
+          <ebookNum>80-80</ebookNum>
+        </info>
+        <para>2012年12月13日，对该变电站220kV 222电压互感器进行了更换，检修人员对更换后的电压互感器进行验收并试验，试验结果合格，设备当天正常投入运行。</para>
+      </section>
+      <section>
+        <title>4 故障分析</title>
+        <info>
+          <PdfNum>88-88</PdfNum>
+          <ebookNum>81-81</ebookNum>
+        </info>
+        <para>分压电容器有一个电容元件击穿，击穿点位于元件铝箔边缘处。铝箔边缘部位的电场分布较不均匀，相关技术人员分析认为可能在制造过程中出现下列情况：① 引箔片分切成长方形时边缘出现毛刺，没有进行处理或处理不到位；② 引箔片用铝箔在电容元件卷绕过程中插入箔片时，操作不符合工艺要求，引箔片尖角刺伤薄膜；③ 膜与铝箔在叠加过程中可能有杂质或气泡；④ 电容元件因绝缘材料老化，导致运行中击穿。制造过程中出现上述情况之一将使电容器元件存在绝缘薄弱点击穿导致放电，出现介质击穿现象。</para>
+      </section>
+      <section>
+        <title>5 防范措施</title>
+        <info>
+          <PdfNum>88-88</PdfNum>
+          <ebookNum>81-81</ebookNum>
+        </info>
+        <para>（1）运行方面。运行人员对运行中的电压抽取装置二次电压，即使仅有轻微变化，都应引起高度注意，加强电压监视，完善运行记录，及时上报发现缺陷。</para>
+        <para>（2）检修方面。检修人员在设备制造、中间验收等环节应严格执行设备品控规范，要求设备制造厂加强质量管理，在制造工艺中应有针对性的制定有关措施，把好产品的质量关。</para>
+        <para>（3）试验方面。试验人员停电试验时应对电容元件电容量的测量值与历史数据和不同相间电容量进行比较。若电容量变化较大，就可判明电容元件有击穿或受潮的可能，即使低于Q/CSG 114002—2011《电力设备预防性试验规程》规定的5%，也应立即退出运行，以防部分良好的串联电容元件因承受过高的电压而引起爆炸事故。</para>
+      </section>
+    </chapter>
+    <chapter>
+      <title>3 110KV某变电站110kV西广线线路A相电压抽取装置缺陷分析</title>
+      <info>
+        <PdfNum>89-95</PdfNum>
+        <ebookNum>82-88</ebookNum>
+      </info>
+      <section>
+        <title>1 设备参数</title>
+        <info>
+          <PdfNum>89-89</PdfNum>
+          <ebookNum>82-82</ebookNum>
+        </info>
+        <para>（1）设备名称：110kV西广线线路A相电压抽取装置。</para>
+        <para>（2）设备类别：电压抽取装置。</para>
+        <para>（3）设备型号：电压抽取装置<mediaobject><imageobject><imagedata role="3" fileref="Image/826333a7-8057-4ee0-8ebb-f21cc96f8bf7.jpg"><ebookNum>82</ebookNum><PdfNum>89</PdfNum></imagedata></imageobject></mediaobject>。</para>
+        <para>（4）出厂日期：1994年1月。</para>
+      </section>
+      <section>
+        <title>2 设备故障情况</title>
+        <info>
+          <PdfNum>89-90</PdfNum>
+          <ebookNum>82-83</ebookNum>
+        </info>
+        <section>
+          <title>2.1 设备故障经过</title>
+          <info>
+            <PdfNum>89-89</PdfNum>
+            <ebookNum>82-82</ebookNum>
+          </info>
+          <para>2012年8 月 22 日 15 ∶ 13，气温 33℃，湿度 70%，晴，工作人员在110kV某变电站红外线测温过程中，利用日本TVS-700P型红外成像仪发现运行状态的110kV 西广线线路A相电压抽取装置油箱箱体温度过高，最高温度达58℃，相对温差达100%。根据带电设备红外诊断应用规范标准，该相电压抽取装置油箱温度已超出相关要求，同时，检查其二次电压输出异常，为7.3V（正常为59V），鉴于以上情况，必须立即将该设备停运，进行进一步的检查和分析。A相电压抽取装置油箱测温图谱如图3-1所示。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="0" fileref="Image/464ed40f-ec5f-411b-af91-8f17c56aee86.jpg">
+                  <title>图3-1 A相电压抽取装置油箱测温图谱</title>
+                  <ebookNum>82</ebookNum>
+                  <PdfNum>89</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+        </section>
+        <section>
+          <title>2.2 设备检查情况</title>
+          <info>
+            <PdfNum>90-90</PdfNum>
+            <ebookNum>83-83</ebookNum>
+          </info>
+          <para>现场检查110kV西广线线路A 相电压抽取装置，外观完好，无漏油、绝缘子破裂或电灼伤的表象。</para>
+        </section>
+        <section>
+          <title>2.3 设备试验情况</title>
+          <info>
+            <PdfNum>90-90</PdfNum>
+            <ebookNum>83-83</ebookNum>
+          </info>
+          <para>最近一次停电预试日期为2009 年9 月4 日，气温22℃，湿度65%，晴。工作人员利用AI6000C 型介质损耗测试仪对西广线线路A相电压抽取装置进行测试，结果见表3-1和表3-2。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="2" fileref="Image/bcb65e03-1fa1-4ca5-bc71-c1d30f6cc1d2.jpg">
+                  <title>表3-1 A相电压抽取装置绝缘测试结果</title>
+                  <tabledesc>项目绝缘测量单位C11C12C13C14C2低压端对地测量结果（MΩ）20000————20000备注</tabledesc>
+                  <ebookNum>83</ebookNum>
+                  <PdfNum>90</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>根据Q/CSG 114002—2011《电力设备预防性试验规程》规定，低压端对地绝缘电阻测试一般不低于100MΩ，因此该项试验合格。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="2" fileref="Image/1e24b4ee-3e47-4a01-8a8e-aebe08d3e24f.jpg">
+                  <title>表3-2 A相介质损耗测试结果</title>
+                  <tabledesc>项目介损及电容相别位置铭牌电容（pF）套管电容Cx（pF）tanδ（%）电容相差（%）接线方法A相C10.086自激法（√），反接法（）C20.083自激法（√），反接法（）C//备注</tabledesc>
+                  <ebookNum>83</ebookNum>
+                  <PdfNum>90</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>根据Q/CSG 114002—2011《电力设备预防性试验规程》规定，油纸绝缘电压抽取装置的电容分压器的介质损耗测试要求小于0.5%，C1、C2介质损耗均合格。</para>
+          <para>通过试验证明该设备在故障前应是正常运行的。</para>
+        </section>
+      </section>
+      <section>
+        <title>3 故障处理情况</title>
+        <info>
+          <PdfNum>90-91</PdfNum>
+          <ebookNum>83-84</ebookNum>
+        </info>
+        <para>检修人员于2012年8月23日00 ∶ 20将缺陷电压抽取装置进行更换，更换后型号为：电压抽取装置<mediaobject><imageobject><imagedata role="3" fileref="Image/1767144a-79f1-4d98-9b4a-ab30758d0149.jpg"><ebookNum>84</ebookNum><PdfNum>91</PdfNum></imagedata></imageobject></mediaobject>。经值班员验收合格，110kV 西广线线路A相电压抽取装置可以投入运行。</para>
+      </section>
+      <section>
+        <title>4 故障分析</title>
+        <info>
+          <PdfNum>91-94</PdfNum>
+          <ebookNum>84-87</ebookNum>
+        </info>
+        <section>
+          <title>4.1 故障原理分析</title>
+          <info>
+            <PdfNum>91-92</PdfNum>
+            <ebookNum>84-85</ebookNum>
+          </info>
+          <para>相关技术人员根据红外测温图谱及二次电压输出数据，对缺陷进行初步判断分析，110kV某变电站110kV西广线线路电压抽取装置油箱本体缺陷，可能是由于电压抽取装置电磁单元部分内部元件故障导致的。中间变压器低压绕组发生匝间短路、阻尼器存在故障或绝缘部分劣化，造成高电位对低电位放电，导致运行中油箱绝缘油发热。设备油箱本体内部电磁单元的原理图如图3-2所示。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="0" fileref="Image/a8e72353-7637-44f6-9969-fa2e5b946a58.jpg">
+                  <title>图3-2 设备油箱本体内部电磁单元的原理图</title>
+                  <ebookNum>84</ebookNum>
+                  <PdfNum>91</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>其中阻尼器原理图如图3-3所示。</para>
+          <para>阻尼器是由阻尼电抗L和阻尼电容C并联，然后再与阻尼电阻器R串联构成的。电感L和电容C在工频下处于并联谐振，电压抽取装置正常工作时，R上只有很少的电流通过，能耗低，对准确度影响小。当有分谐波出现时，L、C 的谐振状态被破坏，R 上通过大电流，从而起阻尼作用。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="0" fileref="Image/efce2684-482f-4e0b-acd8-76deb0ac8524.jpg">
+                  <title>图3-3 阻尼器原理图</title>
+                  <ebookNum>84</ebookNum>
+                  <PdfNum>91</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>根据初步判断分析，造成缺陷的可能原因如下：</para>
+          <para>（1）电压抽取装置电磁单元阻尼器部分存在故障。阻尼电容器C发生击穿，导致R上长时间通过大电流引起发热；阻尼器Z的接线端松脱，形成放电间隙，在运行时产生放电现象，导致油温升高。</para>
+          <para>（2）分压电容器C2发生击穿导致二次电压输出异常（实测7.3V，正常为59V）。电容元件发生击穿的原因有两种可能，一是电容元件内部存在局部缺陷，因长期局部放电导致击穿；二是因绝缘材料老化，导致运行中发生击穿。</para>
+          <para>（3）中间变压器低压绕组发生匝间短路。若变压器绕组间因电磁单元受潮或绝缘老化而在运行电压作用下发生短路，必然会造成放电发热，导致油温升高。另外，根据变压器变比式：k=U<subscript>1</subscript>/U<subscript>2</subscript>=N<subscript>1</subscript>/N<subscript>2 </subscript>，当二次绕组匝间发生短路时，相当于N<subscript>2</subscript>变小，在一次电压和一次绕组正常的情况下，从而引起二次电压U<subscript>2</subscript>降低。</para>
+        </section>
+        <section>
+          <title>4.2 解体前试验分析</title>
+          <info>
+            <PdfNum>92-93</PdfNum>
+            <ebookNum>85-86</ebookNum>
+          </info>
+          <para>解体前由高压试验班工作人员对电压抽取装置进行试验，试验项目及相关数据见表3-3、表3-4。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="2" fileref="Image/3c3413c5-1cf6-4bc9-86b8-8e4d6b0e7b4e.jpg">
+                  <title>表3-3 绝缘电阻</title>
+                  <tabledesc>绝缘（MΩ）C11C12C13C14C2低压端对地100000———10001000备注</tabledesc>
+                  <ebookNum>85</ebookNum>
+                  <PdfNum>92</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="2" fileref="Image/c28d9c94-8f57-4c67-9d26-acfaa0077776.jpg">
+                  <title>表3-4 介损试验</title>
+                  <tabledesc>项目介损及电容相别位置铭牌电容（pF）套管电容Cx（pF）tanδ（%）电容相差（%）接线方法C188140.0980.474自激法（），正接法（√）C2334300.1040.387自激法（），正接法（√）C69406975/0.504/备注C1———测量电压10kV；C2———测量电压2.5kV（高压线接A点）。仪器：AL-6000D型介质损耗测试仪结果：合格</tabledesc>
+                  <ebookNum>85</ebookNum>
+                  <PdfNum>92</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>以上试验数据表明，A 相电压抽取装置的低压端对地绝缘电阻为1000MΩ，符合不低于 100MΩ 的标准，但从 2009 年的 20 000MΩ 降低到1000MΩ，下降明显。</para>
+          <para>C1、C2介质损耗分别为0.474%和0.387%，符合油纸绝缘电压抽取装置的电容分压器的介质损耗测试要求小于0.5%的标准，但与2009年测试的0.086%和0.083%相比，已经有明显的上升。</para>
+        </section>
+        <section>
+          <title>4.3 现场解体检查</title>
+          <info>
+            <PdfNum>93-94</PdfNum>
+            <ebookNum>86-87</ebookNum>
+          </info>
+          <para>为彻底查清问题根源，2012年12月26日9时，工作人员及厂家技术人员对该电压抽取装置进行了解体检查。</para>
+          <para>吊开电容单元，油色、气味无异常，内部元件无烧伤损坏痕迹。露出电压抽取装置的电磁单元部分，现场可以闻到刺鼻的油气味，油箱中的油已经失去其应有的淡黄色，而呈混浊的黑褐色，并泛起泡沫，如图 3-4所示。</para>
+          <para>抽干油箱中的绝缘油，发现补偿电抗器并联的保护电阻已明显烧焦。电磁单元各元件上漂浮着烧焦呈胶质的碳状物，二次线外绝缘已呈老化状态，油箱内壁布满黏稠性黄褐色油污，密封胶圈已明显老化。可明显看见，由于电压抽取装置在高温状态下运行，电磁单元内部已受到高温损伤，如图3-5所示。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="0" fileref="Image/7b2a74cd-a4cb-48a9-9e6d-754be108d4f5.jpg">
+                  <title>图3-4 油箱中油呈黑色并起泡沫</title>
+                  <ebookNum>86</ebookNum>
+                  <PdfNum>93</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="0" fileref="Image/49f9269c-b6e9-4a0e-a145-adb663ce0290.jpg">
+                  <title>图3-5 电磁单元内部高温损伤</title>
+                  <ebookNum>86</ebookNum>
+                  <PdfNum>93</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>取出中间变压器及接线端子排部分，对中间变压器进行进一步拆解检查，铁芯表面除覆盖黑褐色胶状物外，其他并无异常。</para>
+          <para>取出一、二次绕组部分进行拆解，一次绕组无明显异常，二次绕组外层绝缘纸已脆弱变质，撕开最外层绝缘纸后发现二次绕组的绝缘纸已大部分呈烧黑碳化状，线圈已严重烧毁，如图3-6所示。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="0" fileref="Image/cadf3427-18ab-46f2-b8c9-e23b8bfeab49.jpg">
+                  <title>图3-6 二次绕组绝缘纸烧黑碳化、线圈烧毁</title>
+                  <ebookNum>87</ebookNum>
+                  <PdfNum>94</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>因此，通过检查可以断定，缺陷发生的原因为电压抽取装置电磁单元的中间变压器二次绕组发生匝间短路，导致放电发热，使绝缘油温度上升。另外，因二次绕组匝间发生短路，相当于二次绕组圈数 N<subscript>2 </subscript>减少，导致二次输出电压降低。</para>
+          <para>若电压抽取装置中间变压器一次或二次绕组微小的匝间短路不能及时发现，将导致绕组匝间短路故障进一步加剧，油箱绝缘油温度不断上升，从而使绝缘油在高温下裂解，产生的大量气体有可能引起油箱爆炸。若在高温下电压抽取装置继续运行，内部主绝缘将逐渐损坏，耐受电压不断降低容易造成高压绕组击穿放电，导致电磁单元的其他元件形成短路或烧毁，最终绝缘烧毁，后果将不堪设想。</para>
+        </section>
+      </section>
+      <section>
+        <title>5 同类型设备情况</title>
+        <info>
+          <PdfNum>94-94</PdfNum>
+          <ebookNum>87-87</ebookNum>
+        </info>
+        <para>目前，与缺陷设备同类型的电压抽取装置共有95 个，无发生缺陷历史，但部分存在运行年份达20年的情况，应对这些设备加强巡视及监控。</para>
+      </section>
+      <section>
+        <title>6 防范措施</title>
+        <info>
+          <PdfNum>94-95</PdfNum>
+          <ebookNum>87-88</ebookNum>
+        </info>
+        <para>（1）运行过程中需要严格按照红外测温导则对电压抽取装置进行定期监控，尤其是运行年限已久的设备，并定期做好红外成像测温巡视和记录。运行人员对运行中的电压抽取装置二次电压，即使有微小的变化，都应引起高度注意。</para>
+        <para>（2）建议国内厂家应结合现场的实际情况进行设计，方便现场试验的开展，以便及时对电压抽取装置各部件的健康状况进行监控。</para>
+        <para>（3）建议厂家应提高电压抽取装置内各部件的质量把关，重视内部受潮防护，加强电气连接部分的绝缘强度，在工艺上进行严格控制。</para>
+        <para>（4）按照规程或厂家说明书，以及电压抽取装置运行情况，制订详细的预防性试验计划、检修计划，通过预防性试验对电容值、介质损耗进行监控，定期对电压抽取装置电磁单元中的油进行检查分析。</para>
+      </section>
+    </chapter>
+  </part>
+  <part>
+    <title>第3部分 其他类型设备典型缺陷</title>
+    <chapter>
+      <title>1 220kV某变电站10kV52乙电压互感器接地故障抢修情况</title>
+      <info>
+        <PdfNum>98-101</PdfNum>
+        <ebookNum>91-94</ebookNum>
+      </info>
+      <section>
+        <title>1 设备参数</title>
+        <info>
+          <PdfNum>98-98</PdfNum>
+          <ebookNum>91-91</ebookNum>
+        </info>
+        <para>（1）电压互感器参数：</para>
+        <para>1）设备型号：JDZX11-10C。</para>
+        <para>2）生产日期：2008年8月。</para>
+        <para>3）投运日期：2009年11月26日。</para>
+        <para>（2）避雷器参数：</para>
+        <para>1）设备型号：HY5WZ-17/45。</para>
+        <para>2）生产日期：2008年5月。</para>
+        <para>3）投运日期：2009年11月26日。</para>
+      </section>
+      <section>
+        <title>2 设备故障情况</title>
+        <info>
+          <PdfNum>98-100</PdfNum>
+          <ebookNum>91-93</ebookNum>
+        </info>
+        <para>故障前该220kV某变电站10kV开关柜运行方式：10kV Ⅰ段母线挂1号主变压器运行，10kVⅡ甲、Ⅱ乙段母线挂2号主变压器运行，10kVⅢ段母线挂3号主变压器运行，母联500、550断路器在热备用状态。</para>
+        <para>2013年3月20日，在对220kV某变电站风灾抢修过程中，发现10kV高压室冒烟，从烟雾冒出位置判断为10kV Ⅱ甲、Ⅱ乙开关柜高压室快速母线保护动作，跳开502乙断路器。进入高压室后发现52乙电压互感器开关柜手车室压力释放装置动作，从开关柜后侧观察窗看见手车室后柜板有3处烧黑痕迹，如图1-1所示，其他10kVⅡ甲、Ⅱ乙开关柜目测正常。待52乙电压互感器间隔转检修后对该间隔进行全面检查，结果如下：</para>
+        <para>（1）52乙电压互感器外表被熏黑，外壳无裂纹及破损，如图 1-2所示；</para>
+        <para>（2）52乙电压互感器避雷器A相表面被熏黑，外表有破损，其他两相表面被熏黑，但由于三相避雷器导电杆被烧融，故不能继续使用，如图1-2所示；</para>
+        <para>（3）52乙电压互感器手车导电臂表面被熏黑，外表无破损，52乙电压互感器手车导电臂与避雷器连接铜牌烧断及变形，三相电压互感器熔断器损坏，如图1-3所示；</para>
+        <para>（4）52乙电压互感器开关柜动、静触头被熏黑，但无烧损，如图1-4、图1-5所示；</para>
+        <para>（5）开关柜静触头挡板、传动连杆及静触头绝缘筒被熏黑，但无损坏；</para>
+        <para>（6）52乙电压互感器开关柜母线室内母线及支持绝缘子无损坏及熏黑，只有小量粉尘，如图1-6所示。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/60f33497-f4c9-4378-96d8-6eaab3848e3b.jpg">
+                <title>图1-1 开关室前后柜板放电点位置一致</title>
+                <ebookNum>92</ebookNum>
+                <PdfNum>99</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/410ab6e4-7d65-49c2-845e-398f4c6e71a6.jpg">
+                <title>图1-2 避雷器及电压互感器</title>
+                <ebookNum>92</ebookNum>
+                <PdfNum>99</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/a094840f-f575-425e-9a82-62837128848e.jpg">
+                <title>图1-3 连接铜排及熔断器图</title>
+                <ebookNum>93</ebookNum>
+                <PdfNum>100</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/b19f02f2-ff40-4a18-800b-d0df8608020e.jpg">
+                <title>图1-4 动触头</title>
+                <ebookNum>93</ebookNum>
+                <PdfNum>100</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/84c77cf1-fa13-4e90-9f48-25e06563ada1.jpg">
+                <title>图1-5 静触头</title>
+                <ebookNum>93</ebookNum>
+                <PdfNum>100</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/c4ec0ef9-2c15-407e-bc90-b47da77000a4.jpg">
+                <title>图1-6 母线室</title>
+                <ebookNum>93</ebookNum>
+                <PdfNum>100</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+      </section>
+      <section>
+        <title>3 故障处理</title>
+        <info>
+          <PdfNum>100-100</PdfNum>
+          <ebookNum>93-93</ebookNum>
+        </info>
+        <para>（1）将52乙电压互感器手车拉出，为配合其他抢修工作，需要先将Ⅱ乙母线送电，该手车未投入运行，待修复。</para>
+        <para>（2）对52乙开关柜进行清洁并对52乙开关柜压力释放装置进行修复，完成后将10kV Ⅱ乙母线送电。</para>
+      </section>
+      <section>
+        <title>4 故障分析</title>
+        <info>
+          <PdfNum>100-101</PdfNum>
+          <ebookNum>93-94</ebookNum>
+        </info>
+        <para>从现场对设备检查情况及保护装置信息推断，52乙电压互感器由于过电压运行，造成52乙电压互感器C相避雷器上接头对柜板放电，电弧热量产生烟雾及金属粉末，造成手车室内绝缘下降，引起其他两相避雷器接头对柜板放电及相间放电，52 乙电压互感器过电压运行是本次故障的主要原因。</para>
+      </section>
+      <section>
+        <title>5 同类型设备情况</title>
+        <info>
+          <PdfNum>101-101</PdfNum>
+          <ebookNum>94-94</ebookNum>
+        </info>
+        <para>该变电站同类型的电压互感器手车还有51、52甲和53电压互感器，自投产以来，未出现过异常故障。在某供电局其他站也有这种类型的电压互感器手车在产期运行，根据它们的运行情况，也未见有规律性的短路故障，本次缺陷属于偶发性缺陷。</para>
+      </section>
+      <section>
+        <title>6 防范措施</title>
+        <info>
+          <PdfNum>101-101</PdfNum>
+          <ebookNum>94-94</ebookNum>
+        </info>
+        <para>为避免由于绝缘距离不足而引起的短路故障，可结合10kV开关柜停电维护的机会，对某站的电压互感器手车进行专项检查，重点查看手车导电部位对外壳的绝缘距离是否满足125mm的要求，如有不满足的，立即进行整改。</para>
+      </section>
+    </chapter>
+    <chapter>
+      <title>2 220kV某变电站7号电容器528断路器缺陷分析</title>
+      <info>
+        <PdfNum>102-105</PdfNum>
+        <ebookNum>95-98</ebookNum>
+      </info>
+      <section>
+        <title>1 设备参数</title>
+        <info>
+          <PdfNum>102-102</PdfNum>
+          <ebookNum>95-95</ebookNum>
+        </info>
+        <para>（1）开关柜型号：ZN28-10Q。</para>
+        <para>（2）操动机构型号：CT19-II。</para>
+        <para>（3）出厂日期：2002年7月。</para>
+        <para>（4）断路器动作次数为：599 次观察此计数器已失效不能正常动作，可以以8号电容器开关动作次数1750次作为参考。</para>
+      </section>
+      <section>
+        <title>2 设备故障情况</title>
+        <info>
+          <PdfNum>102-103</PdfNum>
+          <ebookNum>95-96</ebookNum>
+        </info>
+        <para>2013年该变电站10kV 528断路器在控制屏显示控制回路断线故障信号现场可以手动正常复归，经继电保护人员及开关柜厂家反复处理后（未查到明确的故障原因）开关投入运行，运行一段时间后又出现相同的故障信号，值班员口述开关控制回路断线故障信号及偶尔开关一合就跳现象，开关停电检查发现：</para>
+        <para>（1）打开断路器操动机构面板，检查发现端子（QF-12、QF-15）已虚接在端子排上，如图2-1所示。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/744a090c-ddf5-413e-821a-e3996dc24de4.jpg">
+                <title>图2-1 断开虚接的端子排</title>
+                <ebookNum>95</ebookNum>
+                <PdfNum>102</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>（2）在检查机构时发现位于合闸线圈上方的一颗10cm横向固定螺母松动，检查其他螺母都无松动情况，如图2-2所示。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/46f4f449-766c-43c4-adab-a03875ad0e60.jpg">
+                <title>图2-2 螺母松动情况</title>
+                <ebookNum>96</ebookNum>
+                <PdfNum>103</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>（3）机构内部的凸轮及制子磨损严重，如图2-3所示，在做低电压动作时合闸36V、分闸65V，其中有一次为一合即跳的情况。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/d41276fa-2440-44bf-865d-ba01053fe632.jpg">
+                <title>图2-3 机构内部的凸轮及制子磨损情况</title>
+                <ebookNum>96</ebookNum>
+                <PdfNum>103</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+      </section>
+      <section>
+        <title>3 故障处理</title>
+        <info>
+          <PdfNum>103-104</PdfNum>
+          <ebookNum>96-97</ebookNum>
+        </info>
+        <para>（1）将虚接、断开的端子重新接上端子，并检查机构内部所有端子的接线情况，确保接触稳固、良好。</para>
+        <para>（2）将合闸线圈上方有松动的螺母进行紧固，并检查机构的所有螺母，确保无松动。</para>
+        <para>（3）经过多次反复调整合闸半轴的搭接量，直至螺栓调整至极限不能再调整，把合闸动作电压由原来的36V提升至43V，并进行了30次的分合闸实验，其中又有一次出现了一合即跳的情况。</para>
+      </section>
+      <section>
+        <title>4 故障分析</title>
+        <info>
+          <PdfNum>104-104</PdfNum>
+          <ebookNum>97-97</ebookNum>
+        </info>
+        <para>（1）接线断开的端子QF-12是辅助开关的回路节点，此处断开虚接是导致断路器出现控制回路断线故障信号的主要原因，当断路器在分合闸时由于震动致使回路瞬间断开又接上发出故障信号，在手动复归后断路器又可以正常操作一次，这就是故障信号反复出现而又不稳定的原因，在将端子二次线制作好接线耳装上后反复操作都没有出现控制回路断线故障信号。</para>
+        <para>（2）由于凸轮及制子磨损严重导致机构偶尔无法保持正常动作状态，导致了开关一合即分，这种机械磨损不可修复又不能调整，只能更换操动机构。</para>
+        <para>（3）合闸线圈上方螺栓的松动对机构正常工作影响不是很大。</para>
+      </section>
+      <section>
+        <title>5 同类型设备情况</title>
+        <info>
+          <PdfNum>104-104</PdfNum>
+          <ebookNum>97-97</ebookNum>
+        </info>
+        <para>CT19型机构目前为某供电局XGN柜开关的主要操动机构，其成熟的设计和优越的操动性能使其得到了广泛的应用。但是这种机构属于20世纪90年代的主流产品，到目前为止已运行十多年，机构磨损严重、润滑条件下降、分合闸线圈烧毁等常见缺陷频频发生，加上这种机构非免维护设计，某供电局负荷长期重载运行，设备维护难以做到步步到位，成为这种机构在目前运行中的主要弊病。</para>
+      </section>
+      <section>
+        <title>6 防范措施</title>
+        <info>
+          <PdfNum>104-105</PdfNum>
+          <ebookNum>97-98</ebookNum>
+        </info>
+        <para>（1）对于本528断路器凸轮及制子磨损严重存在偶尔一合即跳的情况不可修复，需要更换操动机构，但在断路器储能后仍能继续合闸，断路器虽然暂时可以运行，但建议尽量少操作。建议尽快订制相同型号操动机构更换，防止开关误动作。</para>
+        <para>（2）对10kV开关柜开展差异化的检修维护策略，重点对CT19这种运行时间较长、结构设计复杂的机构进行定期维护，建议每3年不少于1次，同时，结合停电及消缺工作，对该类型机构进行维护。</para>
+        <para>（3）CT19型机构维护重点在于除锈、添加润滑油，检查分合闸线圈复归弹簧的弹性，检查分合闸半轴的搭接量在1～2mm范围之内，检查分闸油缓冲器的性能情况，并且增加端子排接线情况的检查。</para>
+      </section>
+    </chapter>
+    <chapter>
+      <title>3 110kV某变电站2号主变压器10kV侧5022乙隔离开关及502乙断路器故障及处理情况</title>
+      <info>
+        <PdfNum>106-108</PdfNum>
+        <ebookNum>99-101</ebookNum>
+      </info>
+      <section>
+        <title>1 设备参数</title>
+        <info>
+          <PdfNum>106-106</PdfNum>
+          <ebookNum>99-99</ebookNum>
+        </info>
+        <para>（1）故障设备：5022乙隔离开关及502乙断路器。</para>
+        <para>（2）开关型号：ZN28。</para>
+        <para>（3）隔离开关型号：GN30-10/3150。</para>
+        <para>（4）开关柜型号：XGN。</para>
+        <para>（5）设备生产日期：2000年11月。</para>
+        <para>（6）设备投运日期：2001年5月28日。</para>
+      </section>
+      <section>
+        <title>2 设备故障情况</title>
+        <info>
+          <PdfNum>106-107</PdfNum>
+          <ebookNum>99-100</ebookNum>
+        </info>
+        <para>2010年1月12日17时15分，110kV某变电站2号主变压器低压5022乙隔离开关及502乙断路器故障，导致2号主变压器及10kVⅡ段母线502甲、502乙失压事故。</para>
+        <para>现场检查发现，502断路器及5022隔离开关有严重烧伤痕迹，如图3-1所示。</para>
+        <para>
+          <mediaobject>
+            <imageobject>
+              <imagedata role="0" fileref="Image/cafa1129-7572-4561-b615-a0cc88aeff02.jpg">
+                <title>图3-1 502乙断路器严重烧伤</title>
+                <ebookNum>99</ebookNum>
+                <PdfNum>106</PdfNum>
+              </imagedata>
+            </imageobject>
+          </mediaobject>
+        </para>
+        <para>其中，502断路器的B、C相绝缘拉杆与拐臂连接处已熔断，拐臂与绝缘拉杆的连接销烧熔，5022乙隔离开关下动、静触头有电弧烧伤痕迹，在开关柜的上支架和5022乙隔离开关下动、静触头及开关柜侧封板上布满烟尘。</para>
+      </section>
+      <section>
+        <title>3 故障处理</title>
+        <info>
+          <PdfNum>107-107</PdfNum>
+          <ebookNum>100-100</ebookNum>
+        </info>
+        <para>为减少因事故造成的用户停电时间，经上级指示，工作人员将5022乙隔离开关动触头拆除，与10kV Ⅱ乙段母线隔离，将502乙断路器至5022隔离开关铜排拆除，与2号主变压器及10kV Ⅱ甲段母线隔离，迅速恢复2号主变压器、10kV Ⅱ甲段母线及10kV Ⅱ乙段母线供电。</para>
+        <para>随后，由厂家负责对502乙断路器及5022乙隔离开关进行更换，并对开关柜进行清洁。更换后，对断路器做回路电阻测试，测得A相16μΩ、B相14μΩ、C相16μΩ，最低动作电压为98V，机械特性测量合格，502乙断路器及5022乙隔离开关恢复正常运行。</para>
+      </section>
+      <section>
+        <title>4 故障分析</title>
+        <info>
+          <PdfNum>107-107</PdfNum>
+          <ebookNum>100-100</ebookNum>
+        </info>
+        <para>从故障设备的情况来推断，本起短路故障是由于5022乙隔离开关发热引起的，热量引起A相静触头的触指烧伤并熔化，使动、静触头的接触面积减少，进一步加剧了隔离开关的发热，并引起断路器在上支架拐臂处的三相短路，短路电弧高温烧熔了拐臂与绝缘拉杆的连接销，使绝缘拉杆与拐臂脱落。</para>
+      </section>
+      <section>
+        <title>5 同类型设备情况</title>
+        <info>
+          <PdfNum>107-108</PdfNum>
+          <ebookNum>100-101</ebookNum>
+        </info>
+        <para>该变电站大电流的 GN30 隔离开关还有5011、5022 甲、5033、5501、5502、5001、5002，它们都属于同型号、同厂家的同一批次隔离开关，另外，还有大量的该类型隔离开关在运行，本次故障是由于环境温度高、负荷重、设备老化共同作用引起的，对于同类型的设备，同样存在着负荷电流大、运行温度高的现象，需引起关注。</para>
+      </section>
+      <section>
+        <title>6 防范措施</title>
+        <info>
+          <PdfNum>108-108</PdfNum>
+          <ebookNum>101-101</ebookNum>
+        </info>
+        <para>该厂的开关柜存在严重的家族性缺陷，其发热缺陷不容忽视，需做好以下防范措施：</para>
+        <para>（1）针对运行环境断路器设备老化的情况，综合断路器运行状况，对断路器进行定期的检查维护，如结合预防性试验定期检查，对设备进行清洁，检查断路器的开距、压缩行程及回路电阻，对断路器过电流部分的连接螺栓用力矩扳手进行全面的检查。为改善运行环境，有条件的可以在高压室安装空调，以确保断路器能健康、安全地运行。</para>
+        <para>（2）由于断路器的发热是一个渐进的过程，是一个恶性循环的过程，其发热的温度与电流的增大是非线性的，因此对断路器的运行温度进行在线监测（如在接头加装示温片及进行红外线测温），使断路器的发热消除在萌芽状态。</para>
+        <para>（3）加强该厂断路器及 GN30 隔离开关的验收工作，使验收规范化、标准化。如制定真空断路器的验收标准和验收项目表格，验收过程根据验收项目表格逐项进行验收，对验收的项目进行量化，确保工程验收质量。</para>
+      </section>
+    </chapter>
+    <chapter>
+      <title>4 110kV某变电站4号电容器527断路器爆炸故障处理及分析</title>
+      <info>
+        <PdfNum>109-112</PdfNum>
+        <ebookNum>102-105</ebookNum>
+      </info>
+      <section>
+        <title>1 设备参数</title>
+        <info>
+          <PdfNum>109-109</PdfNum>
+          <ebookNum>102-102</ebookNum>
+        </info>
+        <para>（1）设备型号：ZN28-10Q/1250-31.5。</para>
+        <para>（2）设备参数：额定电流1250A。</para>
+        <para>（3）投产日期：1998年6月17日。</para>
+      </section>
+      <section>
+        <title>2 设备故障情况</title>
+        <info>
+          <PdfNum>109-110</PdfNum>
+          <ebookNum>102-103</ebookNum>
+        </info>
+        <section>
+          <title>2.1 设备故障经过</title>
+          <info>
+            <PdfNum>109-109</PdfNum>
+            <ebookNum>102-102</ebookNum>
+          </info>
+          <para>2011年5月7日7时39分，110kV某变电站在合4号电容器组527断路器时，断路器立即跳闸，527开关保护装置发“限时电流速断保护动作ABC相，I<subscript>b</subscript>=112.95A”信号，反映B相有故障，跳527断路器。随即，次级502乙断路器跳闸，502乙开关保护装置发“Ⅳ段复压闭锁过流保护动作AC相，I<subscript>a</subscript>=35.19A”“母线保护动作AC相，I<subscript>a</subscript>=35.19A”信号，反映母线差动保护范围内有故障，跳502乙断路器。事故造成10kV Ⅱ乙段母线失压。随后，经值班员检查发现，故障点在527断路器真空泡处，便迅速隔离527断路器，及时恢复Ⅱ乙段母线运行。</para>
+        </section>
+        <section>
+          <title>2.2 设备检查情况</title>
+          <info>
+            <PdfNum>109-110</PdfNum>
+            <ebookNum>102-103</ebookNum>
+          </info>
+          <para>发生故障的4号电容器组的开关柜为XGN型，开关型号为ZN28-10Q，搭配CT19操动机构，于1998年6月投运至今。对故障现场进行检查和分析发现：</para>
+          <para>（1）真空断路器上支架有明显的三相短路痕迹，各相的真空泡外壁都有不同程度的损伤，其中A、C相爆裂，B相有裂纹（相真空泡外壁炸裂如图4-1所示）。</para>
+          <para>（2）拆下开关连接母排后发现，真空泡上支架接触面处三相都有明显的灼伤痕迹（如图4-2所示），而下接触面完好。由此可见，短路点在真空泡上支架连线处，短路时开关已跳闸，巨大的短路电流只灼伤了上支架接触面。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="0" fileref="Image/41e169a6-f762-4607-859a-64ab7d1af33e.jpg">
+                  <title>图4-1 相真空泡外壁炸裂图片</title>
+                  <ebookNum>103</ebookNum>
+                  <PdfNum>110</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="0" fileref="Image/7b51938c-6854-4682-b750-4287c8346d6d.jpg">
+                  <title>图4-2 上支架接触面灼伤图片</title>
+                  <ebookNum>103</ebookNum>
+                  <PdfNum>110</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>（3）敲碎真空泡的外壁进行内部检查，发现C相内部的触头、真空罩烧伤严重（如图4-3 所示），而 A、B 相完好。由此可知，C相灭弧室是电弧从里面烧伤的，A、B相真空泡外壁则是从外部烧伤的。</para>
+          <para>（4）开关机构指示该断路器在分位，通过测量开距点、敲碎真空泡观察触头位置也证实断路器在分位，由此可知，断路器跳闸成功。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="0" fileref="Image/ee8d07e0-533d-43f1-b4be-3794eaf0673f.jpg">
+                  <title>图4-3 C相内部的触头、真空罩烧伤图片</title>
+                  <ebookNum>103</ebookNum>
+                  <PdfNum>110</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>（5）检查电容器组，发现B相B14的熔丝熔断，测量容值及进行耐压试验均合格。</para>
+        </section>
+      </section>
+      <section>
+        <title>3 故障处理</title>
+        <info>
+          <PdfNum>110-111</PdfNum>
+          <ebookNum>103-104</ebookNum>
+        </info>
+        <para>故障发生后，检修人员立即采取抢修措施，以尽快恢复母线送电：</para>
+        <para>（1）更换5272隔离开关下侧三相静触头，动触头检查无损伤，进行相应的维护处理。</para>
+        <para>（2）拆除损毁严重的527断路器，重新更换一台新的527断路器，并进行相应的机械特性测试，分合闸时间、弹跳、不同期等测试项目合格，开关机构性能检查合格。</para>
+        <para>（3）重新制作527断路器至5272隔离开关静触头的连接母排，并按力矩标准进行紧固安装。</para>
+        <para>（4）更换操动机构至小母线室的二次连线。</para>
+        <para>（5）清洁整个527开关柜内部，抹掉熏黑的烟尘，扫除各处散落的瓷、金属碎片，并整体上对开关柜进行维护。</para>
+      </section>
+      <section>
+        <title>4 故障分析</title>
+        <info>
+          <PdfNum>111-111</PdfNum>
+          <ebookNum>104-104</ebookNum>
+        </info>
+        <para>电容器组在送电时，因B14熔丝熔断而产生差动电流，该电容器组采用的差动电流保护动作，使断路器立即跳闸。在分闸的过程中，C相真空泡因未能熄灭电弧（从内部严重烧伤可知），导致灭弧室爆炸，并引起上支架处三相断路。据故障录波可知，当时断路电流为24kA，巨大的断路电流导致上支架接触面灼伤，并从外部烧伤 A、B 相真空泡，但未能破坏其内部。</para>
+        <para>可以明确，事故是从C相真空泡未能有效灭弧开始的，且根据断路器在分位可知，真空泡未能熄灭的是跳闸时的电弧。造成灭弧失败的可能原因有：① 真空度下降；② 分闸时触头反弹幅值过大。</para>
+        <para>该断路器在2009年做了耐压试验并合格，由此可见，分闸时触头反弹幅值过大引起灭弧失败的概率较大。另外，电容器通过的是容性电流，根据灭弧的特性，真空断路器熄灭容性电流要比熄灭感性电流困难得多。</para>
+      </section>
+      <section>
+        <title>5 同类型设备情况</title>
+        <info>
+          <PdfNum>111-112</PdfNum>
+          <ebookNum>104-105</ebookNum>
+        </info>
+        <para>某供电局大量的XGN柜采用了该ZN28-10Q型断路器，它属于20世纪90年代初的主流产品，经过十多年的生产运行，该断路器普遍出现了机构磨损严重、润滑条件下降、分合闸线圈烧毁等常见缺陷。加上这种机构非免维护设计，某局负荷长期重载运行，设备维护难以做到步步到位，成为这种机构在目前运行中的主要弊病。</para>
+      </section>
+      <section>
+        <title>6 防范措施</title>
+        <info>
+          <PdfNum>112-112</PdfNum>
+          <ebookNum>105-105</ebookNum>
+        </info>
+        <para>（1）针对电容器开关目前的运行状况进行综合评估，尤其是投产超过一定年限的。真空断路器正常操作的机械寿命、电气寿命都为10 000次，此电容器开关运行13年（截至故障发生时），以平均每天操作3次计算，分合次数已达3×365×13=14 235次，远超过了规定的次数。另外，目前有很多计数器已经损坏，需要进行调查和处理，以获得准确数据，为设备评估作参考。</para>
+        <para>（2）做机械特性测试时除常规项目外，还应重点包括分闸反弹项目。</para>
+        <para>（3）检查缓冲器的性能状况。缓冲器的作用是吸收开关分闸时过剩的能量，否则分闸拐臂会与机构发生硬性碰撞，这是导致触头反弹的主要原因。由于运行的时间过长，且缺乏维护，部分缓冲器已失效，因此必须要认真地检查与维护，确保其功效良好。</para>
+        <para>（4）重视灭弧室的真空度测试。根据相关试验规程规定，电容器开关灭弧室真空度的测量周期为3年一次。虽然目前可通过耐压试验来代替，但耐压试验只是定性，不能定量反映真空度，即在真空度临近不合格时，耐压试验同样可以通过，却不能反映真空度已临近不合格这一状况，此时，分闸操作如果再诱以触头反弹过大等因素，就会造成灭弧失败的事故。</para>
+        <para>（5）测量回路电阻值，主要是检测动、静触头的接触情况。</para>
+      </section>
+    </chapter>
+    <chapter>
+      <title>5 110kV某变电站3号电容器526断路器控制回路断线分析</title>
+      <info>
+        <PdfNum>113-115</PdfNum>
+        <ebookNum>106-108</ebookNum>
+      </info>
+      <section>
+        <title>1 设备参数</title>
+        <info>
+          <PdfNum>113-113</PdfNum>
+          <ebookNum>106-106</ebookNum>
+        </info>
+        <para>（1）设备名称：110kV某变电站3号电容器526断路器控制回路断线。</para>
+        <para>（2）设备类别：断路器类。</para>
+        <para>（3）设备型号：VK-1212B32。</para>
+        <para>（4）出厂日期：2005年12月。</para>
+      </section>
+      <section>
+        <title>2 设备故障情况</title>
+        <info>
+          <PdfNum>113-113</PdfNum>
+          <ebookNum>106-106</ebookNum>
+        </info>
+        <section>
+          <title>2.1 设备故障经过</title>
+          <info>
+            <PdfNum>113-113</PdfNum>
+            <ebookNum>106-106</ebookNum>
+          </info>
+          <para>2012年4月28日，值班员在投退电容器操作时，手车在工作位置，分闸操作后，3号电容器组526断路器保护装置显示“控制回路断线”。值班员现场手动摇出开关手车，再摇入开关手车，“控制回路断线”信号消失。</para>
+        </section>
+        <section>
+          <title>2.2 设备检查情况</title>
+          <info>
+            <PdfNum>113-113</PdfNum>
+            <ebookNum>106-106</ebookNum>
+          </info>
+          <para>故障出现时手车在工作位置，分闸操作后，3号电容器组526断路器保护装置显示“控制回路断线”。到现场后对设备缺陷情况进行分析，故障出现的时间节点是手车在工作位置，经过分闸操作后，初步推断是合闸回路故障，并对以下几点进行检查：</para>
+          <para>（1）二次回路导线断路或接触不良；</para>
+          <para>（2）断路器分合闸时受震动影响；</para>
+          <para>（3）辅助触点微动断路器故障；</para>
+          <para>（4）机械零件破损。</para>
+        </section>
+      </section>
+      <section>
+        <title>3 故障处理</title>
+        <info>
+          <PdfNum>113-114</PdfNum>
+          <ebookNum>106-107</ebookNum>
+        </info>
+        <para>从4号电容器527断路器中拆除闭锁线圈支架装在3号电容器526断路器中。4号电容器527断路器退出备用。3号电容器526断路器验收后投入运行。</para>
+      </section>
+      <section>
+        <title>4 故障分析</title>
+        <info>
+          <PdfNum>114-114</PdfNum>
+          <ebookNum>107-107</ebookNum>
+        </info>
+        <para>依据设备以上检查情况进行以下缺陷分析：</para>
+        <para>（1）用万能表测量每条导线电阻，未发现导线断路或接触不良。初步排除导线断路或接触不良引起控制回路断线。</para>
+        <para>（2）手车摇到试验位置，手摇储能，手动分合闸。测量断路器控制回路是否通路。手动分闸和合闸过程中用手锤敲击施加震动，测量未见控制回路断路。初步排除手车分合闸过程中震动引起控制回路断路。</para>
+        <para>（3）手车摇到试验位置，手摇储能，接通控制电源，电动分合闸。线圈动作带动辅助触点微动开关动作，测量微动开关接通、断开状态正常。初步排除辅助触点微动开关故障引起控制回路断线。</para>
+        <para>（4）手车摇到试验位置，手摇储能，接通控制电源，手动分合闸。在分合闸过程中发现闭锁线圈支架有轻微松动，经检查发现闭锁线圈支架连接处有裂纹。反复进行手动分合闸测试，发现闭锁线圈偶尔出现与支架卡塞的情况，不能接通闭锁线圈微动开关，导致控制回路断路。</para>
+        <para>经过初步缺陷分析确定，由于闭锁线圈支架连接处有裂纹，支架松动、形变，导致闭锁线圈动作时与支架卡塞，不能接通闭锁线圈辅助触点的微动开关，导致控制回路断路。同时由于连接处过于单薄，机械强度不足，导致连接处出现裂纹。</para>
+      </section>
+      <section>
+        <title>5 同类型设备情况</title>
+        <info>
+          <PdfNum>114-114</PdfNum>
+          <ebookNum>107-107</ebookNum>
+        </info>
+        <para>该变电站总共有51台此种断路器。该开关柜投运于2008年8月5日，断路器型号为VK-1212B32。</para>
+        <para>暂时发现4号电容器527断路器、5号电容器536断路器出现同类型的缺陷，其他断路器设备运行情况良好。</para>
+      </section>
+      <section>
+        <title>6 防范措施</title>
+        <info>
+          <PdfNum>115-115</PdfNum>
+          <ebookNum>108-108</ebookNum>
+        </info>
+        <para>（1）措施建议：厂家发货补充备件，包括闭锁线圈支架、闭锁线圈、辅助触点微动开关、储能开关。</para>
+        <para>（2）整改措施建议：重新设计闭锁线圈支架，增加支架机械强度。支架配套安装螺栓换为内六角螺栓，以方便安装。</para>
+      </section>
+    </chapter>
+    <chapter>
+      <title>6 110kV某变电站503断路器发热分析</title>
+      <info>
+        <PdfNum>116-120</PdfNum>
+        <ebookNum>109-113</ebookNum>
+      </info>
+      <section>
+        <title>1 设备参数</title>
+        <info>
+          <PdfNum>116-116</PdfNum>
+          <ebookNum>109-109</ebookNum>
+        </info>
+        <para>（1）设备名称：3号主变压器10kV侧503断路器。</para>
+        <para>（2）设备类别：断路器类。</para>
+        <para>（3）设备型号：ZN28-10Q。</para>
+        <para>（4）设备参数：额定电压10kV，额定电流3150A。</para>
+        <para>（5）出厂日期：1997年1月。</para>
+      </section>
+      <section>
+        <title>2 设备故障情况</title>
+        <info>
+          <PdfNum>116-119</PdfNum>
+          <ebookNum>109-112</ebookNum>
+        </info>
+        <section>
+          <title>2.1 设备故障经过</title>
+          <info>
+            <PdfNum>116-117</PdfNum>
+            <ebookNum>109-110</ebookNum>
+          </info>
+          <para>2012年5 月 9 日，工作人员针对该类开关柜进行红外测温。在对110kV某变电站3号主变压器10kV侧503开关柜进行红外测温时，工作人员发现503断路器A相上支架铜排搭接面发热温度为88.34℃；B相上支架铜排搭接面发热温度为75℃，C相上支架铜排搭接面发热温度为127.97℃，当时运行电流为2030A。测温图如图6-1、图6-2所示。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="0" fileref="Image/c577d185-99f9-4ab4-93a4-42c01de9cf95.jpg">
+                  <title>图6-1 503断路器A相上支架铜排搭接面</title>
+                  <ebookNum>109</ebookNum>
+                  <PdfNum>116</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="0" fileref="Image/a684fe04-f5cf-4bb7-8962-ebf9f0b4f62c.jpg">
+                  <title>图6-2 503断路器C相上支架铜排搭接面</title>
+                  <ebookNum>109</ebookNum>
+                  <PdfNum>116</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>根据DL/T 664—2008《带电设备红外诊断应用规范》（见表6-1）中的“电气设备与金属部件的连接”热点温度＞110℃或δ≥95%，判断为紧急缺陷。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="2" fileref="Image/0e624528-512f-4e65-8e42-8a7ece6eeff7.jpg">
+                  <title>表6-1 带电设备红外诊断应用规范</title>
+                  <tabledesc>序号部位一般缺陷重大缺陷紧急缺陷1电气设备与金属部件的连接温差不超过15K，未达到严重缺陷的要求热点温度＞80℃或δ≥80%热点温度＞110℃或δ≥95%2金属部件与金属部件的连接温差不超过15K，未达到严重缺陷的要求热点温度＞90℃或δ≥80%热点温度＞130℃或δ≥95%</tabledesc>
+                  <ebookNum>110</ebookNum>
+                  <PdfNum>117</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+        </section>
+        <section>
+          <title>2.2 设备检查情况（包括外观检查、内部检查等）</title>
+          <info>
+            <PdfNum>117-118</PdfNum>
+            <ebookNum>110-111</ebookNum>
+          </info>
+          <section>
+            <title>2.2.1 力矩检查</title>
+            <info>
+              <PdfNum>117-117</PdfNum>
+              <ebookNum>110-110</ebookNum>
+            </info>
+            <para>拆卸前，工作人员对503断路器真空灭弧室动支架紧固螺栓进行力矩检查。当时现场检查发现断路器的上导电支架与铜排连接的螺栓采用的是4.8级M12的螺栓，其紧固力矩在31.4～39.2N·m之间，远远不能达到运行的要求，造成接触面的压力不够，接触电阻增大。紧固螺栓的力矩大小直接影响接触面的压力大小，接触面压力大小F对接触电阻R<subscript>c </subscript>有重要影响。根据接触电阻计算的经验公式</para>
+            <para align="center">
+              <mediaobject>
+                <imageobject>
+                  <imagedata role="1" fileref="Image/710023e2-1b54-4d59-994b-07b8bbb10913.jpg">
+                    <ebookNum>110</ebookNum>
+                    <PdfNum>117</PdfNum>
+                  </imagedata>
+                </imageobject>
+              </mediaobject>
+            </para>
+            <para>式中 F———接触压力；</para>
+            <para>m———与接触形式有关的系数；</para>
+            <para>K<subscript>c</subscript>———与接触材料、表面情况、接触方式有关的系数。</para>
+            <para>由此可见，压力变小，接触电阻将会增大，从而造成设备发热严重。因此，造成这次某站503断路器A、C相发热的原因之一是503断路器真空灭弧室C相动支架搭接面的紧固螺栓选型不当，达不到力矩要求。因此，工作人员决定在重新安装真空灭弧室时，按照工艺要求对支架紧固螺栓重新打力矩并加大力矩要求。</para>
+          </section>
+          <section>
+            <title>2.2.2 透光法检查接触面平整度</title>
+            <info>
+              <PdfNum>117-118</PdfNum>
+              <ebookNum>110-111</ebookNum>
+            </info>
+            <para>通过透光法可以发现，真空灭弧室与动支架搭接面处存在不平整，主要表现在真空灭弧室接触面四周出现微小突起和边缘油漆有小量渗入，如图6-3所示。</para>
+            <para>这些突起和油漆造成动支架搭接面不能紧密接触，造成接触电阻增大，导致负荷较大时，设备发热严重。这也是导致这次设备缺陷的原因之一。</para>
+            <para>
+              <mediaobject>
+                <imageobject>
+                  <imagedata role="0" fileref="Image/25edecfd-e60b-4c7b-95a3-b01c8e4860f7.jpg">
+                    <title>图6-3 表面突起和油漆</title>
+                    <ebookNum>111</ebookNum>
+                    <PdfNum>118</PdfNum>
+                  </imagedata>
+                </imageobject>
+              </mediaobject>
+            </para>
+            <para>针对这个原因，工作人员对设备接触面进行了修整处理。</para>
+            <para>此外，工作人员发现铜排螺孔边缘没有倒角，螺孔周围有突起的铜屑，使接触面不能紧密接触，也是造成这次503断路器发热的原因之一。工作人员对铜排螺孔进行加工处理，在螺孔边缘加工倒角，以消除缺陷。</para>
+          </section>
+          <section>
+            <title>2.2.3 接触面外观检查</title>
+            <info>
+              <PdfNum>118-118</PdfNum>
+              <ebookNum>111-111</ebookNum>
+            </info>
+            <para>503断路器接触面虽不与空气相接触，但周围空气中的氧气分子会从接触点周围逐渐入侵，容易在接触面表面形成氧化物。这样会使接触面积减小，使接触电阻增加。从现场情况可以看出，上支架搭接面表面上出现氧化，如图6-4所示。</para>
+            <para>
+              <mediaobject>
+                <imageobject>
+                  <imagedata role="0" fileref="Image/974d1f91-356c-441f-9735-d88181915ce9.jpg">
+                    <title>图6-4 接触面氧化情况</title>
+                    <ebookNum>111</ebookNum>
+                    <PdfNum>118</PdfNum>
+                  </imagedata>
+                </imageobject>
+              </mediaobject>
+            </para>
+          </section>
+        </section>
+        <section>
+          <title>2.3 设备试验情况（故障前）</title>
+          <info>
+            <PdfNum>118-119</PdfNum>
+            <ebookNum>111-112</ebookNum>
+          </info>
+          <para>现场回路电阻测试数据见表6-2。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="2" fileref="Image/6be0195c-8f7f-446b-8c92-931edaf55560.jpg">
+                  <title>表6-2 现场回路电阻测试数据</title>
+                  <tabledesc>测量部位上支架搭接面下支架搭接面回路电阻阻值（μΩ）A相12.34.034.7B相11.94.634.2C相26.22.139.7</tabledesc>
+                  <ebookNum>112</ebookNum>
+                  <PdfNum>119</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+        </section>
+      </section>
+      <section>
+        <title>3 故障处理</title>
+        <info>
+          <PdfNum>119-119</PdfNum>
+          <ebookNum>112-112</ebookNum>
+        </info>
+        <section>
+          <title>3.1 接触面平整度处理</title>
+          <info>
+            <PdfNum>119-119</PdfNum>
+            <ebookNum>112-112</ebookNum>
+          </info>
+          <para>针对接触面边缘不平整的情况，现场工作人员对各接触面不平整部分进行修整，并利用圆挫对螺孔进行倒角的加工处理，使其接触更加紧密，减小接触电阻。</para>
+        </section>
+        <section>
+          <title>3.2 接触面氧化物处理</title>
+          <info>
+            <PdfNum>119-119</PdfNum>
+            <ebookNum>112-112</ebookNum>
+          </info>
+          <para>针对这一情况，现场工作人员在A、C相搭接铜排拆卸后，对其各接触面进行清理。</para>
+        </section>
+        <section>
+          <title>3.3 力矩不足处理</title>
+          <info>
+            <PdfNum>119-119</PdfNum>
+            <ebookNum>112-112</ebookNum>
+          </info>
+          <para>接触面处理后，现场工作人员对设备重新进行安装，并按技术要求对其螺栓重新打力矩，以确保接触面压力充足，减小接触电阻。安装完成后，为确保检修效果，现场工作人员再次对断路器进行回路电阻测试，并在设备重新投入运行后对其进行红外测温，确保处理后效果。</para>
+        </section>
+      </section>
+      <section>
+        <title>4 故障分析</title>
+        <info>
+          <PdfNum>119-119</PdfNum>
+          <ebookNum>112-112</ebookNum>
+        </info>
+        <para>针对以上设备故障检查及处理情况，分析设备发热是由以下三个方面的原因造成的：</para>
+        <para>（1）接触面不平整导致接触不良。</para>
+        <para>（2）接触面氧化使接触电阻增大。</para>
+        <para>（3）力矩不足致使接触电阻增大。</para>
+      </section>
+      <section>
+        <title>5 同类型设备情况</title>
+        <info>
+          <PdfNum>119-120</PdfNum>
+          <ebookNum>112-113</ebookNum>
+        </info>
+        <para>15个变电站共31段母线10kV开关柜设备生产日期在1997～2009年不等，缺陷主要发生在运行时间较长、负荷较重的设备上，如A变电站503断路器发热缺陷、B变电站516断路器线圈故障缺陷等。</para>
+      </section>
+      <section>
+        <title>6 防范措施</title>
+        <info>
+          <PdfNum>120-120</PdfNum>
+          <ebookNum>113-113</ebookNum>
+        </info>
+        <section>
+          <title>6.1 巡检中心运行人员巡视检查方面</title>
+          <info>
+            <PdfNum>120-120</PdfNum>
+            <ebookNum>113-113</ebookNum>
+          </info>
+          <para>（1）对ZN28-10Q/3150 型断路器运行数据信息进行全面监控及汇总分析，当设备的运行负荷电流达到或超过2000A时，必须每周安排人员对设备进行红外线测温，同时，如果设备的负荷电流变化增大超过额定电流的10%时，必须安排人员对设备进行红外线测温，及时了解设备发热情况。设备运行温度达到100℃及以上时应及时上报检修分部。</para>
+          <para>（2）改善设备的运行环境，检查开关柜柜内的通风风扇及高压室排气扇运转是否正常，当高压室内现场运行环境温度达到或超过45°时，必须及时上报运行分部，申请高压室加装空调设施，确保设备在良好的环境下运行。</para>
+          <para>（3）根据设备的月度停电计划，在设备停电前一周对设备进行红外线测温，并将测温结果上报。</para>
+        </section>
+        <section>
+          <title>6.2 检修专业设备管理方面</title>
+          <info>
+            <PdfNum>120-120</PdfNum>
+            <ebookNum>113-113</ebookNum>
+          </info>
+          <para>检修人员应及时了解设备的运行情况，结合停电前运行人员对设备红外线测温的图谱进行综合评估分析，对设备进行专项检查维护，及时发现设备缺陷，使断路器的发热消除在萌芽状态。</para>
+        </section>
+      </section>
+    </chapter>
+    <chapter>
+      <title>7 110kV某变电站1号主变压器10KV侧母线桥发热缺陷分析</title>
+      <info>
+        <PdfNum>121-124</PdfNum>
+        <ebookNum>114-117</ebookNum>
+      </info>
+      <section>
+        <title>1 设备参数</title>
+        <info>
+          <PdfNum>121-121</PdfNum>
+          <ebookNum>114-114</ebookNum>
+        </info>
+        <para>（1）设备名称：1号主变压器10kV侧母线桥软连接。</para>
+        <para>（2）设备类别：导体类。</para>
+        <para>（3）投运日期：2004年4月7日。</para>
+      </section>
+      <section>
+        <title>2 设备故障情况</title>
+        <info>
+          <PdfNum>121-123</PdfNum>
+          <ebookNum>114-116</ebookNum>
+        </info>
+        <section>
+          <title>2.1 设备故障经过</title>
+          <info>
+            <PdfNum>121-122</PdfNum>
+            <ebookNum>114-115</ebookNum>
+          </info>
+          <para>110kV某变电站1号主压器10kV侧母线桥A相软连接处测温发现为153℃，测温时间是5月29日16时30分，当时负荷为2600A，环境温度为31℃。测温图如图7-1所示。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="0" fileref="Image/386cb0d8-d2c3-4d58-bbcd-633352c10e1a.jpg">
+                  <title>图7-1 1号主变压器10kV侧母线桥软连接测温图</title>
+                  <ebookNum>114</ebookNum>
+                  <PdfNum>121</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+          <para>根据DL/T 664—2008带电设备红外诊断应用规范中的“电气设备与金属部件的连接”热点温度＞110℃或δ≥95%，判断为紧急缺陷。</para>
+        </section>
+        <section>
+          <title>2.2 设备检查情况（包括外观检查、内部检查等）</title>
+          <info>
+            <PdfNum>122-123</PdfNum>
+            <ebookNum>115-116</ebookNum>
+          </info>
+          <section>
+            <title>2.2.1 设备试验情况</title>
+            <info>
+              <PdfNum>122-122</PdfNum>
+              <ebookNum>115-115</ebookNum>
+            </info>
+            <para>现场对软连接进行回路电阻测试，测试数据见表7-1。</para>
+            <para>
+              <mediaobject>
+                <imageobject>
+                  <imagedata role="2" fileref="Image/61be096d-eb98-44aa-bad3-982393950036.jpg">
+                    <title>表7-1 回路电阻测试数据（故障前）</title>
+                    <tabledesc>测量部位A相B相C相阻值（μΩ）21.848.5101.3</tabledesc>
+                    <ebookNum>115</ebookNum>
+                    <PdfNum>122</PdfNum>
+                  </imagedata>
+                </imageobject>
+              </mediaobject>
+            </para>
+          </section>
+          <section>
+            <title>2.2.2 力矩检查</title>
+            <info>
+              <PdfNum>122-122</PdfNum>
+              <ebookNum>115-115</ebookNum>
+            </info>
+            <para>拆卸前，工作人员对1号主变压器10kV侧母线桥软连接紧固螺栓进行力矩检查。当时现场检查发现软连接使用的是4.8级M16的镀锌螺栓，其紧固力矩在80～90N·m之间。软连接螺栓力矩检查情况见表7-2。</para>
+            <para>
+              <mediaobject>
+                <imageobject>
+                  <imagedata role="2" fileref="Image/a2b03d44-cf19-4472-a1f3-b7cc1eaffbee.jpg">
+                    <title>表7-2 软连接螺栓力矩检查情况</title>
+                    <tabledesc>力矩（N·m）A相B相C相编号123412341234主变压器侧595959596060606060605960母线侧909090909059807072807069</tabledesc>
+                    <ebookNum>115</ebookNum>
+                    <PdfNum>122</PdfNum>
+                  </imagedata>
+                </imageobject>
+              </mediaobject>
+            </para>
+            <para>由此可见，压力变小，接触电阻将会增大。现场检查结果发现，软连接紧固螺栓部分未达到要求力矩，导体接触电阻分布不平均，从而造成设备发热严重。</para>
+          </section>
+          <section>
+            <title>2.2.3 外观检查情况</title>
+            <info>
+              <PdfNum>122-122</PdfNum>
+              <ebookNum>115-115</ebookNum>
+            </info>
+            <para>工作人员对软连接进行拆卸，发现有部分导电膏粘附在软连接与母线搭接处，并且导电膏已经呈固态，如图7-2所示。</para>
+          </section>
+          <section>
+            <title>2.2.4 接触面平整度检查</title>
+            <info>
+              <PdfNum>122-123</PdfNum>
+              <ebookNum>115-116</ebookNum>
+            </info>
+            <para>由于紧固螺栓力矩不平均，工作人员怀疑接触面有所变形，用透光法对接触面进行检查，发现接触面有不平整现象。</para>
+            <para>
+              <mediaobject>
+                <imageobject>
+                  <imagedata role="0" fileref="Image/5c8435a0-866a-4531-ba65-1a5515dee603.jpg">
+                    <title>图7-2 软连接与母线搭接处情况</title>
+                    <ebookNum>116</ebookNum>
+                    <PdfNum>123</PdfNum>
+                  </imagedata>
+                </imageobject>
+              </mediaobject>
+            </para>
+          </section>
+        </section>
+      </section>
+      <section>
+        <title>3 故障处理</title>
+        <info>
+          <PdfNum>123-123</PdfNum>
+          <ebookNum>116-116</ebookNum>
+        </info>
+        <section>
+          <title>3.1 接触面平整度处理</title>
+          <info>
+            <PdfNum>123-123</PdfNum>
+            <ebookNum>116-116</ebookNum>
+          </info>
+          <para>针对接触面不平整的情况，现场工作人员对各接触面不平整部分进行修整，并利用圆挫对螺孔进行倒角的加工处理，使其接触更加紧密，减小接触电阻。</para>
+        </section>
+        <section>
+          <title>3.2 接触面导电膏处理</title>
+          <info>
+            <PdfNum>123-123</PdfNum>
+            <ebookNum>116-116</ebookNum>
+          </info>
+          <para>针对这一情况，现场工作人员对软连接及母线搭接面进行打磨处理，将导电膏清理干净。打磨处理后在接触面涂抹凡士林。</para>
+        </section>
+        <section>
+          <title>3.3 力矩不足处理</title>
+          <info>
+            <PdfNum>123-123</PdfNum>
+            <ebookNum>116-116</ebookNum>
+          </info>
+          <para>接触面处理后，现场工作人员对软连接重新进行安装，并按技术要求对所有螺栓重新打力矩（90N·m），以确保接触面压力充足，减小接触电阻。安装完成后，为确保检修效果，现场工作人员再次对断路器进行回路电阻测试，并在设备重新投入运行后对其进行红外测温，确保处理后效果。处理后的回路电阻测试数据见表7-3。</para>
+          <para>
+            <mediaobject>
+              <imageobject>
+                <imagedata role="2" fileref="Image/d4856d48-4767-48cb-bf31-f15c05b8a277.jpg">
+                  <title>表7-3 回路电阻测试数据（处理后）</title>
+                  <tabledesc>测量部位A相B相C相阻值（μΩ）3.56.14.6</tabledesc>
+                  <ebookNum>116</ebookNum>
+                  <PdfNum>123</PdfNum>
+                </imagedata>
+              </imageobject>
+            </mediaobject>
+          </para>
+        </section>
+      </section>
+      <section>
+        <title>4 故障分析</title>
+        <info>
+          <PdfNum>124-124</PdfNum>
+          <ebookNum>117-117</ebookNum>
+        </info>
+        <para>（1）力矩不足致使接触电阻增大。</para>
+        <para>（2）接触面使用导电膏，导电膏硬化导致接触电阻增大。</para>
+        <para>（3）接触面不平整导致接触不良。</para>
+      </section>
+      <section>
+        <title>5 防范措施</title>
+        <info>
+          <PdfNum>124-124</PdfNum>
+          <ebookNum>117-117</ebookNum>
+        </info>
+        <section>
+          <title>5.1 巡检中心运行人员巡视检查方面</title>
+          <info>
+            <PdfNum>124-124</PdfNum>
+            <ebookNum>117-117</ebookNum>
+          </info>
+          <para>（1）在负荷高峰时须每周安排人员对设备进行红外线测温。同时，如果设备的负荷电流变化增大超过额定电流的10%时，必须安排人员对设备进行红外线测温，及时了解设备发热情况。设备运行温度达到100℃及以上时应及时上报检修分部。</para>
+          <para>（2）根据设备的月度停电计划，在设备停电前一周对设备进行红外线测温，并将测温结果上报。</para>
+        </section>
+        <section>
+          <title>5.2 检修专业设备管理方面</title>
+          <info>
+            <PdfNum>124-124</PdfNum>
+            <ebookNum>117-117</ebookNum>
+          </info>
+          <para>检修人员应及时了解设备的运行情况，结合停电前运行人员对设备红外线测温的图谱进行综合评估分析，对设备进行专项检查维护，及时发现设备缺陷，使设备发热消除在萌芽状态。</para>
+        </section>
+      </section>
+    </chapter>
+  </part>
+</book>
